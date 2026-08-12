@@ -1,0 +1,2001 @@
+CarID,Brand,Model,Country,PlantLocation,YearOfManufacture,FuelType,Transmission,Segment,UnitsProduced,AverageCostPerUnit,TotalProductionCost,ElectricVehicle,DefectRate(%)
+C0001,Honda,3 Series,USA,Munich,2016,Hybrid,Automatic,SUV,4456,14782,65868592,No,3.16
+C0002,Tesla,A-Class,India,São Paulo,2013,Diesel,Automatic,Truck,72589,71196,5168046444,No,0.84
+C0003,Nissan,Passat,USA,Detroit,2018,Electric,Automatic,Coupe,2865,36315,104042475,Yes,2.23
+C0004,Hyundai,Altima,USA,Munich,2017,Hybrid,Automatic,Truck,72704,20052,1457860608,No,1.43
+C0005,Honda,Model X,China,Detroit,2021,Diesel,Automatic,Truck,5500,29521,162365500,No,3.46
+C0006,Kia,Passat,Mexico,Nagoya,2010,Petrol,Manual,Hatchback,57572,79434,4573174248,No,1.73
+C0007,BMW,Optima,Brazil,Seoul,2011,Hybrid,Manual,Coupe,52999,79690,4223490310,No,0.88
+C0008,Honda,Civic,South Korea,Chennai,2022,Electric,Automatic,Sedan,69711,45546,3175057206,Yes,1.4
+C0009,Nissan,Elantra,China,Shanghai,2024,Petrol,Automatic,Crossover,13407,35972,482276604,No,2.32
+C0010,Hyundai,3 Series,UK,Chennai,2022,Diesel,Automatic,Hatchback,17836,74385,1326730860,No,0.36
+C0011,Tesla,A-Class,China,Nagoya,2011,Hybrid,Automatic,Coupe,52831,32030,1692176930,No,2.15
+C0012,Nissan,3 Series,France,Munich,2021,Hybrid,Automatic,SUV,78255,50376,3942173880,No,3.27
+C0013,Nissan,Passat,South Korea,Nagoya,2021,Electric,Automatic,Crossover,69283,28055,1943734565,Yes,2.99
+C0014,BMW,Elantra,Japan,Chennai,2020,Petrol,Automatic,Crossover,70451,35493,2500517343,No,0.33
+C0015,Mercedes,Optima,UK,Chennai,2024,Hybrid,Automatic,Hatchback,53009,46775,2479495975,No,3.48
+C0016,Hyundai,Mustang,Germany,Shanghai,2024,Hybrid,Automatic,SUV,6972,61057,425689404,No,2.48
+C0017,Ford,Model X,China,Paris,2017,Petrol,Automatic,Hatchback,22880,46253,1058268640,No,0.65
+C0018,Nissan,Elantra,USA,Monterrey,2024,Hybrid,Automatic,Truck,27780,61884,1719137520,No,0.14
+C0019,Mercedes,Civic,Brazil,Nagoya,2010,Petrol,Automatic,Coupe,22359,27705,619456095,No,0.68
+C0020,Ford,Altima,Japan,Seoul,2013,Petrol,Manual,SUV,48902,54676,2673765752,No,2.95
+C0021,Hyundai,Optima,China,Monterrey,2019,Petrol,Automatic,Crossover,8762,17101,149838962,No,0.17
+C0022,Toyota,Model X,China,Nagoya,2021,Electric,Manual,Hatchback,11566,72495,838477170,Yes,0.89
+C0023,Kia,A-Class,India,São Paulo,2014,Petrol,Automatic,Crossover,16054,14743,236684122,No,2.67
+C0024,Mercedes,Altima,India,London,2018,Petrol,Automatic,SUV,7508,18951,142284108,No,2.09
+C0025,Volkswagen,Passat,Japan,London,2016,Diesel,Automatic,Crossover,16738,17014,284780332,No,2.76
+C0026,Toyota,Elantra,Mexico,Chennai,2017,Diesel,Automatic,Hatchback,17653,46180,815215540,No,2.64
+C0027,Kia,Model X,India,London,2023,Electric,Manual,Hatchback,59853,66977,4008774381,Yes,0.27
+C0028,BMW,Corolla,USA,Detroit,2020,Petrol,Automatic,Sedan,52592,69534,3656932128,No,3.13
+C0029,Honda,Mustang,UK,Seoul,2018,Diesel,Automatic,Crossover,43652,73209,3195719268,No,0.87
+C0030,Tesla,Mustang,Germany,London,2022,Diesel,Automatic,Sedan,49604,51908,2574844432,No,1.98
+C0031,Volkswagen,Optima,South Korea,Munich,2016,Hybrid,Manual,Sedan,24783,60918,1509730794,No,2.29
+C0032,BMW,A-Class,Germany,Detroit,2014,Petrol,Automatic,Crossover,46929,18219,854999451,No,0.67
+C0033,Hyundai,Optima,Germany,Monterrey,2022,Diesel,Manual,SUV,77723,17163,1333959849,No,3.42
+C0034,BMW,Corolla,South Korea,Detroit,2024,Electric,Manual,Truck,55457,12470,691548790,Yes,1.76
+C0035,Honda,Civic,India,Nagoya,2014,Hybrid,Automatic,Hatchback,29387,26543,780019141,No,0.3
+C0036,Hyundai,A-Class,Japan,Chennai,2019,Hybrid,Manual,Coupe,46672,29276,1366369472,No,3.29
+C0037,Volkswagen,3 Series,South Korea,Shanghai,2020,Petrol,Manual,Sedan,4855,46881,227607255,No,2.09
+C0038,Honda,Civic,France,Shanghai,2015,Petrol,Automatic,SUV,34201,17749,607033549,No,2.48
+C0039,Ford,A-Class,Mexico,São Paulo,2014,Hybrid,Automatic,Crossover,42034,34182,1436806188,No,1.89
+C0040,Tesla,A-Class,UK,Seoul,2022,Electric,Automatic,SUV,71942,31383,2257755786,Yes,2.94
+C0041,Volkswagen,Corolla,Brazil,Nagoya,2021,Petrol,Automatic,SUV,61774,35412,2187540888,No,0.21
+C0042,Ford,Passat,India,Shanghai,2020,Petrol,Automatic,Crossover,78608,23181,1822212048,No,1.01
+C0043,Kia,Corolla,Mexico,Chennai,2018,Hybrid,Automatic,Coupe,12779,54898,701541542,No,1.7
+C0044,Volkswagen,A-Class,South Korea,Monterrey,2012,Hybrid,Automatic,Crossover,43991,69630,3063093330,No,0.36
+C0045,Kia,Model X,France,Shanghai,2012,Petrol,Automatic,Coupe,76647,13405,1027453035,No,2.5
+C0046,Hyundai,Civic,Brazil,Munich,2024,Diesel,Automatic,Crossover,8761,20862,182771982,No,1.44
+C0047,Ford,Corolla,UK,Detroit,2016,Petrol,Manual,Sedan,4974,64679,321713346,No,1.03
+C0048,Tesla,Passat,UK,Shanghai,2016,Diesel,Manual,Coupe,28890,38688,1117696320,No,0.11
+C0049,Honda,Elantra,India,Nagoya,2015,Hybrid,Automatic,Sedan,27425,58017,1591116225,No,2.55
+C0050,Nissan,Optima,South Korea,London,2012,Diesel,Automatic,Coupe,59551,22939,1366040389,No,2.93
+C0051,BMW,A-Class,Mexico,London,2023,Electric,Automatic,Coupe,5287,49585,262155895,Yes,1.44
+C0052,Toyota,3 Series,Japan,Monterrey,2022,Hybrid,Manual,Crossover,73898,32942,2434347916,No,2.02
+C0053,Tesla,Elantra,Mexico,London,2016,Petrol,Automatic,Coupe,58677,15272,896115144,No,0.87
+C0054,Ford,Mustang,Mexico,Monterrey,2014,Petrol,Automatic,Sedan,44224,54134,2394022016,No,2.22
+C0055,Nissan,Altima,UK,Nagoya,2016,Hybrid,Manual,Crossover,11163,34265,382500195,No,0.14
+C0056,Tesla,Passat,Japan,Seoul,2011,Hybrid,Manual,Hatchback,16620,58192,967151040,No,1.76
+C0057,Ford,3 Series,Japan,London,2015,Electric,Manual,Sedan,23240,38668,898644320,Yes,2.29
+C0058,Mercedes,Altima,India,São Paulo,2023,Hybrid,Manual,Hatchback,2535,79283,200982405,No,3.22
+C0059,Mercedes,Passat,Brazil,Chennai,2017,Petrol,Automatic,SUV,57943,19297,1118126071,No,1.4
+C0060,Kia,Model X,China,Detroit,2010,Electric,Automatic,Crossover,67888,74005,5024051440,Yes,2.7
+C0061,Tesla,Optima,Germany,London,2013,Petrol,Automatic,SUV,52835,68434,3615710390,No,2.13
+C0062,Mercedes,Elantra,Germany,Monterrey,2020,Diesel,Automatic,Crossover,43815,74749,3275127435,No,3.25
+C0063,Ford,Civic,UK,Nagoya,2010,Hybrid,Manual,Crossover,64665,11607,750566655,No,1.45
+C0064,Kia,Passat,China,London,2023,Diesel,Automatic,Sedan,47127,69183,3260387241,No,1.18
+C0065,Ford,Civic,Brazil,Shanghai,2010,Petrol,Automatic,Hatchback,8803,66305,583682915,No,3.12
+C0066,Kia,Optima,China,London,2019,Diesel,Manual,Crossover,49834,37973,1892346482,No,0.27
+C0067,Tesla,A-Class,India,Monterrey,2021,Diesel,Automatic,Hatchback,56392,33117,1867533864,No,0.56
+C0068,Nissan,Mustang,Mexico,Munich,2023,Petrol,Manual,Crossover,61696,17645,1088625920,No,0.38
+C0069,Honda,Elantra,UK,Munich,2023,Petrol,Manual,Hatchback,66200,52238,3458155600,No,2.97
+C0070,Volkswagen,Optima,Japan,London,2020,Hybrid,Automatic,SUV,40226,79694,3205770844,No,0.14
+C0071,Nissan,Optima,UK,Detroit,2017,Diesel,Automatic,Sedan,76251,51773,3947743023,No,3.03
+C0072,Hyundai,Model X,Germany,Nagoya,2016,Electric,Automatic,Crossover,50106,26786,1342139316,Yes,1.63
+C0073,Ford,Altima,Brazil,São Paulo,2021,Electric,Automatic,Truck,31194,50693,1581317442,Yes,0.11
+C0074,Hyundai,Mustang,China,São Paulo,2019,Petrol,Automatic,Hatchback,31753,36578,1161461234,No,1.47
+C0075,Nissan,Elantra,Brazil,London,2022,Petrol,Automatic,Hatchback,24730,56408,1394969840,No,0.74
+C0076,Kia,A-Class,India,London,2010,Diesel,Manual,Truck,54474,79702,4341686748,No,2.22
+C0077,Volkswagen,A-Class,UK,Munich,2020,Petrol,Automatic,Sedan,64045,25076,1605992420,No,2.41
+C0078,Volkswagen,Corolla,South Korea,Monterrey,2023,Electric,Manual,Hatchback,17425,29377,511894225,Yes,1.76
+C0079,Toyota,Optima,UK,Detroit,2022,Hybrid,Automatic,Sedan,6533,19278,125943174,No,0.24
+C0080,Volkswagen,Passat,Japan,London,2011,Hybrid,Automatic,Hatchback,62961,74808,4709986488,No,2.33
+C0081,Honda,Model X,UK,São Paulo,2013,Diesel,Manual,Coupe,3165,43539,137800935,No,2.96
+C0082,Volkswagen,Mustang,France,Nagoya,2010,Hybrid,Automatic,Hatchback,27525,21440,590136000,No,2.55
+C0083,Nissan,A-Class,India,Seoul,2012,Petrol,Automatic,Coupe,24033,36245,871076085,No,2.92
+C0084,Toyota,Elantra,USA,Shanghai,2017,Petrol,Automatic,Crossover,46397,32097,1489204509,No,0.78
+C0085,Nissan,Corolla,India,London,2017,Petrol,Manual,Sedan,78161,77092,6025587812,No,3.12
+C0086,Nissan,Elantra,China,Monterrey,2017,Petrol,Automatic,Hatchback,21498,11151,239724198,No,1.2
+C0087,BMW,Model X,USA,London,2015,Diesel,Automatic,SUV,61748,31698,1957288104,No,0.15
+C0088,Toyota,Passat,China,Monterrey,2015,Hybrid,Automatic,SUV,23557,27601,650196757,No,2.97
+C0089,Nissan,Corolla,China,Detroit,2014,Electric,Manual,Truck,79744,36807,2935137408,Yes,3.3
+C0090,BMW,Corolla,Japan,Seoul,2022,Hybrid,Manual,SUV,71131,55302,3933686562,No,2.33
+C0091,BMW,Altima,Japan,Chennai,2018,Petrol,Automatic,Coupe,67673,18039,1220753247,No,0.89
+C0092,Toyota,Mustang,Mexico,Nagoya,2013,Electric,Manual,SUV,39234,57427,2253090918,Yes,0.96
+C0093,Hyundai,Corolla,Germany,Nagoya,2019,Diesel,Automatic,SUV,62572,68049,4257962028,No,1.69
+C0094,Kia,Altima,Mexico,Monterrey,2024,Petrol,Automatic,SUV,64675,29053,1879002775,No,3.15
+C0095,Honda,Altima,Mexico,Munich,2021,Petrol,Automatic,Hatchback,64283,65413,4204943879,No,0.61
+C0096,Kia,Model X,Germany,Monterrey,2021,Electric,Automatic,Truck,71239,75958,5411171962,Yes,2.91
+C0097,Volkswagen,Civic,South Korea,Munich,2021,Diesel,Automatic,Sedan,51542,41275,2127396050,No,1.09
+C0098,Honda,Elantra,USA,Paris,2016,Electric,Automatic,Truck,52857,36597,1934407629,Yes,2.85
+C0099,Volkswagen,Passat,Brazil,São Paulo,2010,Diesel,Automatic,Coupe,9169,78908,723507452,No,3.23
+C0100,Nissan,3 Series,Mexico,Nagoya,2024,Petrol,Manual,Hatchback,68402,65188,4458989576,No,1.55
+C0101,Ford,Elantra,UK,Detroit,2018,Hybrid,Automatic,Crossover,19410,44710,867821100,No,1.34
+C0102,Toyota,Corolla,UK,Monterrey,2016,Petrol,Automatic,Hatchback,57459,59050,3392953950,No,2.83
+C0103,Honda,Passat,China,Detroit,2019,Hybrid,Manual,SUV,866,59249,51309634,No,1.9
+C0104,Honda,A-Class,Germany,Seoul,2021,Hybrid,Automatic,SUV,48915,44247,2164342005,No,2.43
+C0105,Nissan,Civic,China,Detroit,2018,Diesel,Automatic,Coupe,10407,36408,378898056,No,2.22
+C0106,Hyundai,A-Class,France,London,2016,Electric,Manual,Crossover,33280,15443,513943040,Yes,0.62
+C0107,BMW,A-Class,France,São Paulo,2011,Diesel,Automatic,Hatchback,58379,10079,588401941,No,2.97
+C0108,Nissan,Mustang,Brazil,London,2024,Petrol,Automatic,Crossover,35585,48345,1720356825,No,0.77
+C0109,Mercedes,Elantra,Japan,Shanghai,2015,Electric,Automatic,Sedan,65999,22901,1511443099,Yes,3.27
+C0110,BMW,3 Series,Japan,Monterrey,2019,Hybrid,Manual,Truck,20926,77759,1627184834,No,0.95
+C0111,Toyota,Model X,Germany,Nagoya,2021,Hybrid,Automatic,Hatchback,48697,52732,2567890204,No,2.6
+C0112,BMW,3 Series,Germany,Monterrey,2020,Petrol,Manual,Crossover,7985,27507,219643395,No,1.07
+C0113,Hyundai,A-Class,Mexico,São Paulo,2013,Electric,Automatic,Sedan,50027,45391,2270775557,Yes,1.18
+C0114,BMW,Corolla,France,Chennai,2012,Petrol,Automatic,Sedan,65100,44171,2875532100,No,1.15
+C0115,Toyota,Civic,Mexico,Chennai,2011,Petrol,Manual,Truck,69248,61730,4274679040,No,2.64
+C0116,Hyundai,Optima,Japan,Shanghai,2015,Diesel,Automatic,Sedan,59028,17485,1032104580,No,1.99
+C0117,Kia,3 Series,USA,São Paulo,2017,Petrol,Automatic,Coupe,28299,47748,1351220652,No,3.1
+C0118,Honda,A-Class,USA,Paris,2015,Electric,Automatic,Sedan,46839,13878,650031642,Yes,1.15
+C0119,Honda,Civic,Germany,Paris,2018,Petrol,Manual,Crossover,16587,11949,198198063,No,2.45
+C0120,Volkswagen,Passat,China,Paris,2023,Electric,Automatic,Coupe,7946,30881,245380426,Yes,2.66
+C0121,Kia,Elantra,Japan,Nagoya,2014,Hybrid,Automatic,Sedan,50960,61306,3124153760,No,0.62
+C0122,Kia,Altima,USA,Nagoya,2011,Petrol,Automatic,SUV,58760,19958,1172732080,No,1.46
+C0123,BMW,Mustang,Japan,Paris,2017,Electric,Manual,Sedan,15377,69185,1063857745,Yes,1.74
+C0124,Honda,Civic,India,Chennai,2018,Hybrid,Automatic,Coupe,25223,18697,471594431,No,1.31
+C0125,Toyota,Corolla,UK,São Paulo,2023,Electric,Automatic,Sedan,13443,25493,342702399,Yes,1.2
+C0126,Tesla,Corolla,France,Detroit,2019,Hybrid,Automatic,Sedan,10806,52801,570567606,No,2.43
+C0127,Tesla,Civic,Mexico,São Paulo,2013,Diesel,Automatic,Sedan,37284,31199,1163223516,No,0.83
+C0128,Hyundai,Corolla,Japan,Paris,2015,Petrol,Automatic,Coupe,20955,75792,1588221360,No,2.51
+C0129,Honda,Elantra,UK,São Paulo,2024,Petrol,Automatic,Sedan,71948,44488,3200822624,No,3.28
+C0130,Honda,Corolla,India,Seoul,2020,Hybrid,Automatic,Truck,30474,40493,1233983682,No,2.02
+C0131,Tesla,3 Series,Mexico,Nagoya,2019,Diesel,Manual,Crossover,27871,59002,1644444742,No,2.18
+C0132,Honda,Altima,Japan,Nagoya,2017,Electric,Manual,Truck,4436,33731,149630716,Yes,0.33
+C0133,BMW,Corolla,Germany,Chennai,2018,Diesel,Automatic,Coupe,33666,17076,574880616,No,3.04
+C0134,Mercedes,Altima,UK,Detroit,2021,Electric,Manual,SUV,26227,11071,290359117,Yes,1.07
+C0135,Ford,A-Class,Mexico,Paris,2014,Electric,Automatic,Truck,64469,77602,5002923338,Yes,2.19
+C0136,Kia,Model X,Japan,Monterrey,2021,Petrol,Manual,Crossover,28868,51410,1484103880,No,3.43
+C0137,Volkswagen,Elantra,UK,Chennai,2015,Hybrid,Automatic,Hatchback,69031,64327,4440557137,No,2.12
+C0138,Hyundai,Model X,India,Chennai,2020,Petrol,Automatic,Crossover,39597,71072,2814237984,No,2.56
+C0139,Mercedes,A-Class,Japan,Detroit,2013,Petrol,Manual,Truck,35484,51041,1811138844,No,1.61
+C0140,Tesla,Elantra,Japan,London,2014,Petrol,Manual,Hatchback,51359,63326,3252360034,No,0.31
+C0141,Kia,Civic,Japan,Paris,2016,Electric,Automatic,Coupe,44791,48549,2174558259,Yes,2.81
+C0142,Honda,Civic,Brazil,Monterrey,2018,Petrol,Automatic,Crossover,65728,63096,4147173888,No,0.22
+C0143,Volkswagen,Altima,Germany,Nagoya,2019,Electric,Automatic,SUV,22650,65578,1485341700,Yes,2.48
+C0144,Honda,A-Class,India,Detroit,2020,Hybrid,Automatic,Hatchback,22561,56390,1272214790,No,0.18
+C0145,Toyota,Altima,Mexico,Monterrey,2022,Electric,Automatic,Hatchback,29678,56052,1663511256,Yes,3.03
+C0146,Toyota,Mustang,Brazil,Seoul,2015,Electric,Automatic,Crossover,57290,53167,3045937430,Yes,0.64
+C0147,Volkswagen,Corolla,China,Chennai,2023,Diesel,Manual,Truck,66196,64587,4275401052,No,1.85
+C0148,Volkswagen,Optima,Brazil,Detroit,2015,Petrol,Automatic,Hatchback,16148,71292,1151223216,No,2.13
+C0149,Tesla,Mustang,France,Nagoya,2017,Petrol,Automatic,Coupe,62279,52139,3247164781,No,1.66
+C0150,Volkswagen,Corolla,France,São Paulo,2020,Petrol,Automatic,Crossover,37172,20707,769720604,No,1.26
+C0151,BMW,Elantra,Japan,Nagoya,2013,Petrol,Automatic,Coupe,69609,23140,1610752260,No,1.69
+C0152,Honda,Altima,Brazil,Seoul,2012,Diesel,Automatic,Crossover,61021,21093,1287115953,No,1.16
+C0153,Mercedes,Elantra,China,Detroit,2023,Diesel,Automatic,Coupe,35093,15830,555522190,No,1.59
+C0154,Nissan,Elantra,Brazil,Seoul,2016,Diesel,Manual,Truck,14286,40608,580125888,No,1.32
+C0155,Volkswagen,Corolla,Germany,Paris,2014,Diesel,Manual,Crossover,10315,57287,590915405,No,2.03
+C0156,Hyundai,A-Class,Germany,Paris,2011,Petrol,Automatic,SUV,22466,43427,975630982,No,0.91
+C0157,Toyota,Corolla,China,São Paulo,2011,Electric,Automatic,Truck,14294,38395,548818130,Yes,3.46
+C0158,BMW,Passat,Brazil,Chennai,2020,Hybrid,Automatic,Coupe,31923,27970,892886310,No,1.8
+C0159,Kia,Civic,UK,London,2015,Diesel,Manual,Crossover,21802,33371,727554542,No,0.76
+C0160,Nissan,Civic,Germany,Munich,2017,Electric,Manual,Truck,61564,29266,1801732024,Yes,1.72
+C0161,Mercedes,Mustang,Germany,Monterrey,2010,Diesel,Automatic,Coupe,28335,29195,827240325,No,3.05
+C0162,Nissan,Civic,USA,Seoul,2024,Petrol,Automatic,Sedan,73856,37315,2755936640,No,0.17
+C0163,Volkswagen,Corolla,Brazil,Monterrey,2020,Petrol,Manual,Sedan,49782,51581,2567805342,No,2.41
+C0164,Tesla,3 Series,Germany,São Paulo,2015,Electric,Automatic,Hatchback,53214,55537,2955345918,Yes,1.96
+C0165,Toyota,Altima,India,Monterrey,2021,Electric,Automatic,SUV,67535,32184,2173546440,Yes,0.68
+C0166,Toyota,Corolla,Brazil,Monterrey,2011,Electric,Manual,Sedan,24314,33279,809145606,Yes,2.88
+C0167,Kia,Corolla,France,Nagoya,2011,Petrol,Manual,Coupe,24589,36570,899219730,No,1.35
+C0168,Tesla,Optima,USA,Detroit,2016,Petrol,Automatic,Truck,73662,53030,3906295860,No,1.1
+C0169,Honda,Altima,Germany,Chennai,2019,Hybrid,Automatic,Crossover,56331,72245,4069633095,No,2.92
+C0170,Ford,Passat,USA,Munich,2010,Electric,Automatic,Truck,33246,65467,2176515882,Yes,2.27
+C0171,BMW,Civic,France,Detroit,2015,Hybrid,Automatic,Hatchback,52440,45133,2366774520,No,3.15
+C0172,Toyota,Altima,China,Nagoya,2023,Diesel,Automatic,Truck,36976,53805,1989493680,No,2.24
+C0173,Hyundai,Civic,China,Monterrey,2016,Hybrid,Automatic,Sedan,26783,53998,1446228434,No,2.62
+C0174,Toyota,Mustang,Brazil,Munich,2023,Diesel,Manual,Truck,2269,27238,61803022,No,2.94
+C0175,Nissan,Altima,France,Nagoya,2017,Diesel,Manual,Sedan,42778,78264,3347977392,No,0.29
+C0176,Toyota,Civic,South Korea,Nagoya,2016,Hybrid,Automatic,Sedan,47494,58245,2766288030,No,2.74
+C0177,Toyota,Passat,South Korea,Nagoya,2015,Electric,Automatic,SUV,63398,33557,2127446686,Yes,2.19
+C0178,Ford,Model X,Brazil,Paris,2018,Diesel,Automatic,Hatchback,16134,75667,1220811378,No,0.34
+C0179,Ford,Elantra,Japan,Munich,2022,Electric,Automatic,Coupe,11465,75074,860723410,Yes,1.83
+C0180,Mercedes,Elantra,USA,Nagoya,2012,Petrol,Automatic,Sedan,28066,68204,1914213464,No,0.38
+C0181,Honda,Passat,USA,London,2020,Diesel,Automatic,Crossover,52696,35575,1874660200,No,2.6
+C0182,Hyundai,Optima,China,Monterrey,2015,Petrol,Manual,Hatchback,48785,30069,1466916165,No,1.96
+C0183,Toyota,Model X,South Korea,Munich,2013,Hybrid,Automatic,Coupe,55999,34400,1926365600,No,3.34
+C0184,Toyota,Mustang,Mexico,Paris,2011,Electric,Manual,Crossover,19920,34146,680188320,Yes,0.72
+C0185,BMW,Passat,Germany,Seoul,2010,Hybrid,Manual,Truck,25736,16846,433548656,No,2.16
+C0186,Ford,Elantra,Germany,Seoul,2021,Diesel,Automatic,Hatchback,6718,50352,338264736,No,0.82
+C0187,Hyundai,Elantra,Germany,Chennai,2021,Petrol,Automatic,Crossover,50392,33694,1697908048,No,2.19
+C0188,Kia,Elantra,China,Shanghai,2023,Diesel,Manual,Hatchback,74531,31740,2365613940,No,2.56
+C0189,Mercedes,A-Class,France,London,2010,Hybrid,Manual,Hatchback,64557,59438,3837138966,No,2.56
+C0190,Honda,Passat,UK,Seoul,2020,Electric,Automatic,Truck,79109,40996,3243152564,Yes,2.87
+C0191,Tesla,Corolla,South Korea,Paris,2019,Electric,Automatic,Truck,77407,73874,5718364718,Yes,3.0
+C0192,Honda,Mustang,South Korea,Shanghai,2012,Diesel,Automatic,Hatchback,11726,69682,817091132,No,0.36
+C0193,Nissan,Elantra,Mexico,Nagoya,2013,Diesel,Manual,Crossover,52771,54200,2860188200,No,1.27
+C0194,Toyota,Civic,USA,Nagoya,2011,Petrol,Automatic,SUV,10546,32970,347701620,No,2.44
+C0195,Mercedes,Passat,Japan,São Paulo,2022,Hybrid,Automatic,Sedan,37617,20895,786007215,No,1.8
+C0196,Nissan,A-Class,Brazil,Monterrey,2021,Diesel,Manual,Truck,5465,48071,262708015,No,0.75
+C0197,Hyundai,Passat,USA,Shanghai,2020,Petrol,Automatic,SUV,59978,62268,3734710104,No,1.98
+C0198,Tesla,Mustang,France,Monterrey,2020,Diesel,Automatic,Truck,79372,32258,2560381976,No,1.49
+C0199,Ford,A-Class,Brazil,Paris,2023,Electric,Automatic,Hatchback,57777,67300,3888392100,Yes,1.43
+C0200,Mercedes,Mustang,South Korea,London,2020,Petrol,Manual,SUV,60113,71915,4323026395,No,2.85
+C0201,Mercedes,Passat,France,Shanghai,2010,Petrol,Automatic,Crossover,17873,18444,329649612,No,1.49
+C0202,Toyota,Corolla,Brazil,Seoul,2013,Diesel,Automatic,Crossover,45952,76535,3516936320,No,0.19
+C0203,Volkswagen,Mustang,Mexico,London,2024,Hybrid,Automatic,Coupe,50589,13760,696104640,No,0.3
+C0204,Mercedes,A-Class,Mexico,São Paulo,2016,Electric,Automatic,Sedan,7154,46884,335408136,Yes,3.01
+C0205,BMW,A-Class,India,Monterrey,2019,Hybrid,Automatic,Sedan,31780,36022,1144779160,No,3.37
+C0206,Tesla,Mustang,UK,Monterrey,2020,Petrol,Automatic,Truck,56641,64504,3653571064,No,2.44
+C0207,Tesla,3 Series,Mexico,London,2015,Hybrid,Automatic,Sedan,68394,53130,3633773220,No,1.34
+C0208,BMW,Passat,South Korea,Nagoya,2015,Petrol,Manual,Coupe,27083,53881,1459259123,No,3.29
+C0209,Kia,3 Series,Japan,Monterrey,2020,Hybrid,Manual,Crossover,6860,72399,496657140,No,2.35
+C0210,BMW,Optima,Germany,São Paulo,2018,Diesel,Automatic,SUV,54468,46451,2530093068,No,2.97
+C0211,BMW,Passat,India,Seoul,2023,Hybrid,Automatic,SUV,4243,61413,260575359,No,2.7
+C0212,Tesla,Mustang,Germany,Munich,2024,Petrol,Automatic,Crossover,7659,72278,553577202,No,1.39
+C0213,Honda,Model X,UK,Seoul,2011,Electric,Manual,Hatchback,32651,39639,1294252989,Yes,1.73
+C0214,Tesla,Mustang,Brazil,Seoul,2013,Electric,Automatic,Crossover,1018,44621,45424178,Yes,0.73
+C0215,Volkswagen,3 Series,China,Monterrey,2014,Electric,Automatic,SUV,17152,23079,395851008,Yes,1.09
+C0216,Toyota,Corolla,Mexico,Detroit,2010,Petrol,Automatic,Truck,78961,16895,1334046095,No,2.75
+C0217,Nissan,Mustang,Japan,Nagoya,2017,Hybrid,Automatic,Coupe,71511,62142,4443836562,No,3.14
+C0218,Honda,Mustang,UK,Monterrey,2017,Electric,Automatic,Crossover,42848,22552,966308096,Yes,2.56
+C0219,Ford,Corolla,Germany,Nagoya,2015,Electric,Automatic,Hatchback,75922,58821,4465807962,Yes,1.68
+C0220,Nissan,Mustang,India,Paris,2021,Electric,Automatic,Truck,77501,43630,3381368630,Yes,0.39
+C0221,Toyota,Elantra,Mexico,Detroit,2014,Diesel,Manual,Crossover,77257,22247,1718736479,No,0.29
+C0222,Volkswagen,Model X,South Korea,Monterrey,2017,Petrol,Automatic,Truck,24895,27603,687176685,No,1.37
+C0223,Volkswagen,Civic,Mexico,Chennai,2012,Petrol,Automatic,Crossover,2835,55564,157523940,No,1.68
+C0224,Ford,Model X,India,Seoul,2012,Petrol,Automatic,Truck,70612,10527,743332524,No,2.17
+C0225,Honda,Mustang,India,Paris,2011,Petrol,Automatic,Sedan,1000,66521,66521000,No,0.12
+C0226,Kia,Elantra,China,Detroit,2014,Petrol,Automatic,Truck,8583,78458,673405014,No,3.47
+C0227,BMW,Passat,Mexico,Monterrey,2012,Diesel,Automatic,Sedan,6043,15849,95775507,No,1.34
+C0228,Honda,Mustang,Mexico,São Paulo,2012,Hybrid,Automatic,SUV,69312,60314,4180483968,No,2.98
+C0229,Kia,3 Series,China,London,2024,Diesel,Automatic,Sedan,52737,55724,2938716588,No,1.92
+C0230,Volkswagen,Elantra,France,London,2015,Electric,Automatic,Truck,7113,27230,193686990,Yes,0.54
+C0231,Tesla,Corolla,France,Nagoya,2017,Diesel,Automatic,Coupe,67363,52730,3552050990,No,2.81
+C0232,Toyota,Elantra,Brazil,Detroit,2011,Petrol,Manual,Coupe,41040,13323,546775920,No,2.51
+C0233,Ford,Corolla,France,Seoul,2013,Diesel,Automatic,SUV,76702,10445,801152390,No,1.89
+C0234,Toyota,Optima,USA,Seoul,2020,Petrol,Automatic,Truck,26755,19963,534110065,No,1.85
+C0235,Hyundai,Civic,Mexico,Munich,2016,Diesel,Automatic,Sedan,22568,60511,1365612248,No,0.4
+C0236,Hyundai,Altima,Japan,London,2010,Petrol,Automatic,Coupe,49557,25437,1260581409,No,2.33
+C0237,Honda,Elantra,Mexico,Paris,2010,Electric,Automatic,Crossover,19446,26855,522222330,Yes,3.2
+C0238,Volkswagen,A-Class,USA,Detroit,2021,Petrol,Automatic,Hatchback,21047,20847,438766809,No,0.42
+C0239,Volkswagen,3 Series,USA,Seoul,2022,Diesel,Manual,Truck,6269,13236,82976484,No,1.0
+C0240,BMW,Mustang,Germany,Munich,2019,Electric,Automatic,Crossover,25383,71897,1824961551,Yes,3.17
+C0241,BMW,3 Series,Mexico,Detroit,2016,Diesel,Automatic,Crossover,61840,23487,1452436080,No,1.07
+C0242,BMW,Model X,UK,Shanghai,2023,Electric,Manual,Truck,79699,72423,5772040677,Yes,2.32
+C0243,Tesla,Altima,USA,Seoul,2016,Hybrid,Manual,Hatchback,35662,23155,825753610,No,1.92
+C0244,Nissan,Model X,Japan,Shanghai,2010,Hybrid,Automatic,Coupe,33934,21255,721267170,No,2.13
+C0245,Mercedes,Optima,China,Detroit,2010,Hybrid,Automatic,Hatchback,22602,11979,270749358,No,1.51
+C0246,Nissan,Altima,Brazil,Seoul,2013,Diesel,Automatic,SUV,22036,31305,689836980,No,1.12
+C0247,Toyota,Altima,Germany,Shanghai,2014,Diesel,Automatic,Sedan,78391,45094,3534963754,No,0.27
+C0248,Nissan,Model X,China,Chennai,2014,Electric,Automatic,Sedan,68270,45098,3078840460,Yes,2.63
+C0249,Tesla,Corolla,Germany,Munich,2013,Electric,Automatic,Crossover,50888,43770,2227367760,Yes,2.64
+C0250,Toyota,Model X,Japan,Paris,2017,Electric,Manual,Coupe,51275,19734,1011860850,Yes,2.38
+C0251,Nissan,3 Series,India,London,2016,Electric,Automatic,Hatchback,31647,49605,1569849435,Yes,2.29
+C0252,Tesla,Corolla,Mexico,Munich,2018,Petrol,Automatic,Crossover,51026,65619,3348275094,No,0.93
+C0253,Mercedes,3 Series,South Korea,Shanghai,2016,Hybrid,Automatic,Truck,24159,37881,915167079,No,0.18
+C0254,Nissan,Optima,UK,Seoul,2024,Petrol,Manual,Crossover,23588,73401,1731382788,No,2.85
+C0255,Tesla,Mustang,China,Chennai,2019,Petrol,Automatic,Truck,68964,41177,2839730628,No,1.77
+C0256,BMW,Passat,Mexico,Chennai,2010,Petrol,Automatic,Truck,60498,50122,3032280756,No,1.14
+C0257,Volkswagen,Corolla,UK,London,2022,Petrol,Automatic,SUV,40882,45297,1851831954,No,0.45
+C0258,BMW,Optima,India,Chennai,2023,Hybrid,Automatic,SUV,28684,46680,1338969120,No,0.31
+C0259,Volkswagen,A-Class,South Korea,Munich,2016,Petrol,Automatic,Truck,20599,61044,1257445356,No,1.29
+C0260,Ford,Optima,UK,Monterrey,2010,Electric,Automatic,Coupe,70310,54084,3802646040,Yes,2.84
+C0261,Ford,Model X,UK,Chennai,2016,Diesel,Automatic,SUV,38239,44189,1689743171,No,3.22
+C0262,Ford,Model X,China,London,2019,Electric,Automatic,SUV,8889,23510,208980390,Yes,3.15
+C0263,Mercedes,Passat,France,Chennai,2017,Diesel,Automatic,Sedan,17852,32152,573977504,No,3.23
+C0264,BMW,Optima,South Korea,Chennai,2020,Electric,Automatic,Crossover,21648,36445,788961360,Yes,3.19
+C0265,Volkswagen,Civic,Mexico,São Paulo,2018,Electric,Automatic,Sedan,32328,11195,361911960,Yes,1.89
+C0266,Tesla,Mustang,India,Munich,2021,Diesel,Automatic,Coupe,68540,69949,4794304460,No,0.85
+C0267,Toyota,Model X,South Korea,Shanghai,2012,Hybrid,Automatic,SUV,57295,35433,2030133735,No,2.81
+C0268,Tesla,Passat,Japan,Nagoya,2024,Petrol,Automatic,SUV,59120,15305,904831600,No,0.83
+C0269,Toyota,Mustang,France,Monterrey,2013,Electric,Manual,Hatchback,57614,68860,3967300040,Yes,1.01
+C0270,Hyundai,Optima,Japan,Chennai,2013,Hybrid,Automatic,Coupe,41211,58648,2416942728,No,0.89
+C0271,Tesla,Optima,India,Paris,2021,Petrol,Automatic,Crossover,18248,73090,1333746320,No,1.85
+C0272,Nissan,Altima,China,Chennai,2018,Hybrid,Automatic,Crossover,34191,52113,1781795583,No,1.19
+C0273,Nissan,Passat,China,São Paulo,2022,Hybrid,Manual,Crossover,65782,52642,3462896044,No,0.62
+C0274,Honda,Model X,India,Shanghai,2016,Petrol,Manual,Coupe,60860,43062,2620753320,No,1.64
+C0275,BMW,Civic,Germany,Paris,2012,Electric,Automatic,Hatchback,10746,51604,554536584,Yes,3.07
+C0276,Toyota,Optima,India,Monterrey,2019,Hybrid,Automatic,Hatchback,59895,16678,998928810,No,2.04
+C0277,Toyota,Civic,France,Paris,2014,Electric,Automatic,Sedan,32986,42121,1389403306,Yes,3.09
+C0278,BMW,Optima,USA,Munich,2016,Electric,Automatic,Coupe,30840,58503,1804232520,Yes,0.77
+C0279,Mercedes,Model X,China,London,2017,Electric,Manual,Coupe,50800,26494,1345895200,Yes,0.67
+C0280,Honda,Mustang,Brazil,London,2010,Petrol,Automatic,Hatchback,3586,54185,194307410,No,2.06
+C0281,Mercedes,Elantra,France,Monterrey,2021,Diesel,Automatic,Truck,15360,19678,302254080,No,1.68
+C0282,Mercedes,Mustang,France,Shanghai,2011,Electric,Manual,Truck,17513,47632,834179216,Yes,2.34
+C0283,Mercedes,Optima,France,London,2016,Diesel,Manual,Sedan,7907,56235,444650145,No,2.8
+C0284,BMW,3 Series,UK,Detroit,2020,Diesel,Automatic,Truck,34042,11648,396521216,No,2.65
+C0285,Mercedes,Elantra,France,São Paulo,2024,Hybrid,Automatic,Truck,25435,77917,1981818895,No,3.3
+C0286,Nissan,Elantra,China,Monterrey,2022,Electric,Automatic,Truck,49579,26489,1313298131,Yes,1.45
+C0287,Ford,Civic,USA,Monterrey,2023,Electric,Manual,SUV,34611,15818,547476798,Yes,0.8
+C0288,Hyundai,Passat,USA,Nagoya,2022,Electric,Manual,Sedan,57050,43149,2461650450,Yes,1.97
+C0289,Toyota,Civic,France,Nagoya,2024,Diesel,Automatic,Hatchback,76197,37312,2843062464,No,0.48
+C0290,Toyota,Civic,Japan,Munich,2011,Petrol,Automatic,Truck,77455,47124,3649989420,No,1.08
+C0291,Hyundai,3 Series,China,Munich,2016,Diesel,Manual,Crossover,41065,11316,464691540,No,0.81
+C0292,BMW,Mustang,China,Nagoya,2024,Electric,Automatic,SUV,19783,70046,1385720018,Yes,1.45
+C0293,Tesla,Mustang,South Korea,London,2018,Electric,Automatic,Truck,66970,79610,5331481700,Yes,0.48
+C0294,BMW,A-Class,Mexico,Seoul,2020,Electric,Manual,SUV,38733,74042,2867868786,Yes,0.21
+C0295,Toyota,Optima,Germany,Monterrey,2011,Diesel,Automatic,Sedan,23195,33102,767800890,No,2.33
+C0296,Toyota,3 Series,Germany,Detroit,2016,Electric,Automatic,Crossover,43234,41957,1813968938,Yes,2.17
+C0297,Hyundai,A-Class,Japan,Monterrey,2013,Hybrid,Manual,Crossover,2005,22872,45858360,No,2.51
+C0298,Mercedes,Model X,Germany,Chennai,2020,Electric,Manual,Crossover,5863,60094,352331122,Yes,2.35
+C0299,BMW,Optima,South Korea,Shanghai,2022,Petrol,Automatic,Truck,49208,57719,2840236552,No,0.49
+C0300,Volkswagen,Optima,India,São Paulo,2011,Hybrid,Automatic,SUV,44114,29693,1309877002,No,1.09
+C0301,Hyundai,Altima,Germany,Seoul,2022,Electric,Automatic,Crossover,1510,60478,91321780,Yes,0.54
+C0302,Nissan,Altima,China,Detroit,2016,Hybrid,Automatic,Coupe,20361,53677,1092917397,No,2.97
+C0303,Toyota,Corolla,India,Chennai,2022,Electric,Automatic,Coupe,24625,70012,1724045500,Yes,2.64
+C0304,Hyundai,Corolla,Germany,Munich,2014,Petrol,Manual,SUV,9869,20760,204880440,No,0.79
+C0305,BMW,Civic,China,Detroit,2010,Electric,Automatic,Truck,69893,21584,1508570512,Yes,1.26
+C0306,Toyota,Model X,China,Nagoya,2014,Hybrid,Automatic,Truck,27171,12106,328932126,No,3.39
+C0307,Tesla,Elantra,France,Monterrey,2021,Petrol,Automatic,Sedan,75900,23669,1796477100,No,2.12
+C0308,Hyundai,Elantra,USA,Detroit,2021,Diesel,Manual,Sedan,65012,35223,2289917676,No,2.82
+C0309,Honda,Altima,Japan,Shanghai,2012,Petrol,Automatic,Crossover,76156,70666,5381639896,No,1.0
+C0310,Toyota,Altima,South Korea,Paris,2016,Petrol,Automatic,Hatchback,44638,45706,2040224428,No,0.81
+C0311,BMW,Altima,UK,Munich,2015,Petrol,Automatic,Sedan,53920,78019,4206784480,No,2.77
+C0312,Ford,3 Series,Mexico,São Paulo,2017,Hybrid,Automatic,Truck,68589,71585,4909943565,No,2.43
+C0313,Volkswagen,Passat,Germany,São Paulo,2022,Petrol,Automatic,Hatchback,15989,37482,599299698,No,2.42
+C0314,Kia,Corolla,Germany,Detroit,2014,Electric,Automatic,Sedan,60289,70369,4242476641,Yes,1.98
+C0315,Mercedes,3 Series,India,Paris,2011,Petrol,Automatic,SUV,70425,44143,3108770775,No,2.02
+C0316,Kia,Mustang,India,Monterrey,2018,Petrol,Automatic,Coupe,50203,34240,1718950720,No,2.6
+C0317,BMW,Elantra,Mexico,Chennai,2023,Electric,Automatic,Sedan,77125,20015,1543656875,Yes,1.02
+C0318,Nissan,Optima,Germany,Seoul,2020,Electric,Automatic,Sedan,58728,73023,4288494744,Yes,1.3
+C0319,Nissan,Corolla,Brazil,Monterrey,2017,Diesel,Automatic,SUV,3551,61500,218386500,No,3.06
+C0320,Ford,A-Class,South Korea,Chennai,2015,Petrol,Automatic,Truck,38590,73925,2852765750,No,1.15
+C0321,Mercedes,Mustang,Germany,Seoul,2022,Hybrid,Automatic,Crossover,29305,59631,1747486455,No,1.96
+C0322,Honda,Corolla,USA,Paris,2019,Petrol,Automatic,SUV,45057,73652,3318538164,No,2.49
+C0323,Ford,3 Series,Mexico,Seoul,2016,Petrol,Automatic,Crossover,3055,61087,186620785,No,3.5
+C0324,Kia,Model X,Brazil,Monterrey,2018,Electric,Automatic,Sedan,50741,64909,3293547569,Yes,1.58
+C0325,Ford,Optima,South Korea,Shanghai,2016,Diesel,Automatic,Truck,78803,21565,1699386695,No,1.56
+C0326,Kia,Corolla,Germany,Detroit,2012,Petrol,Automatic,Hatchback,66494,37597,2499974918,No,2.96
+C0327,Toyota,Passat,UK,Chennai,2015,Hybrid,Manual,Sedan,16566,75623,1252770618,No,2.84
+C0328,Nissan,Altima,France,Shanghai,2020,Petrol,Manual,SUV,5221,19432,101454472,No,2.59
+C0329,Toyota,Altima,USA,Chennai,2022,Hybrid,Automatic,Hatchback,78482,75714,5942186148,No,1.67
+C0330,Volkswagen,Optima,UK,Detroit,2020,Electric,Automatic,Coupe,6804,59314,403572456,Yes,1.2
+C0331,Mercedes,3 Series,India,London,2016,Diesel,Automatic,Hatchback,43467,51965,2258762655,No,2.17
+C0332,Honda,Altima,India,Seoul,2011,Petrol,Automatic,SUV,79263,77957,6179105691,No,3.08
+C0333,Kia,Corolla,Germany,Paris,2012,Diesel,Automatic,Hatchback,40962,53715,2200273830,No,3.1
+C0334,Honda,A-Class,India,London,2013,Petrol,Automatic,SUV,72334,63450,4589592300,No,0.47
+C0335,Kia,Elantra,USA,London,2019,Hybrid,Automatic,Sedan,50655,71902,3642195810,No,1.56
+C0336,BMW,Elantra,South Korea,São Paulo,2015,Diesel,Manual,Truck,76342,38317,2925196414,No,1.68
+C0337,Ford,Mustang,China,Nagoya,2010,Petrol,Automatic,Coupe,3089,76753,237090017,No,3.42
+C0338,Volkswagen,Civic,Japan,Monterrey,2018,Electric,Manual,Truck,37578,45242,1700103876,Yes,2.41
+C0339,Nissan,Model X,Mexico,Shanghai,2014,Hybrid,Manual,Truck,55418,10929,605663322,No,1.48
+C0340,Kia,Optima,South Korea,Shanghai,2022,Diesel,Automatic,Truck,14101,23580,332501580,No,0.19
+C0341,Honda,Mustang,China,Shanghai,2021,Petrol,Automatic,SUV,8211,30742,252422562,No,2.02
+C0342,Volkswagen,Civic,Brazil,Shanghai,2023,Diesel,Automatic,SUV,59930,27833,1668031690,No,0.43
+C0343,Tesla,3 Series,USA,Monterrey,2016,Petrol,Automatic,Coupe,63827,23527,1501657829,No,2.94
+C0344,Tesla,Passat,UK,London,2018,Hybrid,Automatic,SUV,4470,68139,304581330,No,2.66
+C0345,Toyota,Passat,China,Monterrey,2018,Electric,Automatic,Crossover,70035,79585,5573735475,Yes,1.67
+C0346,Nissan,Model X,USA,Shanghai,2010,Hybrid,Automatic,SUV,36676,51057,1872566532,No,1.56
+C0347,BMW,Altima,France,Nagoya,2024,Diesel,Manual,SUV,42230,77439,3270248970,No,3.15
+C0348,Honda,Corolla,UK,Munich,2010,Diesel,Automatic,SUV,13885,54261,753413985,No,1.08
+C0349,Ford,Mustang,India,Detroit,2012,Petrol,Manual,Sedan,6450,10042,64770900,No,0.95
+C0350,Ford,Mustang,India,Shanghai,2015,Hybrid,Automatic,Coupe,74011,32769,2425266459,No,3.29
+C0351,Honda,Optima,UK,Paris,2011,Petrol,Manual,Crossover,53509,77113,4126239517,No,2.85
+C0352,Mercedes,Optima,Brazil,Munich,2019,Hybrid,Automatic,SUV,23898,32449,775466202,No,2.89
+C0353,BMW,Passat,Brazil,Monterrey,2021,Diesel,Automatic,Coupe,25777,48653,1254128381,No,0.76
+C0354,Volkswagen,Passat,Brazil,Paris,2020,Petrol,Manual,Hatchback,27261,38859,1059335199,No,0.59
+C0355,Kia,A-Class,China,Paris,2010,Petrol,Automatic,Sedan,64935,18576,1206232560,No,0.19
+C0356,Mercedes,A-Class,Mexico,Chennai,2010,Hybrid,Automatic,SUV,64444,55874,3600744056,No,0.91
+C0357,Kia,Altima,China,Paris,2022,Electric,Automatic,Crossover,32033,46345,1484569385,Yes,2.73
+C0358,Kia,A-Class,Germany,Shanghai,2014,Hybrid,Automatic,Sedan,73002,79428,5798402856,No,0.92
+C0359,Mercedes,Corolla,Japan,Chennai,2013,Electric,Automatic,Crossover,72623,14321,1040033983,Yes,2.58
+C0360,Toyota,Corolla,UK,São Paulo,2010,Hybrid,Manual,Sedan,23380,15776,368842880,No,0.96
+C0361,Tesla,Mustang,South Korea,London,2013,Diesel,Automatic,Hatchback,71127,26119,1857766113,No,1.44
+C0362,Kia,Elantra,Japan,Paris,2012,Petrol,Automatic,Coupe,42253,40569,1714161957,No,3.44
+C0363,Mercedes,Corolla,France,Nagoya,2011,Hybrid,Manual,Sedan,2061,48596,100156356,No,0.93
+C0364,Mercedes,Civic,China,Detroit,2018,Diesel,Automatic,Truck,53705,62967,3381642735,No,1.38
+C0365,Hyundai,Passat,China,Paris,2023,Hybrid,Automatic,Hatchback,60310,43063,2597129530,No,1.12
+C0366,Toyota,Optima,USA,São Paulo,2024,Petrol,Manual,Truck,64982,32340,2101517880,No,0.47
+C0367,Nissan,A-Class,Japan,Seoul,2020,Hybrid,Automatic,Hatchback,69692,65430,4559947560,No,1.77
+C0368,Hyundai,Mustang,USA,Monterrey,2010,Electric,Automatic,Truck,28830,16668,480538440,Yes,1.39
+C0369,Hyundai,Model X,South Korea,Monterrey,2016,Petrol,Automatic,Truck,16639,18195,302746605,No,2.46
+C0370,Honda,Optima,USA,São Paulo,2023,Electric,Automatic,Crossover,33477,67995,2276268615,Yes,2.88
+C0371,Tesla,Civic,Japan,Seoul,2022,Diesel,Automatic,Sedan,5483,48250,264554750,No,1.95
+C0372,Mercedes,A-Class,UK,Monterrey,2013,Diesel,Automatic,Sedan,40409,26076,1053705084,No,0.21
+C0373,Tesla,Civic,France,Monterrey,2014,Hybrid,Manual,Hatchback,64980,25376,1648932480,No,2.2
+C0374,BMW,Passat,China,Monterrey,2019,Electric,Automatic,Coupe,49529,65839,3260939831,Yes,0.29
+C0375,Honda,Passat,South Korea,São Paulo,2014,Electric,Automatic,Crossover,21829,74723,1631128367,Yes,2.2
+C0376,Nissan,Altima,China,London,2010,Petrol,Manual,Sedan,37234,53442,1989859428,No,2.43
+C0377,Tesla,Mustang,Germany,Detroit,2015,Electric,Automatic,Sedan,43337,15392,667043104,Yes,0.77
+C0378,Ford,Optima,France,São Paulo,2022,Electric,Manual,Crossover,74854,37106,2777532524,Yes,2.89
+C0379,Kia,3 Series,Mexico,Seoul,2018,Petrol,Automatic,SUV,76954,34809,2678691786,No,3.2
+C0380,BMW,3 Series,USA,Paris,2011,Petrol,Manual,Crossover,67286,10693,719489198,No,2.86
+C0381,Toyota,Optima,India,London,2016,Electric,Automatic,Sedan,5258,69821,367118818,Yes,1.14
+C0382,Nissan,Model X,Japan,London,2015,Hybrid,Automatic,Coupe,68199,21352,1456185048,No,2.09
+C0383,BMW,Mustang,China,Paris,2014,Petrol,Automatic,SUV,22332,62196,1388961072,No,3.21
+C0384,Kia,Civic,USA,Nagoya,2013,Petrol,Automatic,Truck,2368,14992,35501056,No,1.19
+C0385,Honda,Model X,South Korea,Chennai,2013,Electric,Manual,Crossover,51165,63076,3227283540,Yes,2.89
+C0386,Kia,Elantra,China,Detroit,2015,Electric,Automatic,Truck,42362,33354,1412942148,Yes,0.13
+C0387,Hyundai,Optima,Mexico,Detroit,2013,Petrol,Automatic,SUV,20228,13312,269275136,No,0.11
+C0388,Kia,Civic,France,Nagoya,2014,Electric,Manual,SUV,40357,55833,2253252381,Yes,2.68
+C0389,Hyundai,3 Series,France,Chennai,2022,Petrol,Automatic,SUV,28683,14318,410683194,No,2.69
+C0390,Honda,Corolla,China,Detroit,2015,Hybrid,Automatic,Hatchback,19440,76003,1477498320,No,2.78
+C0391,Volkswagen,Altima,South Korea,Seoul,2014,Hybrid,Automatic,Crossover,5780,37192,214969760,No,3.26
+C0392,Hyundai,3 Series,France,Munich,2016,Petrol,Automatic,Coupe,2664,47489,126510696,No,0.5
+C0393,Toyota,Mustang,France,Munich,2018,Petrol,Automatic,Coupe,18905,50309,951091645,No,0.89
+C0394,Kia,Passat,Mexico,Detroit,2019,Diesel,Manual,Truck,3321,38273,127104633,No,3.17
+C0395,Kia,Corolla,Japan,Shanghai,2016,Diesel,Automatic,Truck,55590,57553,3199371270,No,0.7
+C0396,Toyota,Altima,South Korea,Detroit,2016,Electric,Automatic,Truck,23016,39473,908510568,Yes,2.42
+C0397,Ford,Altima,South Korea,Paris,2013,Electric,Manual,Crossover,10973,71410,783581930,Yes,1.9
+C0398,Mercedes,Elantra,UK,Paris,2010,Petrol,Automatic,Sedan,46954,23679,1111823766,No,0.38
+C0399,Volkswagen,Elantra,UK,Chennai,2023,Petrol,Automatic,Truck,43030,55310,2379989300,No,1.07
+C0400,Nissan,A-Class,France,Monterrey,2017,Diesel,Automatic,SUV,78214,70683,5528400162,No,1.87
+C0401,Hyundai,3 Series,India,London,2013,Diesel,Automatic,Truck,69581,35992,2504359352,No,3.0
+C0402,Toyota,3 Series,UK,Seoul,2010,Petrol,Automatic,SUV,25298,39433,997576034,No,2.51
+C0403,Honda,3 Series,France,Nagoya,2014,Hybrid,Automatic,Hatchback,1363,35933,48976679,No,2.21
+C0404,Hyundai,A-Class,Brazil,Detroit,2023,Hybrid,Automatic,Sedan,16648,55020,915972960,No,1.79
+C0405,Mercedes,Model X,Germany,Monterrey,2023,Electric,Manual,Sedan,54959,39236,2156371324,Yes,1.12
+C0406,Honda,Altima,Germany,Monterrey,2017,Petrol,Automatic,Crossover,66689,68735,4583868415,No,0.51
+C0407,BMW,Corolla,South Korea,Seoul,2013,Petrol,Manual,Crossover,8629,19770,170595330,No,1.49
+C0408,Kia,Mustang,India,Nagoya,2022,Electric,Automatic,Coupe,23618,79285,1872553130,Yes,0.2
+C0409,BMW,Altima,Mexico,Paris,2021,Diesel,Automatic,Hatchback,943,45271,42690553,No,0.82
+C0410,Hyundai,Elantra,Japan,São Paulo,2017,Diesel,Automatic,Crossover,27541,33439,920943499,No,1.57
+C0411,Mercedes,Civic,UK,Seoul,2017,Hybrid,Manual,SUV,21553,21101,454789853,No,1.52
+C0412,Volkswagen,Passat,Brazil,Monterrey,2012,Petrol,Automatic,Hatchback,37704,54917,2070590568,No,0.25
+C0413,Hyundai,A-Class,France,Munich,2018,Diesel,Automatic,Sedan,42740,51196,2188117040,No,2.1
+C0414,Toyota,Optima,India,Detroit,2012,Hybrid,Manual,SUV,61602,33569,2067917538,No,1.97
+C0415,Tesla,Civic,South Korea,Chennai,2010,Hybrid,Automatic,Hatchback,8791,51887,456138617,No,0.37
+C0416,Hyundai,Mustang,UK,Munich,2011,Hybrid,Manual,Sedan,16785,30893,518539005,No,3.31
+C0417,Kia,3 Series,India,Monterrey,2024,Diesel,Automatic,Crossover,62089,65304,4054660056,No,0.44
+C0418,Kia,Elantra,UK,London,2015,Diesel,Manual,SUV,14444,42399,612411156,No,3.01
+C0419,Hyundai,Elantra,Japan,Shanghai,2021,Petrol,Manual,SUV,54891,35236,1934139276,No,0.1
+C0420,Honda,Elantra,Japan,Nagoya,2019,Petrol,Automatic,Sedan,2107,59531,125431817,No,3.1
+C0421,Tesla,3 Series,Mexico,Paris,2011,Hybrid,Automatic,SUV,3453,19442,67133226,No,0.17
+C0422,Toyota,Optima,Germany,Detroit,2015,Hybrid,Automatic,Crossover,45441,66437,3018963717,No,2.68
+C0423,Hyundai,A-Class,USA,Chennai,2023,Diesel,Manual,Crossover,71969,70342,5062443398,No,1.33
+C0424,Honda,Civic,USA,São Paulo,2010,Diesel,Automatic,Crossover,77422,45069,3489332118,No,2.61
+C0425,Kia,3 Series,UK,Paris,2020,Petrol,Automatic,Sedan,62183,48560,3019606480,No,1.47
+C0426,Kia,Mustang,Mexico,Detroit,2022,Petrol,Automatic,Truck,70718,68070,4813774260,No,0.34
+C0427,Mercedes,A-Class,USA,São Paulo,2010,Electric,Automatic,Truck,11654,52427,610984258,Yes,2.71
+C0428,Hyundai,Mustang,South Korea,Chennai,2014,Petrol,Automatic,SUV,9547,70496,673025312,No,0.34
+C0429,Tesla,A-Class,USA,Monterrey,2019,Diesel,Automatic,Crossover,76374,74557,5694216318,No,3.24
+C0430,Ford,Optima,China,Shanghai,2022,Hybrid,Automatic,SUV,14823,58534,867649482,No,0.27
+C0431,Tesla,Passat,France,Munich,2020,Electric,Automatic,Sedan,38193,37930,1448660490,Yes,1.73
+C0432,Kia,Mustang,Mexico,Munich,2018,Petrol,Automatic,SUV,59230,17288,1023968240,No,2.56
+C0433,Kia,3 Series,South Korea,Monterrey,2023,Petrol,Automatic,Coupe,26792,71518,1916110256,No,1.44
+C0434,BMW,A-Class,India,Paris,2017,Diesel,Manual,Truck,45611,42400,1933906400,No,0.84
+C0435,Kia,Elantra,South Korea,Monterrey,2012,Electric,Manual,SUV,75953,11567,878548351,Yes,2.68
+C0436,Toyota,Altima,Germany,Monterrey,2024,Petrol,Automatic,SUV,76181,57878,4409203918,No,2.77
+C0437,Nissan,Elantra,India,Detroit,2012,Hybrid,Automatic,Hatchback,39991,58850,2353470350,No,3.24
+C0438,Hyundai,Model X,Brazil,Detroit,2024,Diesel,Automatic,SUV,49836,11094,552880584,No,1.38
+C0439,Tesla,Passat,France,Chennai,2010,Electric,Automatic,Coupe,17405,21135,367854675,Yes,1.82
+C0440,Nissan,Passat,France,Shanghai,2023,Petrol,Automatic,Truck,30773,55113,1695992349,No,1.33
+C0441,Honda,Elantra,France,Detroit,2012,Petrol,Automatic,Hatchback,26734,68791,1839058594,No,0.97
+C0442,Ford,Civic,France,Chennai,2024,Electric,Automatic,Sedan,79385,19684,1562614340,Yes,2.65
+C0443,Toyota,Optima,UK,London,2023,Diesel,Manual,Sedan,67038,68552,4595588976,No,1.25
+C0444,Tesla,Mustang,France,Monterrey,2021,Electric,Automatic,Truck,33073,18046,596835358,Yes,1.56
+C0445,Nissan,3 Series,France,Monterrey,2021,Electric,Automatic,Sedan,64820,14934,968021880,Yes,1.47
+C0446,Ford,Passat,France,Paris,2021,Diesel,Automatic,Coupe,11830,69556,822847480,No,2.52
+C0447,BMW,Elantra,Mexico,London,2022,Petrol,Manual,SUV,73053,56806,4149848718,No,3.22
+C0448,Toyota,Elantra,UK,Paris,2020,Hybrid,Automatic,Truck,41853,11354,475198962,No,2.37
+C0449,Toyota,Optima,Japan,São Paulo,2010,Diesel,Automatic,Hatchback,16511,63046,1040952506,No,1.7
+C0450,BMW,Optima,South Korea,Chennai,2017,Hybrid,Automatic,SUV,61485,75064,4615310040,No,2.75
+C0451,Hyundai,Corolla,South Korea,Chennai,2010,Petrol,Automatic,Sedan,17544,67184,1178676096,No,2.28
+C0452,BMW,Corolla,India,Monterrey,2014,Electric,Automatic,Sedan,38792,12963,502860696,Yes,0.31
+C0453,Toyota,Civic,Mexico,Seoul,2018,Hybrid,Automatic,Hatchback,5750,37424,215188000,No,0.43
+C0454,Toyota,Civic,China,São Paulo,2016,Petrol,Automatic,Coupe,23789,13042,310256138,No,0.23
+C0455,Nissan,Model X,South Korea,Chennai,2013,Petrol,Automatic,Hatchback,33587,17139,575647593,No,1.65
+C0456,Kia,Civic,USA,Detroit,2020,Electric,Automatic,Truck,76452,21226,1622770152,Yes,2.91
+C0457,Ford,A-Class,China,Monterrey,2018,Electric,Manual,Hatchback,36868,48108,1773645744,Yes,1.16
+C0458,BMW,Optima,France,Paris,2018,Petrol,Automatic,Sedan,71315,78617,5606571355,No,1.41
+C0459,Ford,3 Series,France,London,2011,Petrol,Manual,Coupe,61540,39815,2450215100,No,3.19
+C0460,BMW,A-Class,UK,Paris,2019,Hybrid,Automatic,Coupe,59400,17802,1057438800,No,2.95
+C0461,Honda,Mustang,China,Munich,2019,Petrol,Automatic,Crossover,15994,52230,835366620,No,2.36
+C0462,Toyota,Elantra,USA,Seoul,2020,Petrol,Automatic,Hatchback,45666,73372,3350605752,No,1.01
+C0463,Kia,Civic,UK,Chennai,2021,Hybrid,Automatic,Truck,25833,64020,1653828660,No,0.5
+C0464,Nissan,Elantra,India,Shanghai,2015,Diesel,Manual,Sedan,33550,27465,921450750,No,0.15
+C0465,Kia,Passat,China,Nagoya,2013,Hybrid,Manual,SUV,48570,17994,873968580,No,0.46
+C0466,Kia,Model X,Mexico,Seoul,2017,Hybrid,Automatic,Coupe,5666,13531,76666646,No,1.09
+C0467,Kia,Passat,France,Monterrey,2021,Electric,Automatic,Hatchback,7621,19343,147413003,Yes,1.98
+C0468,Ford,Model X,France,Chennai,2020,Hybrid,Automatic,Crossover,15177,69066,1048214682,No,0.32
+C0469,BMW,Corolla,Germany,London,2016,Petrol,Automatic,Truck,57061,16229,926042969,No,0.56
+C0470,Volkswagen,Elantra,UK,Chennai,2016,Petrol,Automatic,Truck,38164,54789,2090967396,No,0.72
+C0471,Honda,Model X,Japan,Nagoya,2020,Petrol,Automatic,Sedan,1793,54069,96945717,No,2.25
+C0472,Tesla,Altima,Japan,London,2019,Diesel,Manual,Coupe,22943,19524,447939132,No,2.19
+C0473,Kia,A-Class,UK,Paris,2018,Petrol,Automatic,Sedan,49712,73103,3634096336,No,1.97
+C0474,Hyundai,Model X,Mexico,London,2022,Diesel,Manual,Crossover,75776,18103,1371772928,No,0.95
+C0475,Ford,Model X,Brazil,Seoul,2014,Petrol,Manual,SUV,13059,68581,895599279,No,1.36
+C0476,Nissan,A-Class,UK,Paris,2015,Hybrid,Manual,SUV,65731,64203,4220127393,No,0.43
+C0477,Tesla,Elantra,Mexico,Chennai,2010,Electric,Automatic,SUV,39544,25090,992158960,Yes,0.87
+C0478,Volkswagen,Elantra,India,Monterrey,2015,Petrol,Automatic,Truck,22247,25915,576531005,No,3.15
+C0479,Hyundai,A-Class,France,São Paulo,2011,Diesel,Automatic,Coupe,74009,51477,3809761293,No,3.43
+C0480,Volkswagen,Passat,USA,Monterrey,2015,Diesel,Automatic,Sedan,30629,66987,2051744823,No,2.3
+C0481,Tesla,Altima,Brazil,Chennai,2018,Electric,Automatic,Sedan,537,63238,33958806,Yes,3.22
+C0482,Kia,3 Series,China,Nagoya,2017,Petrol,Manual,Crossover,49003,25029,1226496087,No,2.29
+C0483,Hyundai,Mustang,Brazil,São Paulo,2018,Hybrid,Manual,SUV,28707,63520,1823468640,No,0.21
+C0484,Volkswagen,Altima,USA,Chennai,2022,Petrol,Manual,Coupe,33741,61464,2073856824,No,3.49
+C0485,Nissan,Elantra,Germany,Shanghai,2024,Petrol,Manual,Coupe,558,31961,17834238,No,0.44
+C0486,BMW,3 Series,France,Seoul,2019,Electric,Automatic,Crossover,68672,36835,2529533120,Yes,2.42
+C0487,Toyota,Corolla,Japan,Shanghai,2017,Petrol,Automatic,Hatchback,15334,37725,578475150,No,0.96
+C0488,BMW,Civic,Mexico,Paris,2012,Hybrid,Automatic,Coupe,27690,35357,979035330,No,1.43
+C0489,Tesla,Model X,UK,Munich,2017,Diesel,Automatic,Coupe,73332,11244,824545008,No,2.3
+C0490,Ford,A-Class,UK,Chennai,2015,Electric,Manual,Sedan,21883,77952,1705823616,Yes,1.58
+C0491,Toyota,A-Class,Japan,Detroit,2022,Hybrid,Automatic,Crossover,25160,58061,1460814760,No,0.95
+C0492,Honda,Model X,Brazil,Detroit,2015,Diesel,Automatic,Coupe,3174,16490,52339260,No,1.24
+C0493,Nissan,Civic,France,London,2015,Electric,Automatic,Coupe,23320,15839,369365480,Yes,1.26
+C0494,Honda,Mustang,South Korea,Monterrey,2012,Electric,Automatic,Sedan,26166,34992,915600672,Yes,3.36
+C0495,Hyundai,Civic,Mexico,Monterrey,2019,Diesel,Automatic,Coupe,44294,54938,2433423772,No,2.82
+C0496,Toyota,3 Series,India,Monterrey,2010,Diesel,Manual,Sedan,2576,66249,170657424,No,1.66
+C0497,Honda,Civic,USA,Shanghai,2021,Hybrid,Automatic,Hatchback,65354,54735,3577151190,No,0.78
+C0498,Honda,3 Series,Brazil,Seoul,2023,Petrol,Automatic,Truck,52842,60734,3209306028,No,2.86
+C0499,Volkswagen,Civic,China,Chennai,2013,Petrol,Automatic,Sedan,38055,57080,2172179400,No,0.63
+C0500,BMW,Mustang,Germany,Nagoya,2019,Petrol,Automatic,Sedan,55708,34260,1908556080,No,0.82
+C0501,Volkswagen,Mustang,UK,London,2021,Petrol,Automatic,Coupe,32906,69607,2290487942,No,1.34
+C0502,Toyota,Elantra,Brazil,Paris,2015,Petrol,Manual,Sedan,62072,71852,4459997344,No,3.09
+C0503,Toyota,Model X,Germany,São Paulo,2020,Hybrid,Automatic,Crossover,40762,38380,1564445560,No,0.55
+C0504,Tesla,Mustang,USA,Paris,2021,Electric,Automatic,SUV,23716,51191,1214045756,Yes,0.52
+C0505,Volkswagen,3 Series,UK,Chennai,2019,Hybrid,Automatic,SUV,68617,14930,1024451810,No,1.78
+C0506,Mercedes,Mustang,UK,Munich,2011,Hybrid,Automatic,Hatchback,30784,14353,441842752,No,1.04
+C0507,BMW,Elantra,South Korea,Monterrey,2016,Hybrid,Automatic,Sedan,20671,17832,368605272,No,2.03
+C0508,Toyota,A-Class,Brazil,São Paulo,2016,Electric,Automatic,Crossover,14833,59554,883364482,Yes,1.64
+C0509,Tesla,3 Series,France,Shanghai,2020,Hybrid,Automatic,Coupe,31035,64017,1986767595,No,1.58
+C0510,Volkswagen,Elantra,Japan,Chennai,2013,Hybrid,Manual,Coupe,76440,67298,5144259120,No,0.48
+C0511,BMW,Passat,Japan,Munich,2013,Electric,Automatic,Truck,34200,61389,2099503800,Yes,0.58
+C0512,Volkswagen,Passat,India,Shanghai,2024,Hybrid,Automatic,Hatchback,42016,35525,1492618400,No,2.89
+C0513,Honda,Corolla,China,Munich,2010,Petrol,Automatic,Crossover,16077,78211,1257398247,No,3.11
+C0514,Tesla,Civic,Germany,Monterrey,2022,Diesel,Automatic,Crossover,15515,41280,640459200,No,0.9
+C0515,BMW,Model X,Brazil,Shanghai,2011,Hybrid,Manual,Coupe,21736,21240,461672640,No,0.49
+C0516,Kia,Optima,Mexico,Seoul,2018,Diesel,Manual,Truck,67140,75092,5041676880,No,0.28
+C0517,Hyundai,Altima,China,Detroit,2019,Hybrid,Automatic,Coupe,46204,79541,3675112364,No,2.17
+C0518,Hyundai,Elantra,South Korea,Paris,2017,Hybrid,Manual,Truck,42869,72851,3123049519,No,2.53
+C0519,BMW,A-Class,UK,Seoul,2017,Petrol,Manual,SUV,4146,16544,68591424,No,1.37
+C0520,Volkswagen,Altima,France,São Paulo,2018,Electric,Manual,Crossover,26406,67981,1795106286,Yes,2.41
+C0521,Tesla,A-Class,Brazil,London,2024,Diesel,Automatic,SUV,48228,27332,1318167696,No,2.52
+C0522,Hyundai,Altima,China,Detroit,2016,Electric,Automatic,Coupe,15378,36836,566464008,Yes,3.28
+C0523,Tesla,Elantra,China,Seoul,2022,Petrol,Automatic,Hatchback,9645,24388,235222260,No,0.32
+C0524,Hyundai,Optima,France,Chennai,2018,Petrol,Manual,Sedan,18726,11694,218981844,No,0.75
+C0525,Honda,Altima,India,Munich,2019,Diesel,Automatic,Hatchback,3302,59294,195788788,No,0.33
+C0526,Volkswagen,Elantra,Germany,São Paulo,2021,Electric,Automatic,Hatchback,24619,48769,1200644011,Yes,3.05
+C0527,Honda,Mustang,Germany,Chennai,2011,Petrol,Automatic,Sedan,64060,49420,3165845200,No,2.79
+C0528,Hyundai,Optima,China,Detroit,2015,Hybrid,Automatic,Crossover,57853,47855,2768555315,No,2.05
+C0529,Kia,3 Series,USA,Munich,2024,Hybrid,Automatic,SUV,62626,11460,717693960,No,0.38
+C0530,Kia,A-Class,China,São Paulo,2012,Hybrid,Manual,SUV,72141,57646,4158640086,No,1.03
+C0531,Honda,Passat,China,London,2020,Electric,Automatic,Crossover,52212,51252,2675969424,Yes,1.11
+C0532,Kia,Civic,France,Detroit,2024,Hybrid,Manual,Sedan,52689,19835,1045086315,No,2.01
+C0533,Hyundai,Passat,UK,São Paulo,2015,Hybrid,Automatic,Truck,58284,20910,1218718440,No,0.98
+C0534,BMW,Optima,France,Seoul,2012,Petrol,Automatic,Hatchback,68785,18463,1269977455,No,0.35
+C0535,Honda,3 Series,Brazil,São Paulo,2017,Petrol,Automatic,Coupe,43449,23336,1013925864,No,2.58
+C0536,Ford,A-Class,China,Detroit,2024,Hybrid,Automatic,SUV,34629,36534,1265135886,No,1.12
+C0537,Volkswagen,3 Series,Germany,Monterrey,2020,Hybrid,Automatic,Crossover,25012,12369,309373428,No,1.64
+C0538,Kia,Altima,Mexico,Seoul,2024,Petrol,Automatic,Coupe,79531,35381,2813886311,No,0.53
+C0539,Kia,A-Class,Germany,Chennai,2022,Diesel,Automatic,Sedan,64054,35407,2267959978,No,2.83
+C0540,Toyota,Altima,Japan,Detroit,2013,Electric,Manual,Coupe,2564,72552,186023328,Yes,2.02
+C0541,Mercedes,Elantra,India,Monterrey,2021,Electric,Automatic,Coupe,52067,45939,2391905913,Yes,3.17
+C0542,Honda,Optima,South Korea,Nagoya,2019,Petrol,Automatic,Hatchback,30511,77576,2366921336,No,1.78
+C0543,Nissan,Elantra,Brazil,London,2015,Electric,Automatic,Sedan,71652,36170,2591652840,Yes,3.3
+C0544,Kia,Corolla,Brazil,Monterrey,2024,Petrol,Automatic,Coupe,74011,32369,2395662059,No,3.13
+C0545,Volkswagen,3 Series,India,Nagoya,2018,Petrol,Automatic,SUV,11460,54544,625074240,No,2.06
+C0546,Ford,Altima,Mexico,Paris,2011,Petrol,Automatic,Sedan,59420,15900,944778000,No,3.28
+C0547,Kia,Mustang,South Korea,Munich,2011,Petrol,Automatic,SUV,21887,50733,1110393171,No,1.2
+C0548,Ford,Elantra,UK,Monterrey,2016,Diesel,Automatic,Crossover,15824,10589,167560336,No,1.34
+C0549,Hyundai,Corolla,China,Shanghai,2024,Hybrid,Automatic,Crossover,64460,70044,4515036240,No,0.25
+C0550,Hyundai,Model X,South Korea,London,2011,Hybrid,Manual,Truck,72279,75311,5443403769,No,2.1
+C0551,Mercedes,Passat,Mexico,Monterrey,2011,Diesel,Automatic,Crossover,33128,67926,2250252528,No,2.55
+C0552,BMW,A-Class,USA,Nagoya,2013,Electric,Automatic,Coupe,75596,59008,4460768768,Yes,2.73
+C0553,Nissan,Corolla,Japan,Shanghai,2018,Electric,Manual,Sedan,47952,76794,3682425888,Yes,0.61
+C0554,Toyota,Optima,South Korea,London,2017,Hybrid,Automatic,Crossover,41598,12866,535199868,No,1.61
+C0555,Mercedes,Elantra,South Korea,Shanghai,2011,Electric,Automatic,SUV,70959,62890,4462611510,Yes,0.7
+C0556,Tesla,Optima,Japan,Seoul,2017,Hybrid,Automatic,Coupe,39735,51504,2046511440,No,2.35
+C0557,Toyota,Passat,China,Nagoya,2013,Hybrid,Automatic,Crossover,28449,63374,1802926926,No,0.64
+C0558,Honda,Mustang,South Korea,São Paulo,2011,Diesel,Automatic,Hatchback,23321,39404,918940684,No,3.17
+C0559,Volkswagen,3 Series,Japan,Seoul,2020,Electric,Automatic,SUV,72112,75223,5424480976,Yes,0.88
+C0560,Tesla,3 Series,Japan,London,2019,Diesel,Manual,SUV,22532,10637,239672884,No,1.09
+C0561,Tesla,Optima,Japan,London,2016,Hybrid,Manual,Truck,74037,25828,1912227636,No,2.99
+C0562,Mercedes,Altima,France,Detroit,2015,Hybrid,Automatic,Hatchback,15803,63544,1004185832,No,1.66
+C0563,BMW,Mustang,Mexico,Nagoya,2023,Hybrid,Automatic,Truck,12803,55097,705406891,No,0.18
+C0564,Mercedes,3 Series,France,Paris,2019,Petrol,Automatic,Crossover,51201,42022,2151568422,No,1.78
+C0565,Honda,Mustang,USA,Paris,2014,Petrol,Automatic,Hatchback,51011,42202,2152766222,No,0.39
+C0566,Kia,Corolla,UK,London,2020,Petrol,Automatic,SUV,18780,38704,726861120,No,3.45
+C0567,Kia,Mustang,France,Paris,2010,Diesel,Automatic,Truck,39927,33641,1343184207,No,2.1
+C0568,BMW,Civic,France,Munich,2011,Hybrid,Automatic,Coupe,7467,47479,354525693,No,0.97
+C0569,Honda,Passat,Mexico,Detroit,2017,Electric,Automatic,Hatchback,7161,32027,229345347,Yes,2.02
+C0570,BMW,3 Series,UK,London,2010,Diesel,Manual,SUV,78452,52912,4151052224,No,0.36
+C0571,Ford,Mustang,India,Paris,2012,Diesel,Automatic,Sedan,66546,52692,3506441832,No,2.82
+C0572,Kia,Optima,Japan,Nagoya,2011,Diesel,Manual,Hatchback,35700,42209,1506861300,No,3.25
+C0573,Tesla,Model X,Brazil,Monterrey,2014,Electric,Manual,Hatchback,67942,67563,4590365346,Yes,3.07
+C0574,Nissan,Civic,UK,São Paulo,2013,Hybrid,Automatic,Crossover,62171,66738,4149168198,No,1.26
+C0575,Volkswagen,Civic,USA,Seoul,2022,Petrol,Manual,Coupe,58668,47242,2771593656,No,1.21
+C0576,Honda,Altima,China,Seoul,2016,Hybrid,Automatic,Crossover,48822,19941,973559502,No,0.22
+C0577,Toyota,Mustang,USA,Munich,2014,Hybrid,Automatic,Hatchback,38196,17073,652120308,No,2.31
+C0578,BMW,Altima,Japan,Shanghai,2017,Diesel,Automatic,Hatchback,70746,47827,3383568942,No,1.92
+C0579,Volkswagen,Altima,UK,Nagoya,2013,Diesel,Automatic,Coupe,39392,56225,2214815200,No,1.66
+C0580,Toyota,Model X,USA,Shanghai,2024,Diesel,Automatic,Coupe,16083,47096,757444968,No,3.19
+C0581,Volkswagen,Corolla,USA,Detroit,2021,Petrol,Automatic,Truck,55715,60546,3373320390,No,0.67
+C0582,Nissan,Mustang,India,São Paulo,2015,Petrol,Automatic,SUV,25353,76457,1938414321,No,0.13
+C0583,Toyota,Elantra,India,Detroit,2013,Petrol,Automatic,SUV,6609,78309,517544181,No,0.35
+C0584,Mercedes,3 Series,UK,London,2011,Hybrid,Automatic,Truck,60257,79998,4820439486,No,0.86
+C0585,Hyundai,Altima,Japan,Nagoya,2010,Diesel,Automatic,SUV,7159,40268,288278612,No,0.21
+C0586,Mercedes,Passat,France,London,2023,Electric,Automatic,Hatchback,1738,52078,90511564,Yes,1.81
+C0587,Kia,A-Class,Germany,Chennai,2023,Hybrid,Automatic,Truck,15564,11865,184666860,No,1.17
+C0588,Hyundai,Passat,South Korea,Paris,2010,Petrol,Automatic,Truck,31615,38887,1229412505,No,0.71
+C0589,Mercedes,Model X,Brazil,Seoul,2017,Electric,Automatic,SUV,32452,59876,1943095952,Yes,2.65
+C0590,Hyundai,Model X,South Korea,Monterrey,2023,Electric,Manual,Sedan,6120,43479,266091480,Yes,0.8
+C0591,Hyundai,Optima,Mexico,London,2013,Diesel,Automatic,SUV,44758,50478,2259294324,No,2.44
+C0592,Tesla,Corolla,India,Shanghai,2014,Electric,Automatic,Crossover,4970,36401,180912970,Yes,1.29
+C0593,BMW,3 Series,UK,Chennai,2020,Petrol,Automatic,Sedan,22503,38502,866410506,No,1.84
+C0594,BMW,Altima,South Korea,Seoul,2017,Diesel,Manual,Truck,28071,23394,656692974,No,3.28
+C0595,Tesla,Passat,Japan,London,2021,Electric,Automatic,Sedan,25168,19262,484786016,Yes,0.23
+C0596,Volkswagen,A-Class,Brazil,Chennai,2024,Diesel,Automatic,Hatchback,77759,14487,1126494633,No,1.8
+C0597,Ford,Model X,South Korea,Chennai,2016,Electric,Automatic,Coupe,32546,37341,1215300186,Yes,3.01
+C0598,Volkswagen,Model X,Brazil,Nagoya,2022,Hybrid,Automatic,Sedan,71477,23570,1684712890,No,2.1
+C0599,Toyota,Corolla,China,Detroit,2017,Hybrid,Automatic,Crossover,77755,67268,5230423340,No,1.04
+C0600,Toyota,A-Class,Japan,Chennai,2022,Petrol,Automatic,Coupe,5897,39605,233550685,No,1.45
+C0601,Hyundai,A-Class,Germany,Munich,2017,Hybrid,Manual,Hatchback,22733,36723,834823959,No,2.41
+C0602,Mercedes,Corolla,USA,Detroit,2015,Hybrid,Automatic,Crossover,60808,79108,4810399264,No,3.13
+C0603,Mercedes,Model X,Brazil,Seoul,2019,Hybrid,Automatic,Coupe,70226,70098,4922702148,No,0.24
+C0604,BMW,3 Series,Japan,Seoul,2011,Electric,Manual,Hatchback,63719,58707,3740751333,Yes,0.34
+C0605,Honda,Mustang,Brazil,Seoul,2015,Electric,Automatic,Coupe,1630,59028,96215640,Yes,1.21
+C0606,Volkswagen,Mustang,Brazil,Seoul,2023,Diesel,Manual,Coupe,14571,66921,975105891,No,0.89
+C0607,Kia,Corolla,France,Munich,2010,Electric,Automatic,SUV,2618,70760,185249680,Yes,1.0
+C0608,Nissan,A-Class,France,London,2010,Hybrid,Manual,Crossover,1163,20249,23549587,No,0.85
+C0609,Mercedes,Altima,Japan,São Paulo,2020,Electric,Automatic,Crossover,62908,77847,4897199076,Yes,0.77
+C0610,Nissan,Corolla,France,Chennai,2012,Petrol,Manual,Sedan,52286,53839,2815025954,No,0.54
+C0611,Hyundai,3 Series,Mexico,Seoul,2012,Diesel,Manual,Crossover,19658,49673,976471834,No,3.28
+C0612,Nissan,Corolla,Germany,Detroit,2020,Diesel,Automatic,Crossover,31587,13642,430909854,No,0.59
+C0613,Kia,Civic,UK,Detroit,2022,Electric,Automatic,Coupe,53621,16338,876059898,Yes,0.79
+C0614,Tesla,Passat,Japan,Chennai,2014,Hybrid,Automatic,Truck,20374,61761,1258318614,No,0.94
+C0615,Kia,A-Class,Japan,London,2010,Diesel,Manual,SUV,41321,19622,810800662,No,3.27
+C0616,Nissan,Optima,Mexico,Monterrey,2019,Petrol,Automatic,Sedan,61082,58423,3568593686,No,2.67
+C0617,Kia,Optima,India,Monterrey,2015,Petrol,Automatic,SUV,23287,52873,1231253551,No,2.78
+C0618,Ford,A-Class,India,São Paulo,2016,Diesel,Automatic,Sedan,65203,57565,3753410695,No,0.46
+C0619,Hyundai,3 Series,France,London,2019,Hybrid,Automatic,Hatchback,22205,17806,395382230,No,2.94
+C0620,Volkswagen,Civic,UK,Chennai,2021,Hybrid,Automatic,Coupe,69881,10757,751709917,No,1.49
+C0621,Tesla,Civic,France,Monterrey,2022,Electric,Manual,Crossover,45153,31470,1420964910,Yes,0.99
+C0622,Mercedes,Model X,China,Monterrey,2020,Electric,Automatic,Crossover,32752,16220,531237440,Yes,2.06
+C0623,Toyota,Passat,China,Monterrey,2012,Diesel,Manual,Truck,73832,64754,4780917328,No,2.9
+C0624,Volkswagen,Mustang,USA,Shanghai,2013,Electric,Automatic,SUV,73299,32505,2382583995,Yes,2.75
+C0625,Toyota,Elantra,China,Munich,2019,Electric,Automatic,SUV,62685,38288,2400083280,Yes,3.13
+C0626,Hyundai,3 Series,India,Chennai,2020,Electric,Automatic,SUV,78813,29109,2294167617,Yes,3.26
+C0627,Tesla,Elantra,Germany,Paris,2019,Petrol,Automatic,Crossover,42038,13497,567386886,No,0.91
+C0628,BMW,Elantra,China,Nagoya,2023,Electric,Manual,SUV,20843,67326,1403275818,Yes,1.54
+C0629,Mercedes,A-Class,France,Nagoya,2021,Diesel,Manual,Coupe,41732,19864,828964448,No,0.15
+C0630,Ford,Optima,Brazil,London,2024,Hybrid,Automatic,Sedan,53606,31017,1662697302,No,3.09
+C0631,BMW,Optima,Japan,Chennai,2019,Electric,Automatic,Crossover,53579,11821,633357359,Yes,0.63
+C0632,Hyundai,Mustang,Germany,Chennai,2023,Hybrid,Automatic,Coupe,25528,60337,1540282936,No,3.03
+C0633,Volkswagen,A-Class,Germany,Nagoya,2019,Electric,Manual,Hatchback,42635,55485,2365602975,Yes,1.22
+C0634,Ford,Elantra,France,São Paulo,2019,Diesel,Manual,Coupe,31566,66388,2095603608,No,1.35
+C0635,Kia,Altima,Japan,Nagoya,2012,Petrol,Manual,Coupe,21410,20372,436164520,No,0.23
+C0636,Nissan,Optima,India,Chennai,2010,Diesel,Automatic,Hatchback,7641,26283,200828403,No,1.21
+C0637,Ford,3 Series,Germany,Monterrey,2017,Petrol,Automatic,Coupe,46450,50857,2362307650,No,3.12
+C0638,Hyundai,3 Series,USA,São Paulo,2022,Electric,Automatic,Sedan,56223,61772,3473007156,Yes,0.19
+C0639,Honda,Model X,France,Seoul,2019,Electric,Automatic,Crossover,16725,69670,1165230750,Yes,1.48
+C0640,Nissan,Corolla,Germany,Paris,2019,Petrol,Automatic,Truck,33459,41261,1380551799,No,0.21
+C0641,Toyota,Altima,UK,Shanghai,2011,Diesel,Automatic,Hatchback,49692,67154,3337016568,No,1.36
+C0642,Mercedes,Optima,Japan,Munich,2010,Diesel,Automatic,Crossover,10551,16107,169944957,No,0.69
+C0643,Toyota,Civic,China,Seoul,2023,Petrol,Manual,SUV,71928,45561,3277111608,No,0.96
+C0644,Ford,Optima,Germany,Detroit,2017,Electric,Manual,Sedan,3949,45268,178763332,Yes,3.08
+C0645,Toyota,Model X,France,Nagoya,2016,Petrol,Automatic,Truck,41595,41608,1730684760,No,1.58
+C0646,Hyundai,3 Series,China,Paris,2016,Electric,Automatic,Sedan,78429,23138,1814690202,Yes,1.03
+C0647,Kia,Elantra,USA,Nagoya,2013,Petrol,Automatic,Sedan,29690,47693,1416005170,No,2.1
+C0648,Volkswagen,Civic,China,Nagoya,2020,Electric,Manual,SUV,26641,31248,832477968,Yes,0.58
+C0649,Mercedes,A-Class,UK,Seoul,2018,Petrol,Manual,Truck,24408,28632,698849856,No,0.98
+C0650,Toyota,Passat,India,Monterrey,2015,Hybrid,Manual,Sedan,32822,57547,1888807634,No,1.96
+C0651,Toyota,Elantra,Germany,Monterrey,2011,Electric,Manual,SUV,51210,22100,1131741000,Yes,0.91
+C0652,Ford,Passat,South Korea,Shanghai,2023,Diesel,Automatic,Hatchback,14512,57930,840680160,No,2.41
+C0653,Volkswagen,Altima,South Korea,São Paulo,2010,Petrol,Automatic,SUV,35389,76861,2720033929,No,1.77
+C0654,BMW,Corolla,China,Nagoya,2010,Diesel,Automatic,Coupe,17912,63025,1128903800,No,2.72
+C0655,Toyota,Civic,Mexico,London,2018,Petrol,Automatic,Crossover,25157,60840,1530551880,No,3.32
+C0656,Hyundai,Mustang,Japan,Monterrey,2013,Diesel,Manual,SUV,6156,29369,180795564,No,0.49
+C0657,Honda,Civic,South Korea,Chennai,2014,Diesel,Automatic,SUV,9467,28460,269430820,No,1.24
+C0658,Mercedes,Optima,Mexico,Paris,2012,Petrol,Automatic,SUV,16264,11461,186401704,No,1.19
+C0659,Toyota,3 Series,South Korea,London,2013,Petrol,Automatic,Sedan,16373,52362,857323026,No,0.61
+C0660,Hyundai,Optima,Mexico,Seoul,2021,Diesel,Manual,Truck,51530,38610,1989573300,No,2.86
+C0661,Hyundai,Optima,Japan,Seoul,2017,Diesel,Automatic,SUV,68307,30995,2117175465,No,2.68
+C0662,Mercedes,Altima,Brazil,Shanghai,2022,Diesel,Automatic,SUV,2107,17717,37329719,No,1.75
+C0663,BMW,Elantra,South Korea,Shanghai,2013,Electric,Automatic,Coupe,20023,74022,1482142506,Yes,1.93
+C0664,Hyundai,Mustang,UK,São Paulo,2018,Electric,Automatic,Coupe,48947,63668,3116357596,Yes,0.3
+C0665,Honda,Mustang,Germany,Chennai,2018,Hybrid,Automatic,Hatchback,50257,61645,3098092765,No,1.99
+C0666,Hyundai,Optima,Mexico,Paris,2015,Electric,Manual,Hatchback,69701,39550,2756674550,Yes,2.79
+C0667,Hyundai,Passat,Germany,Chennai,2011,Electric,Automatic,Coupe,71888,13576,975951488,Yes,2.05
+C0668,Hyundai,Altima,France,Detroit,2021,Petrol,Manual,Truck,5962,50868,303275016,No,1.0
+C0669,Kia,Optima,France,Shanghai,2019,Hybrid,Automatic,Hatchback,32295,56380,1820792100,No,2.37
+C0670,Kia,Corolla,Japan,São Paulo,2020,Hybrid,Automatic,Crossover,70306,15728,1105772768,No,1.33
+C0671,BMW,3 Series,Mexico,Munich,2016,Electric,Manual,Crossover,48965,42800,2095702000,Yes,1.95
+C0672,Toyota,Elantra,USA,Nagoya,2018,Petrol,Automatic,Truck,61609,20886,1286765574,No,1.76
+C0673,Hyundai,A-Class,France,Nagoya,2015,Petrol,Automatic,Coupe,51028,79909,4077596452,No,1.4
+C0674,Volkswagen,Corolla,Japan,Munich,2012,Hybrid,Manual,Hatchback,36730,57236,2102278280,No,2.54
+C0675,Toyota,Passat,France,Monterrey,2023,Petrol,Automatic,SUV,48742,55805,2720047310,No,3.11
+C0676,BMW,Civic,France,Chennai,2024,Diesel,Manual,Coupe,66383,42532,2823401756,No,0.12
+C0677,Tesla,Civic,USA,Munich,2016,Electric,Automatic,Hatchback,2283,38688,88324704,Yes,3.27
+C0678,Toyota,Corolla,South Korea,São Paulo,2014,Diesel,Automatic,Truck,28890,21063,608510070,No,1.84
+C0679,Toyota,Optima,China,Paris,2010,Hybrid,Automatic,Crossover,8917,33089,295054613,No,2.48
+C0680,Nissan,A-Class,Brazil,Munich,2012,Hybrid,Manual,Truck,72602,65942,4787521084,No,3.01
+C0681,Ford,Model X,France,São Paulo,2014,Petrol,Automatic,Hatchback,17926,61829,1108346654,No,1.69
+C0682,Nissan,Model X,France,Shanghai,2016,Petrol,Manual,Truck,31250,60553,1892281250,No,2.94
+C0683,Honda,Passat,UK,London,2012,Hybrid,Manual,Hatchback,58688,43585,2557916480,No,0.7
+C0684,Kia,Optima,Brazil,Seoul,2015,Hybrid,Automatic,Hatchback,11372,69004,784713488,No,0.64
+C0685,Kia,Mustang,USA,Seoul,2014,Diesel,Automatic,Truck,48586,12438,604312668,No,2.34
+C0686,Ford,Mustang,Germany,Detroit,2022,Diesel,Automatic,Sedan,67270,33212,2234171240,No,3.06
+C0687,Mercedes,Elantra,Mexico,Chennai,2010,Petrol,Automatic,SUV,35220,60362,2125949640,No,3.13
+C0688,Mercedes,A-Class,France,Paris,2019,Diesel,Automatic,Coupe,18579,26983,501317157,No,2.29
+C0689,BMW,A-Class,China,London,2015,Petrol,Automatic,Crossover,17838,24026,428575788,No,1.89
+C0690,Ford,Civic,Mexico,London,2023,Petrol,Manual,SUV,3791,60998,231243418,No,1.23
+C0691,Toyota,Altima,Brazil,Shanghai,2017,Electric,Manual,Coupe,74584,65744,4903450496,Yes,3.43
+C0692,Mercedes,Passat,Mexico,Munich,2022,Petrol,Manual,Coupe,49893,67013,3343479609,No,1.19
+C0693,Hyundai,Model X,South Korea,Chennai,2022,Diesel,Manual,Crossover,70270,61039,4289210530,No,2.63
+C0694,Volkswagen,Passat,France,Nagoya,2010,Hybrid,Automatic,SUV,27220,59831,1628599820,No,1.91
+C0695,Toyota,Mustang,Mexico,London,2011,Hybrid,Automatic,Crossover,13868,44603,618554404,No,2.17
+C0696,Honda,Mustang,Germany,São Paulo,2023,Diesel,Manual,Hatchback,54813,77713,4259682669,No,1.44
+C0697,Hyundai,Corolla,Germany,Nagoya,2024,Hybrid,Automatic,Crossover,48469,23105,1119876245,No,3.38
+C0698,Hyundai,Elantra,France,Detroit,2013,Petrol,Manual,Truck,49338,77182,3808005516,No,2.04
+C0699,Ford,A-Class,India,Munich,2021,Hybrid,Automatic,Sedan,9234,62147,573865398,No,3.29
+C0700,BMW,3 Series,Germany,Munich,2011,Diesel,Automatic,Sedan,12697,56434,716542498,No,0.13
+C0701,Honda,Passat,Mexico,Paris,2020,Hybrid,Manual,Sedan,69395,36515,2533958425,No,2.05
+C0702,Mercedes,Mustang,Japan,London,2018,Petrol,Manual,SUV,57331,68001,3898565331,No,2.54
+C0703,Ford,Altima,Germany,Shanghai,2019,Petrol,Automatic,SUV,58573,68397,4006217481,No,2.63
+C0704,Mercedes,Civic,Brazil,Monterrey,2017,Diesel,Manual,Hatchback,73425,71415,5243646375,No,3.18
+C0705,Ford,Model X,India,Monterrey,2017,Diesel,Automatic,Sedan,50802,26960,1369621920,No,0.11
+C0706,Ford,Elantra,Mexico,Seoul,2013,Diesel,Automatic,Hatchback,16124,55778,899364472,No,0.1
+C0707,Ford,Altima,USA,São Paulo,2014,Electric,Manual,Sedan,67771,40941,2774612511,Yes,1.71
+C0708,BMW,Elantra,UK,Nagoya,2013,Electric,Automatic,SUV,24815,50955,1264448325,Yes,0.2
+C0709,Ford,Corolla,USA,Detroit,2022,Petrol,Automatic,Truck,17922,66908,1199125176,No,3.41
+C0710,Tesla,3 Series,South Korea,Seoul,2018,Electric,Automatic,Truck,39637,74067,2935793679,Yes,0.86
+C0711,Volkswagen,Mustang,UK,Munich,2022,Electric,Automatic,Truck,73163,65696,4806516448,Yes,1.71
+C0712,Mercedes,Civic,South Korea,Nagoya,2011,Hybrid,Automatic,Crossover,48732,28429,1385402028,No,0.31
+C0713,Toyota,Altima,UK,Chennai,2022,Electric,Automatic,Truck,78642,24847,1954017774,Yes,1.87
+C0714,Nissan,Elantra,UK,London,2020,Hybrid,Automatic,Coupe,33243,57191,1901200413,No,1.39
+C0715,Honda,A-Class,Japan,Detroit,2017,Diesel,Manual,Sedan,16136,44256,714114816,No,0.25
+C0716,Kia,Corolla,China,Chennai,2011,Hybrid,Automatic,Truck,10608,38774,411314592,No,1.24
+C0717,BMW,A-Class,Brazil,Shanghai,2010,Hybrid,Manual,Coupe,74134,19127,1417961018,No,1.43
+C0718,Toyota,Civic,USA,London,2019,Diesel,Automatic,Coupe,36680,38205,1401359400,No,3.47
+C0719,Hyundai,Altima,Germany,Nagoya,2012,Diesel,Automatic,Coupe,19383,68764,1332852612,No,0.81
+C0720,Tesla,Corolla,Mexico,London,2018,Petrol,Automatic,Hatchback,44900,48664,2185013600,No,1.95
+C0721,Kia,Altima,India,Seoul,2021,Petrol,Automatic,Hatchback,46499,66795,3105900705,No,3.46
+C0722,Nissan,Mustang,Brazil,Paris,2012,Petrol,Automatic,Coupe,48451,42333,2051076183,No,2.79
+C0723,Toyota,Optima,South Korea,Seoul,2018,Petrol,Automatic,Crossover,7660,46079,352965140,No,3.48
+C0724,Kia,Corolla,Japan,Shanghai,2016,Hybrid,Automatic,Truck,55762,34259,1910350358,No,3.39
+C0725,Toyota,A-Class,South Korea,São Paulo,2022,Hybrid,Automatic,Sedan,20429,36571,747108959,No,1.76
+C0726,Tesla,Civic,China,Chennai,2019,Petrol,Automatic,Crossover,11623,61119,710386137,No,2.47
+C0727,Nissan,3 Series,India,Seoul,2010,Electric,Automatic,SUV,28857,18009,519685713,Yes,0.48
+C0728,Hyundai,Mustang,Japan,Paris,2019,Petrol,Automatic,Hatchback,70996,71829,5099571684,No,1.6
+C0729,Ford,Optima,South Korea,São Paulo,2014,Electric,Manual,Truck,34056,48230,1642520880,Yes,2.85
+C0730,Mercedes,3 Series,China,Seoul,2018,Diesel,Automatic,Truck,62434,66049,4123703266,No,1.82
+C0731,Hyundai,Model X,Mexico,Munich,2021,Hybrid,Automatic,SUV,79386,46498,3691290228,No,2.49
+C0732,Ford,Mustang,Mexico,Paris,2024,Hybrid,Automatic,SUV,31381,38820,1218210420,No,2.64
+C0733,BMW,Civic,South Korea,Chennai,2024,Electric,Manual,Truck,18909,50315,951406335,Yes,0.96
+C0734,Volkswagen,Elantra,Brazil,Detroit,2012,Petrol,Automatic,SUV,55916,42795,2392925220,No,3.08
+C0735,Honda,Corolla,India,Monterrey,2018,Hybrid,Manual,Truck,68482,49191,3368698062,No,1.66
+C0736,Honda,Altima,France,São Paulo,2014,Electric,Automatic,Crossover,31157,64453,2008162121,Yes,0.81
+C0737,Mercedes,Civic,Brazil,Munich,2018,Diesel,Manual,SUV,49451,22453,1110323303,No,3.04
+C0738,Nissan,Corolla,Mexico,Detroit,2019,Diesel,Manual,Crossover,9252,60325,558126900,No,1.52
+C0739,Tesla,3 Series,India,Nagoya,2015,Hybrid,Manual,Crossover,13940,59490,829290600,No,2.65
+C0740,Nissan,Altima,China,Paris,2018,Petrol,Automatic,SUV,45364,59993,2721522452,No,1.96
+C0741,Tesla,Passat,Japan,Munich,2016,Electric,Automatic,Truck,50191,55706,2795939846,Yes,1.4
+C0742,Nissan,A-Class,UK,London,2016,Hybrid,Automatic,Coupe,72535,52817,3831081095,No,2.85
+C0743,Volkswagen,Model X,South Korea,Nagoya,2017,Diesel,Automatic,Truck,22843,74544,1702808592,No,2.09
+C0744,BMW,Mustang,USA,Nagoya,2016,Petrol,Manual,Sedan,20173,65710,1325567830,No,1.43
+C0745,BMW,Civic,India,São Paulo,2021,Electric,Automatic,SUV,60454,60799,3675542746,Yes,0.47
+C0746,Ford,Model X,Germany,Paris,2018,Hybrid,Automatic,Hatchback,55198,70964,3917070872,No,3.14
+C0747,Kia,Elantra,China,Munich,2020,Electric,Automatic,SUV,27020,63678,1720579560,Yes,0.22
+C0748,BMW,Corolla,France,Shanghai,2018,Petrol,Automatic,Sedan,16284,70438,1147012392,No,3.03
+C0749,BMW,Corolla,UK,Munich,2015,Petrol,Automatic,Crossover,38579,71926,2774833154,No,1.32
+C0750,Hyundai,Civic,Germany,Seoul,2016,Diesel,Manual,Hatchback,44720,13801,617180720,No,2.27
+C0751,Hyundai,Optima,France,Nagoya,2011,Petrol,Automatic,Hatchback,20991,51048,1071548568,No,3.24
+C0752,Ford,Optima,USA,Chennai,2024,Hybrid,Automatic,Truck,49220,50144,2468087680,No,0.62
+C0753,Kia,Passat,Mexico,Nagoya,2018,Electric,Automatic,Coupe,15218,20148,306612264,Yes,2.03
+C0754,Mercedes,A-Class,Brazil,Nagoya,2021,Petrol,Automatic,Truck,36097,29861,1077892517,No,2.7
+C0755,Hyundai,Altima,South Korea,Monterrey,2022,Petrol,Automatic,Hatchback,61717,71717,4426158089,No,2.68
+C0756,Mercedes,Elantra,Japan,London,2010,Hybrid,Automatic,Hatchback,27332,32480,887743360,No,1.89
+C0757,Toyota,Model X,France,Shanghai,2010,Electric,Manual,Coupe,55318,28637,1584141566,Yes,2.22
+C0758,Hyundai,Optima,UK,Detroit,2012,Electric,Manual,SUV,13364,54621,729955044,Yes,2.68
+C0759,Volkswagen,Passat,India,Detroit,2021,Diesel,Manual,Coupe,8677,70304,610027808,No,2.96
+C0760,Kia,Passat,Mexico,London,2015,Diesel,Automatic,Crossover,46615,57431,2677146065,No,2.69
+C0761,Ford,Civic,India,Nagoya,2014,Electric,Manual,Truck,56710,66172,3752614120,Yes,1.3
+C0762,Toyota,Elantra,UK,Detroit,2024,Hybrid,Manual,SUV,52454,35437,1858812398,No,3.49
+C0763,Kia,3 Series,India,Paris,2011,Hybrid,Manual,Truck,12344,18149,224031256,No,1.58
+C0764,Volkswagen,Altima,France,Shanghai,2018,Diesel,Automatic,Coupe,74630,24671,1841196730,No,0.18
+C0765,Kia,A-Class,China,Detroit,2023,Petrol,Manual,SUV,13918,33119,460950242,No,1.33
+C0766,Volkswagen,Mustang,India,London,2022,Hybrid,Manual,Coupe,35354,56117,1983960418,No,0.53
+C0767,Volkswagen,Civic,Brazil,Seoul,2019,Petrol,Manual,Crossover,76455,26279,2009160945,No,0.51
+C0768,Mercedes,Altima,USA,Detroit,2023,Hybrid,Automatic,Sedan,44450,78835,3504215750,No,1.06
+C0769,Nissan,Mustang,Japan,Shanghai,2013,Electric,Manual,Hatchback,65727,14803,972956781,Yes,0.28
+C0770,Toyota,Mustang,France,São Paulo,2013,Diesel,Manual,SUV,13335,70805,944184675,No,2.44
+C0771,Kia,Elantra,Germany,São Paulo,2014,Petrol,Automatic,Hatchback,18033,28201,508548633,No,0.35
+C0772,Tesla,Elantra,UK,Paris,2024,Petrol,Automatic,Sedan,10723,38634,414272382,No,0.79
+C0773,Toyota,Model X,Mexico,Munich,2017,Electric,Manual,SUV,10773,24760,266739480,Yes,0.42
+C0774,Nissan,Passat,France,Munich,2019,Hybrid,Automatic,Hatchback,34019,20826,708479694,No,0.31
+C0775,Toyota,Altima,China,Detroit,2013,Petrol,Automatic,Hatchback,24660,55775,1375411500,No,1.01
+C0776,BMW,Civic,Mexico,Chennai,2014,Hybrid,Automatic,SUV,74885,16798,1257918230,No,2.04
+C0777,Tesla,Corolla,Brazil,Seoul,2021,Electric,Manual,Hatchback,49488,76103,3766185264,Yes,3.38
+C0778,Nissan,Civic,UK,London,2013,Diesel,Automatic,Hatchback,10848,61410,666175680,No,3.08
+C0779,Mercedes,Model X,Mexico,Seoul,2023,Petrol,Automatic,SUV,68019,50888,3461350872,No,3.08
+C0780,Kia,A-Class,India,São Paulo,2015,Hybrid,Automatic,Hatchback,15129,59047,893322063,No,0.7
+C0781,Honda,Passat,France,Detroit,2021,Petrol,Manual,Hatchback,49556,55955,2772905980,No,1.0
+C0782,Nissan,Corolla,USA,Shanghai,2012,Hybrid,Automatic,Truck,11773,11982,141064086,No,0.36
+C0783,Ford,Optima,UK,London,2017,Hybrid,Manual,Crossover,40916,43864,1794739424,No,2.75
+C0784,Kia,A-Class,South Korea,Seoul,2015,Hybrid,Manual,Truck,8394,49265,413530410,No,0.34
+C0785,Nissan,Elantra,Brazil,Shanghai,2019,Electric,Automatic,Sedan,46573,56313,2622665349,Yes,1.99
+C0786,BMW,Mustang,Japan,London,2014,Diesel,Automatic,Truck,46193,54350,2510589550,No,0.94
+C0787,Honda,Optima,UK,Seoul,2022,Petrol,Automatic,Truck,51966,25378,1318793148,No,0.93
+C0788,BMW,Civic,China,Paris,2024,Diesel,Automatic,Sedan,24843,79815,1982844045,No,3.47
+C0789,Honda,Civic,France,São Paulo,2011,Hybrid,Automatic,Hatchback,43595,37924,1653296780,No,2.67
+C0790,Ford,Elantra,India,Nagoya,2019,Hybrid,Manual,Hatchback,31674,17312,548340288,No,2.95
+C0791,Kia,Model X,Japan,London,2019,Diesel,Manual,Truck,51301,40353,2070149253,No,2.04
+C0792,Mercedes,Altima,Japan,São Paulo,2016,Diesel,Automatic,Sedan,72936,26192,1910339712,No,3.06
+C0793,BMW,Optima,Brazil,Monterrey,2011,Petrol,Automatic,Hatchback,69836,27450,1916998200,No,2.29
+C0794,BMW,Optima,Mexico,Chennai,2010,Hybrid,Automatic,Coupe,43426,15432,670150032,No,3.32
+C0795,Volkswagen,3 Series,China,Detroit,2016,Diesel,Automatic,SUV,73090,67225,4913475250,No,1.06
+C0796,Honda,A-Class,Mexico,Monterrey,2014,Electric,Automatic,SUV,39327,75604,2973278508,Yes,2.12
+C0797,Hyundai,Passat,India,Shanghai,2010,Hybrid,Manual,Crossover,45275,20295,918856125,No,2.45
+C0798,Kia,A-Class,Japan,London,2024,Hybrid,Manual,SUV,41701,16774,699492574,No,1.44
+C0799,Honda,Altima,China,Detroit,2013,Petrol,Automatic,Truck,29873,22190,662881870,No,3.09
+C0800,Volkswagen,Civic,China,Detroit,2021,Electric,Manual,SUV,28025,41286,1157040150,Yes,3.43
+C0801,Toyota,Civic,Germany,Monterrey,2022,Petrol,Automatic,SUV,73151,74014,5414198114,No,1.78
+C0802,Honda,Civic,France,Monterrey,2013,Electric,Manual,Coupe,30986,65256,2022022416,Yes,1.43
+C0803,Mercedes,3 Series,Japan,Nagoya,2019,Petrol,Automatic,Hatchback,79104,68630,5428907520,No,1.7
+C0804,Kia,Civic,Japan,Seoul,2016,Electric,Automatic,Coupe,19140,72771,1392836940,Yes,3.0
+C0805,Volkswagen,Altima,China,London,2018,Electric,Manual,Truck,61955,61715,3823552825,Yes,2.29
+C0806,Toyota,Elantra,Mexico,São Paulo,2011,Electric,Automatic,SUV,36636,17466,639884376,Yes,0.25
+C0807,Tesla,Passat,Japan,Munich,2021,Diesel,Manual,Hatchback,62925,27637,1739058225,No,1.94
+C0808,Volkswagen,Altima,China,London,2023,Hybrid,Automatic,Crossover,57039,78745,4491536055,No,0.16
+C0809,Tesla,Passat,Japan,London,2010,Electric,Automatic,Crossover,25442,46317,1178397114,Yes,2.75
+C0810,Kia,Altima,China,London,2011,Diesel,Automatic,SUV,68863,59766,4115666058,No,1.22
+C0811,BMW,Civic,Germany,Detroit,2016,Diesel,Automatic,SUV,59096,13078,772857488,No,1.7
+C0812,Volkswagen,Elantra,France,Shanghai,2022,Petrol,Automatic,Crossover,35755,37299,1333625745,No,2.82
+C0813,Ford,Optima,China,Detroit,2019,Hybrid,Automatic,Crossover,62629,13543,848184547,No,0.26
+C0814,Tesla,A-Class,Japan,Shanghai,2015,Hybrid,Automatic,Truck,62786,61052,3833210872,No,0.64
+C0815,Mercedes,Mustang,India,Monterrey,2013,Petrol,Automatic,SUV,16777,32064,537937728,No,1.45
+C0816,Ford,Elantra,France,Munich,2010,Hybrid,Manual,Crossover,2143,24425,52342775,No,0.88
+C0817,Nissan,Optima,Germany,Detroit,2022,Petrol,Automatic,Sedan,24229,61481,1489623149,No,1.25
+C0818,Nissan,Model X,China,Shanghai,2010,Diesel,Manual,Crossover,22318,60530,1350908540,No,3.49
+C0819,Toyota,Altima,India,Detroit,2014,Diesel,Automatic,Hatchback,66055,35888,2370581840,No,2.91
+C0820,BMW,Model X,China,Chennai,2024,Electric,Automatic,Hatchback,54129,37491,2029350339,Yes,3.11
+C0821,Kia,Optima,Mexico,Detroit,2010,Petrol,Automatic,Sedan,55938,42352,2369086176,No,3.29
+C0822,Volkswagen,Elantra,Japan,Munich,2021,Diesel,Automatic,Truck,9957,31676,315397932,No,1.26
+C0823,Hyundai,Altima,UK,Munich,2024,Diesel,Automatic,SUV,60129,75836,4559942844,No,1.11
+C0824,Mercedes,Mustang,Brazil,Shanghai,2016,Petrol,Automatic,SUV,34422,47463,1633771386,No,0.9
+C0825,Tesla,Civic,USA,Shanghai,2022,Diesel,Automatic,Crossover,10320,58990,608776800,No,2.92
+C0826,Kia,Altima,Mexico,Monterrey,2020,Hybrid,Automatic,Hatchback,33250,73627,2448097750,No,2.41
+C0827,Ford,Altima,India,Munich,2010,Diesel,Manual,Truck,38290,30221,1157162090,No,0.9
+C0828,Nissan,Elantra,Mexico,Munich,2010,Petrol,Automatic,Truck,34921,61313,2141111273,No,1.38
+C0829,Mercedes,Elantra,South Korea,Nagoya,2011,Hybrid,Automatic,Truck,68538,39251,2690185038,No,1.82
+C0830,Hyundai,Optima,China,London,2022,Hybrid,Automatic,Crossover,62825,56586,3555015450,No,1.9
+C0831,Volkswagen,Corolla,China,Paris,2023,Diesel,Manual,SUV,26100,63884,1667372400,No,3.12
+C0832,Toyota,Altima,USA,Detroit,2020,Electric,Automatic,Truck,29894,62620,1871962280,Yes,1.39
+C0833,Hyundai,A-Class,USA,Seoul,2021,Hybrid,Automatic,Crossover,36671,20040,734886840,No,3.19
+C0834,Mercedes,Altima,South Korea,Monterrey,2019,Petrol,Automatic,Crossover,62026,55878,3465888828,No,1.6
+C0835,Hyundai,Optima,Japan,London,2012,Electric,Automatic,Sedan,13649,15969,217960881,Yes,2.64
+C0836,Mercedes,Passat,Brazil,Paris,2022,Electric,Automatic,Coupe,30894,23162,715566828,Yes,3.26
+C0837,Mercedes,Model X,UK,Nagoya,2020,Hybrid,Manual,Truck,14896,75435,1123679760,No,3.19
+C0838,Honda,Civic,UK,Seoul,2024,Diesel,Automatic,Coupe,23824,15037,358241488,No,0.29
+C0839,Tesla,Corolla,Germany,Shanghai,2010,Electric,Automatic,SUV,47698,70526,3363949148,Yes,0.8
+C0840,Nissan,Mustang,Germany,Munich,2024,Diesel,Automatic,Crossover,31516,24693,778224588,No,1.72
+C0841,Honda,Mustang,Japan,Chennai,2018,Hybrid,Automatic,Truck,3694,69090,255218460,No,1.57
+C0842,Volkswagen,Mustang,Germany,Monterrey,2019,Petrol,Automatic,Hatchback,32898,12451,409612998,No,2.28
+C0843,Honda,Elantra,Germany,São Paulo,2017,Electric,Automatic,SUV,5289,75560,399636840,Yes,3.31
+C0844,BMW,Mustang,South Korea,Munich,2014,Petrol,Automatic,Sedan,65467,15962,1044984254,No,0.48
+C0845,BMW,Civic,South Korea,Chennai,2022,Diesel,Automatic,Sedan,61634,26444,1629849496,No,1.64
+C0846,Nissan,Model X,Germany,Paris,2020,Diesel,Automatic,Coupe,71386,50443,3600923998,No,0.75
+C0847,Hyundai,Mustang,Mexico,Shanghai,2011,Petrol,Manual,Crossover,25477,26506,675293362,No,3.14
+C0848,Tesla,Altima,France,Seoul,2014,Hybrid,Automatic,Coupe,629,48384,30433536,No,3.38
+C0849,Nissan,Altima,France,Paris,2015,Hybrid,Automatic,Hatchback,60183,34248,2061147384,No,1.73
+C0850,Mercedes,Elantra,Japan,Munich,2023,Electric,Automatic,Hatchback,45831,56162,2573960622,Yes,0.45
+C0851,Ford,Civic,UK,Munich,2024,Electric,Automatic,Sedan,35126,52690,1850788940,Yes,2.77
+C0852,Tesla,Model X,USA,Seoul,2010,Hybrid,Automatic,Truck,49003,79625,3901863875,No,2.47
+C0853,Tesla,Corolla,Japan,São Paulo,2020,Hybrid,Automatic,Sedan,28049,78008,2188046392,No,1.31
+C0854,Mercedes,Optima,Germany,Chennai,2013,Petrol,Manual,Sedan,12842,70309,902908178,No,3.12
+C0855,Mercedes,Model X,South Korea,Paris,2018,Diesel,Manual,Hatchback,36917,53237,1965350329,No,3.42
+C0856,Toyota,Optima,China,Shanghai,2011,Diesel,Automatic,Coupe,77014,45732,3522004248,No,2.0
+C0857,Nissan,Passat,Mexico,Munich,2014,Electric,Manual,Hatchback,52749,18104,954967896,Yes,2.02
+C0858,Mercedes,Optima,India,Paris,2010,Hybrid,Manual,Crossover,53164,44980,2391316720,No,1.11
+C0859,BMW,A-Class,South Korea,São Paulo,2013,Petrol,Automatic,Hatchback,9333,49560,462543480,No,2.09
+C0860,Volkswagen,Altima,France,Paris,2013,Electric,Manual,Hatchback,61158,19554,1195883532,Yes,1.59
+C0861,Ford,Civic,South Korea,Seoul,2015,Petrol,Automatic,Sedan,29973,55987,1678098351,No,1.13
+C0862,Nissan,3 Series,Mexico,Shanghai,2019,Hybrid,Automatic,Truck,1237,40985,50698445,No,0.33
+C0863,Kia,Elantra,USA,Nagoya,2018,Hybrid,Automatic,Sedan,47147,58167,2742399549,No,0.96
+C0864,BMW,A-Class,Germany,Seoul,2012,Hybrid,Automatic,SUV,64554,50428,3255329112,No,0.77
+C0865,Hyundai,Optima,China,Paris,2018,Diesel,Automatic,Hatchback,1799,77238,138951162,No,1.94
+C0866,Mercedes,Mustang,France,Nagoya,2015,Hybrid,Automatic,Hatchback,63781,72723,4638345663,No,2.15
+C0867,Kia,Civic,France,Munich,2016,Electric,Manual,SUV,66375,27038,1794647250,Yes,2.17
+C0868,Mercedes,A-Class,Brazil,Nagoya,2021,Diesel,Manual,Hatchback,33420,32219,1076758980,No,1.42
+C0869,Tesla,Elantra,UK,São Paulo,2019,Petrol,Manual,Hatchback,55336,14271,789700056,No,1.53
+C0870,BMW,Altima,USA,Detroit,2011,Electric,Manual,Crossover,42881,37397,1603620757,Yes,2.94
+C0871,Tesla,Civic,France,São Paulo,2020,Electric,Manual,Hatchback,56798,39602,2249314396,Yes,1.72
+C0872,Toyota,Elantra,UK,Seoul,2019,Petrol,Automatic,SUV,25009,64471,1612355239,No,3.46
+C0873,Tesla,Passat,France,Detroit,2023,Diesel,Automatic,Sedan,42595,72150,3073229250,No,1.59
+C0874,Toyota,Passat,Germany,Seoul,2015,Electric,Automatic,Hatchback,52024,54227,2821105448,Yes,2.31
+C0875,Toyota,Elantra,UK,Monterrey,2015,Electric,Manual,Truck,67409,33116,2232316444,Yes,0.27
+C0876,Kia,A-Class,Mexico,Shanghai,2011,Electric,Automatic,SUV,73118,16674,1219169532,Yes,2.32
+C0877,Mercedes,Civic,Brazil,London,2011,Diesel,Manual,Coupe,26032,27469,715073008,No,2.99
+C0878,Hyundai,A-Class,Germany,Munich,2023,Diesel,Automatic,Crossover,60785,15446,938885110,No,3.3
+C0879,Tesla,Corolla,Mexico,Munich,2011,Diesel,Automatic,SUV,19366,30760,595698160,No,3.49
+C0880,BMW,Optima,China,Monterrey,2019,Electric,Manual,Sedan,8093,11963,96816559,Yes,1.06
+C0881,Toyota,Corolla,USA,Paris,2021,Hybrid,Automatic,SUV,9995,37262,372433690,No,2.06
+C0882,Mercedes,Passat,USA,Chennai,2010,Petrol,Automatic,Coupe,8337,15177,126530649,No,1.63
+C0883,Ford,Altima,India,Seoul,2014,Hybrid,Automatic,Crossover,77208,21160,1633721280,No,2.02
+C0884,Nissan,Model X,India,London,2017,Diesel,Automatic,Truck,19180,17543,336474740,No,0.64
+C0885,Kia,Optima,UK,London,2011,Electric,Manual,Coupe,55976,49278,2758385328,Yes,3.01
+C0886,Hyundai,Passat,USA,São Paulo,2022,Electric,Automatic,SUV,30846,39607,1221717522,Yes,3.19
+C0887,Honda,A-Class,UK,São Paulo,2024,Hybrid,Automatic,Coupe,23912,27221,650908552,No,1.63
+C0888,Kia,A-Class,India,Chennai,2014,Hybrid,Automatic,SUV,31304,13323,417063192,No,1.05
+C0889,Ford,A-Class,China,Paris,2021,Petrol,Manual,Truck,65706,62105,4080671130,No,0.58
+C0890,Nissan,Altima,France,Monterrey,2017,Electric,Automatic,Truck,11434,76968,880052112,Yes,2.42
+C0891,Ford,Corolla,Mexico,Nagoya,2019,Hybrid,Automatic,Sedan,31223,33238,1037790074,No,1.16
+C0892,Tesla,Model X,South Korea,São Paulo,2023,Petrol,Manual,Truck,20905,73830,1543416150,No,3.19
+C0893,Toyota,A-Class,UK,Paris,2014,Diesel,Automatic,Hatchback,19248,18330,352815840,No,2.38
+C0894,Hyundai,3 Series,China,Shanghai,2011,Hybrid,Manual,Coupe,71266,54153,3859267698,No,2.3
+C0895,Volkswagen,Optima,Mexico,Munich,2012,Diesel,Automatic,Coupe,46913,18611,873097843,No,2.0
+C0896,Toyota,Civic,USA,Munich,2024,Petrol,Automatic,SUV,22854,23872,545570688,No,0.26
+C0897,Volkswagen,3 Series,France,Paris,2015,Diesel,Automatic,Truck,74990,59455,4458530450,No,3.27
+C0898,Nissan,Model X,Mexico,Chennai,2020,Electric,Manual,Sedan,17888,44930,803707840,Yes,2.23
+C0899,Mercedes,Altima,Brazil,Monterrey,2020,Electric,Manual,Sedan,37023,72714,2692090422,Yes,3.48
+C0900,Honda,Model X,India,London,2014,Diesel,Automatic,Sedan,58193,58716,3416860188,No,1.93
+C0901,BMW,Civic,Mexico,Chennai,2020,Electric,Automatic,Crossover,36232,76704,2779139328,Yes,2.51
+C0902,Toyota,Optima,South Korea,Paris,2013,Petrol,Manual,Hatchback,42146,10415,438950590,No,0.29
+C0903,Hyundai,Civic,China,Monterrey,2013,Electric,Automatic,Truck,21521,19888,428009648,Yes,2.25
+C0904,Ford,Elantra,France,Monterrey,2014,Diesel,Manual,Sedan,53276,55299,2946109524,No,2.7
+C0905,Hyundai,Optima,Germany,Seoul,2011,Diesel,Automatic,Hatchback,19616,68765,1348894240,No,2.75
+C0906,Nissan,Model X,Mexico,Detroit,2018,Diesel,Manual,Coupe,72509,72714,5272419426,No,2.72
+C0907,Volkswagen,A-Class,Japan,Munich,2011,Hybrid,Automatic,SUV,77120,25935,2000107200,No,0.87
+C0908,Ford,Model X,South Korea,Paris,2019,Diesel,Automatic,Truck,45271,11320,512467720,No,3.42
+C0909,BMW,Model X,South Korea,London,2011,Petrol,Automatic,Truck,29256,56032,1639272192,No,3.48
+C0910,BMW,Optima,Japan,Detroit,2019,Electric,Manual,Crossover,3419,27907,95414033,Yes,0.36
+C0911,Toyota,Elantra,Brazil,Shanghai,2023,Electric,Automatic,Coupe,24050,48002,1154448100,Yes,3.28
+C0912,Nissan,Model X,Germany,São Paulo,2018,Hybrid,Automatic,Truck,37024,54838,2030322112,No,1.08
+C0913,Mercedes,3 Series,India,Seoul,2023,Hybrid,Automatic,Crossover,55106,48912,2695344672,No,2.44
+C0914,Nissan,Passat,China,São Paulo,2012,Petrol,Automatic,Crossover,69319,10552,731454088,No,1.25
+C0915,Volkswagen,Mustang,France,Detroit,2024,Diesel,Manual,Crossover,70727,30140,2131711780,No,3.39
+C0916,Hyundai,Mustang,China,Detroit,2019,Hybrid,Manual,Truck,23712,58737,1392771744,No,0.45
+C0917,BMW,Model X,Germany,São Paulo,2016,Electric,Automatic,Truck,40618,43367,1761480806,Yes,1.79
+C0918,Hyundai,3 Series,China,London,2013,Hybrid,Manual,Truck,29102,34061,991243222,No,1.56
+C0919,Hyundai,A-Class,Japan,London,2022,Hybrid,Manual,Hatchback,18040,52124,940316960,No,1.21
+C0920,Hyundai,Altima,South Korea,Nagoya,2022,Diesel,Manual,Crossover,36329,55638,2021272902,No,2.29
+C0921,BMW,Altima,China,Shanghai,2015,Hybrid,Automatic,Hatchback,56809,11982,680685438,No,0.55
+C0922,Kia,Optima,UK,London,2023,Petrol,Manual,SUV,65903,45765,3016050795,No,2.54
+C0923,Tesla,Mustang,Mexico,Shanghai,2013,Electric,Automatic,Truck,71955,64681,4654121355,Yes,3.43
+C0924,Volkswagen,Model X,Germany,Shanghai,2019,Diesel,Automatic,Coupe,22777,73232,1668005264,No,2.84
+C0925,Kia,Altima,Brazil,Detroit,2024,Electric,Manual,Sedan,60173,72349,4353456377,Yes,3.02
+C0926,Volkswagen,Model X,UK,Shanghai,2016,Petrol,Automatic,SUV,18176,73474,1335463424,No,1.32
+C0927,Ford,Optima,Japan,Seoul,2010,Petrol,Automatic,Sedan,43344,39513,1712651472,No,1.2
+C0928,Nissan,Mustang,USA,São Paulo,2012,Hybrid,Manual,Sedan,65208,32592,2125259136,No,1.86
+C0929,Nissan,Civic,Japan,Nagoya,2022,Hybrid,Manual,Truck,10252,33618,344651736,No,0.26
+C0930,Honda,Passat,Brazil,Paris,2012,Hybrid,Automatic,Coupe,75211,61632,4635404352,No,3.31
+C0931,Nissan,Passat,Brazil,Chennai,2010,Electric,Manual,Sedan,41170,25409,1046088530,Yes,0.59
+C0932,BMW,Altima,UK,Nagoya,2015,Petrol,Automatic,Crossover,68103,19529,1329983487,No,3.17
+C0933,Mercedes,Passat,Mexico,Seoul,2024,Diesel,Automatic,Sedan,31978,34154,1092176612,No,0.38
+C0934,Toyota,Civic,Germany,Nagoya,2022,Hybrid,Manual,SUV,26939,42882,1155198198,No,2.9
+C0935,Honda,Model X,India,Shanghai,2020,Electric,Automatic,Coupe,35247,54917,1935659499,Yes,0.62
+C0936,Toyota,Optima,South Korea,Detroit,2023,Hybrid,Automatic,Coupe,30310,25701,778997310,No,0.23
+C0937,Volkswagen,Civic,UK,Chennai,2018,Petrol,Automatic,Sedan,18802,78225,1470786450,No,2.55
+C0938,Toyota,Optima,Brazil,London,2017,Diesel,Automatic,Coupe,66736,62492,4170466112,No,1.05
+C0939,Toyota,Optima,USA,Detroit,2020,Petrol,Automatic,SUV,64967,12988,843791396,No,2.53
+C0940,Honda,Mustang,France,Shanghai,2016,Electric,Manual,SUV,35341,45919,1622823379,Yes,1.99
+C0941,Ford,Model X,Brazil,Shanghai,2019,Hybrid,Manual,SUV,45213,58426,2641614738,No,0.47
+C0942,Hyundai,3 Series,Mexico,Chennai,2017,Petrol,Automatic,Crossover,50046,62167,3111209682,No,3.27
+C0943,Nissan,Passat,Mexico,Chennai,2015,Electric,Manual,Truck,3548,19013,67458124,Yes,1.64
+C0944,Nissan,3 Series,Brazil,Munich,2018,Hybrid,Automatic,Sedan,33790,49113,1659528270,No,2.6
+C0945,BMW,Mustang,Mexico,Monterrey,2012,Diesel,Automatic,Coupe,59406,13574,806377044,No,1.8
+C0946,Honda,Optima,UK,Monterrey,2024,Petrol,Manual,SUV,77137,17838,1375969806,No,2.15
+C0947,BMW,Altima,Brazil,Detroit,2019,Hybrid,Automatic,Sedan,30278,41368,1252540304,No,1.13
+C0948,Mercedes,Passat,Brazil,London,2019,Hybrid,Automatic,Sedan,27925,42228,1179216900,No,0.78
+C0949,Mercedes,Passat,Germany,Nagoya,2018,Hybrid,Automatic,Truck,58676,59711,3503602636,No,1.94
+C0950,BMW,Model X,South Korea,Shanghai,2013,Hybrid,Automatic,Crossover,13174,56097,739021878,No,1.6
+C0951,Honda,Elantra,USA,Shanghai,2016,Petrol,Manual,Coupe,62902,65773,4137253246,No,1.43
+C0952,BMW,Corolla,Mexico,Munich,2024,Hybrid,Automatic,Crossover,33553,38639,1296454367,No,2.39
+C0953,Nissan,Corolla,Germany,Detroit,2022,Electric,Automatic,Coupe,12457,24823,309220111,Yes,2.45
+C0954,Kia,Corolla,India,Detroit,2018,Petrol,Automatic,SUV,73144,33510,2451055440,No,0.26
+C0955,Tesla,Elantra,India,São Paulo,2011,Hybrid,Automatic,SUV,54116,48333,2615588628,No,1.25
+C0956,Toyota,Model X,China,Chennai,2011,Petrol,Automatic,Sedan,18329,14435,264579115,No,1.5
+C0957,Tesla,Elantra,UK,London,2018,Electric,Automatic,Coupe,6337,48418,306824866,Yes,0.43
+C0958,Honda,Corolla,UK,Chennai,2021,Electric,Manual,Coupe,64641,67955,4392679155,Yes,0.9
+C0959,Tesla,Mustang,Japan,London,2022,Petrol,Manual,Crossover,15532,69507,1079582724,No,0.28
+C0960,Mercedes,Civic,USA,Seoul,2012,Hybrid,Automatic,SUV,26852,61033,1638858116,No,3.49
+C0961,Volkswagen,Optima,Brazil,Paris,2018,Hybrid,Automatic,Hatchback,30715,57219,1757481585,No,2.6
+C0962,Toyota,Elantra,Mexico,Monterrey,2022,Electric,Automatic,Sedan,56819,44477,2527138663,Yes,0.4
+C0963,Hyundai,Model X,USA,Monterrey,2024,Hybrid,Manual,Coupe,75142,52721,3961561382,No,0.17
+C0964,Honda,Model X,China,London,2014,Electric,Manual,Truck,41747,77228,3224037316,Yes,2.55
+C0965,Toyota,3 Series,Japan,Monterrey,2015,Hybrid,Automatic,Truck,43548,25523,1111475604,No,1.59
+C0966,Tesla,Civic,Germany,Chennai,2011,Electric,Manual,Hatchback,76032,42326,3218130432,Yes,2.78
+C0967,Mercedes,Altima,USA,Shanghai,2017,Diesel,Automatic,SUV,67214,52205,3508906870,No,3.24
+C0968,Ford,Passat,Germany,Chennai,2020,Hybrid,Automatic,SUV,35819,10125,362667375,No,2.14
+C0969,Kia,Corolla,India,London,2018,Hybrid,Automatic,SUV,16525,76735,1268045875,No,0.74
+C0970,Hyundai,Altima,Mexico,Detroit,2011,Hybrid,Automatic,Crossover,10280,26375,271135000,No,2.76
+C0971,Kia,3 Series,China,Chennai,2015,Petrol,Automatic,Truck,23206,12711,294971466,No,3.35
+C0972,Toyota,Corolla,Brazil,Monterrey,2015,Hybrid,Automatic,SUV,43416,42437,1842444792,No,2.07
+C0973,Mercedes,Civic,Mexico,Munich,2017,Petrol,Automatic,Truck,76003,38022,2889786066,No,2.42
+C0974,Mercedes,3 Series,South Korea,São Paulo,2019,Petrol,Automatic,Hatchback,31356,19182,601470792,No,1.25
+C0975,Tesla,Corolla,UK,Shanghai,2021,Electric,Automatic,Sedan,9679,50950,493145050,Yes,1.4
+C0976,Nissan,Civic,China,Monterrey,2014,Petrol,Automatic,Crossover,39123,22920,896699160,No,2.6
+C0977,Tesla,A-Class,USA,Munich,2018,Petrol,Automatic,Coupe,18087,32144,581388528,No,3.25
+C0978,Nissan,Altima,Mexico,London,2010,Diesel,Automatic,Hatchback,24233,12565,304487645,No,2.24
+C0979,Nissan,Altima,France,Seoul,2018,Hybrid,Automatic,Truck,4475,63942,286140450,No,2.79
+C0980,Hyundai,Passat,UK,Munich,2019,Petrol,Automatic,Hatchback,78955,34691,2739027905,No,0.68
+C0981,Tesla,Civic,UK,Paris,2016,Hybrid,Automatic,Coupe,75638,43799,3312868762,No,0.82
+C0982,Ford,Elantra,France,Seoul,2013,Petrol,Automatic,Crossover,45963,76777,3528901251,No,1.91
+C0983,BMW,A-Class,Japan,Nagoya,2012,Electric,Automatic,Sedan,42654,44510,1898529540,Yes,0.7
+C0984,BMW,Mustang,Japan,Shanghai,2023,Diesel,Automatic,Coupe,76176,38975,2968959600,No,2.26
+C0985,Tesla,Corolla,France,Monterrey,2019,Petrol,Manual,Crossover,29330,63242,1854887860,No,1.09
+C0986,Tesla,A-Class,South Korea,Nagoya,2024,Hybrid,Automatic,Truck,72626,56546,4106709796,No,2.79
+C0987,Kia,Civic,India,Chennai,2020,Electric,Automatic,Coupe,47245,33267,1571699415,Yes,2.85
+C0988,Hyundai,Optima,France,London,2023,Hybrid,Automatic,Hatchback,31109,79939,2486822351,No,1.68
+C0989,Tesla,Corolla,India,Shanghai,2015,Electric,Automatic,SUV,17901,14897,266671197,Yes,0.71
+C0990,Kia,Model X,Mexico,Detroit,2021,Diesel,Automatic,Hatchback,28229,10163,286891327,No,2.3
+C0991,Nissan,Altima,South Korea,Seoul,2022,Electric,Automatic,Truck,45667,62540,2856014180,Yes,3.48
+C0992,Mercedes,Civic,China,Detroit,2010,Hybrid,Automatic,Sedan,57891,40030,2317376730,No,2.22
+C0993,Mercedes,Model X,India,Nagoya,2012,Hybrid,Manual,Coupe,58671,65313,3831979023,No,0.22
+C0994,Nissan,Passat,UK,Munich,2011,Petrol,Automatic,Sedan,7147,39870,284950890,No,0.16
+C0995,Honda,3 Series,Mexico,Munich,2020,Electric,Automatic,Truck,21606,39482,853048092,Yes,1.19
+C0996,Kia,Mustang,UK,London,2022,Hybrid,Automatic,Coupe,6515,41058,267492870,No,0.77
+C0997,Kia,Mustang,South Korea,Nagoya,2018,Petrol,Manual,Crossover,22006,67255,1480013530,No,2.86
+C0998,Nissan,Model X,India,São Paulo,2012,Diesel,Manual,Crossover,24567,74930,1840805310,No,2.97
+C0999,Ford,Altima,Germany,Shanghai,2022,Hybrid,Automatic,Hatchback,2556,60500,154638000,No,0.98
+C1000,Volkswagen,Passat,South Korea,Seoul,2011,Petrol,Manual,Hatchback,29828,36379,1085112812,No,1.21
+C1001,Toyota,Optima,South Korea,Munich,2013,Hybrid,Automatic,Truck,78212,77787,6083876844,No,0.9
+C1002,Nissan,Altima,Germany,Munich,2024,Electric,Manual,Crossover,53332,33674,1795901768,Yes,3.19
+C1003,Tesla,A-Class,Mexico,Detroit,2023,Petrol,Manual,Coupe,43271,16590,717865890,No,1.81
+C1004,Tesla,Mustang,India,Detroit,2011,Electric,Automatic,Crossover,47015,41432,1947925480,Yes,2.33
+C1005,Hyundai,A-Class,India,Monterrey,2010,Diesel,Manual,Hatchback,65038,50426,3279606188,No,1.51
+C1006,Nissan,Corolla,UK,Chennai,2015,Electric,Automatic,Truck,69150,59584,4120233600,Yes,2.25
+C1007,Hyundai,Elantra,South Korea,São Paulo,2024,Petrol,Automatic,Crossover,79478,48015,3816136170,No,1.41
+C1008,Nissan,Civic,South Korea,Detroit,2019,Hybrid,Automatic,Truck,40651,79353,3225778803,No,1.25
+C1009,Kia,Passat,Brazil,Detroit,2017,Petrol,Manual,Crossover,2129,14600,31083400,No,2.26
+C1010,Toyota,Altima,China,Shanghai,2019,Electric,Automatic,Sedan,28655,34690,994041950,Yes,2.11
+C1011,Kia,Mustang,South Korea,Monterrey,2019,Electric,Automatic,Crossover,18788,43762,822200456,Yes,1.1
+C1012,Volkswagen,A-Class,USA,Detroit,2011,Hybrid,Manual,Hatchback,51088,47499,2426628912,No,0.61
+C1013,Mercedes,3 Series,China,Seoul,2023,Diesel,Automatic,Coupe,36585,17670,646456950,No,1.35
+C1014,BMW,Corolla,USA,Shanghai,2018,Petrol,Automatic,Hatchback,11751,27341,321284091,No,1.51
+C1015,Nissan,Civic,India,Chennai,2024,Hybrid,Automatic,Hatchback,26074,27015,704389110,No,2.24
+C1016,Volkswagen,Civic,China,Nagoya,2022,Hybrid,Automatic,Hatchback,10123,75126,760500498,No,3.21
+C1017,Mercedes,Altima,South Korea,Shanghai,2012,Hybrid,Automatic,Truck,55215,65197,3599852355,No,0.22
+C1018,Honda,Passat,Germany,Nagoya,2017,Petrol,Automatic,SUV,6623,59849,396379927,No,0.93
+C1019,Toyota,Optima,UK,Munich,2021,Petrol,Manual,SUV,3561,25852,92058972,No,0.76
+C1020,Hyundai,3 Series,USA,Monterrey,2017,Petrol,Manual,Sedan,39595,65361,2587968795,No,1.81
+C1021,Hyundai,Altima,China,Chennai,2024,Diesel,Automatic,Hatchback,60118,31258,1879168444,No,1.56
+C1022,Kia,A-Class,South Korea,Monterrey,2012,Hybrid,Automatic,SUV,28951,72355,2094749605,No,2.58
+C1023,Tesla,Elantra,China,Chennai,2012,Electric,Automatic,Sedan,35314,51508,1818953512,Yes,0.92
+C1024,Mercedes,Model X,South Korea,Monterrey,2021,Electric,Automatic,Truck,77368,77784,6017992512,Yes,2.12
+C1025,Honda,Optima,South Korea,Shanghai,2024,Hybrid,Automatic,Hatchback,38332,37410,1434000120,No,3.11
+C1026,Volkswagen,Passat,South Korea,Monterrey,2015,Electric,Automatic,Coupe,9945,19895,197855775,Yes,3.2
+C1027,Toyota,Corolla,Brazil,Paris,2010,Diesel,Manual,Truck,33990,43924,1492976760,No,3.36
+C1028,Mercedes,Optima,UK,Chennai,2013,Diesel,Automatic,Sedan,30267,22264,673864488,No,2.73
+C1029,Honda,Mustang,Germany,Nagoya,2010,Petrol,Automatic,Truck,46557,38038,1770935166,No,3.18
+C1030,BMW,Passat,Germany,Chennai,2023,Petrol,Manual,Coupe,73600,19136,1408409600,No,0.9
+C1031,Nissan,Elantra,China,Munich,2012,Petrol,Automatic,Truck,41543,23213,964337659,No,0.77
+C1032,Hyundai,Mustang,China,Seoul,2018,Petrol,Automatic,Sedan,28446,37431,1064762226,No,0.12
+C1033,Volkswagen,Optima,South Korea,Paris,2023,Petrol,Automatic,Coupe,37087,52290,1939279230,No,2.5
+C1034,Hyundai,Model X,Brazil,London,2023,Electric,Automatic,Coupe,3864,77539,299610696,Yes,3.29
+C1035,Volkswagen,Model X,South Korea,Chennai,2014,Electric,Manual,Truck,70354,52747,3710962438,Yes,0.74
+C1036,Kia,Elantra,Brazil,Detroit,2021,Petrol,Automatic,Coupe,56588,79208,4482222304,No,2.27
+C1037,Tesla,Civic,South Korea,Shanghai,2014,Diesel,Manual,Truck,77515,79015,6124847725,No,2.64
+C1038,Volkswagen,3 Series,USA,Shanghai,2020,Electric,Manual,Hatchback,7898,24887,196557526,Yes,3.25
+C1039,Hyundai,Corolla,USA,Monterrey,2013,Diesel,Manual,Coupe,2952,10051,29670552,No,2.3
+C1040,Kia,Civic,India,Monterrey,2012,Diesel,Manual,Truck,33693,77695,2617777635,No,3.4
+C1041,Volkswagen,Model X,South Korea,Shanghai,2014,Hybrid,Automatic,Hatchback,79901,79926,6386167326,No,1.27
+C1042,BMW,Model X,UK,São Paulo,2024,Hybrid,Automatic,Coupe,25845,38491,994799895,No,1.29
+C1043,Tesla,A-Class,India,Paris,2023,Petrol,Automatic,Hatchback,74835,26080,1951696800,No,1.95
+C1044,Volkswagen,Mustang,China,Paris,2020,Diesel,Automatic,Crossover,59696,44880,2679156480,No,1.4
+C1045,Kia,Optima,Mexico,Nagoya,2013,Electric,Manual,Coupe,23553,69965,1647885645,Yes,0.1
+C1046,Mercedes,Corolla,South Korea,Chennai,2017,Hybrid,Automatic,Crossover,5515,57361,316345915,No,2.59
+C1047,Ford,Elantra,USA,London,2013,Hybrid,Manual,Sedan,9157,76890,704081730,No,2.66
+C1048,Honda,Optima,Mexico,Shanghai,2020,Diesel,Manual,Sedan,51616,79290,4092632640,No,2.64
+C1049,Ford,A-Class,Brazil,Chennai,2021,Hybrid,Manual,Truck,22451,26593,597039443,No,1.27
+C1050,Ford,Model X,Mexico,Paris,2017,Hybrid,Manual,SUV,27021,26167,707058507,No,1.88
+C1051,Toyota,Elantra,UK,Munich,2015,Electric,Automatic,Crossover,54931,43005,2362307655,Yes,1.32
+C1052,BMW,Model X,South Korea,Shanghai,2024,Diesel,Automatic,Crossover,11231,75471,847614801,No,0.15
+C1053,Mercedes,Corolla,Germany,Chennai,2023,Hybrid,Automatic,Sedan,19244,60728,1168649632,No,2.01
+C1054,Nissan,Mustang,Mexico,Paris,2021,Diesel,Automatic,Crossover,63594,18691,1188635454,No,0.52
+C1055,Volkswagen,Optima,Germany,Seoul,2020,Hybrid,Automatic,SUV,18923,19756,373842788,No,0.37
+C1056,Honda,Optima,Brazil,Paris,2014,Electric,Manual,Hatchback,18068,46308,836692944,Yes,2.67
+C1057,Tesla,Civic,India,Monterrey,2013,Diesel,Manual,Hatchback,47911,74079,3549198969,No,0.13
+C1058,Mercedes,Elantra,Germany,Detroit,2013,Hybrid,Automatic,SUV,4434,75524,334873416,No,3.36
+C1059,Hyundai,3 Series,India,São Paulo,2021,Electric,Automatic,Crossover,77445,70466,5457239370,Yes,1.85
+C1060,Nissan,A-Class,USA,São Paulo,2013,Hybrid,Automatic,Crossover,8672,19327,167603744,No,3.44
+C1061,Toyota,3 Series,South Korea,Monterrey,2020,Diesel,Automatic,Crossover,27858,38520,1073090160,No,0.3
+C1062,Toyota,Civic,Mexico,Monterrey,2022,Hybrid,Automatic,Truck,66813,53308,3561667404,No,2.08
+C1063,Mercedes,Corolla,USA,Shanghai,2022,Diesel,Automatic,Coupe,20263,26533,537638179,No,1.29
+C1064,Kia,A-Class,USA,Seoul,2018,Diesel,Automatic,SUV,49173,54488,2679338424,No,2.97
+C1065,Ford,Mustang,France,Seoul,2013,Hybrid,Automatic,SUV,68475,77160,5283531000,No,1.33
+C1066,Hyundai,3 Series,Japan,Shanghai,2021,Electric,Automatic,SUV,8304,50429,418762416,Yes,0.99
+C1067,Toyota,Mustang,UK,Chennai,2018,Petrol,Automatic,SUV,48094,61726,2968650244,No,3.02
+C1068,Honda,3 Series,India,Shanghai,2022,Electric,Automatic,SUV,79248,30653,2429188944,Yes,1.37
+C1069,Toyota,Mustang,France,London,2019,Electric,Automatic,Crossover,68025,66921,4552301025,Yes,0.16
+C1070,Tesla,3 Series,Japan,London,2015,Hybrid,Automatic,Truck,73904,23654,1748125216,No,1.43
+C1071,Volkswagen,Mustang,UK,São Paulo,2019,Electric,Manual,Sedan,25104,12108,303959232,Yes,2.33
+C1072,Toyota,Civic,India,Paris,2022,Electric,Automatic,Crossover,22635,79483,1799097705,Yes,0.96
+C1073,Tesla,Passat,South Korea,Shanghai,2016,Petrol,Automatic,Crossover,38418,17899,687643782,No,1.57
+C1074,Mercedes,A-Class,UK,Shanghai,2021,Electric,Manual,Coupe,51349,23372,1200128828,Yes,0.29
+C1075,Mercedes,Elantra,Mexico,Chennai,2019,Petrol,Automatic,Sedan,31347,47682,1494687654,No,2.1
+C1076,Nissan,Corolla,USA,Nagoya,2012,Hybrid,Manual,SUV,44274,77799,3444472926,No,2.67
+C1077,Toyota,Altima,Japan,São Paulo,2017,Petrol,Automatic,Sedan,61209,46583,2851298847,No,1.51
+C1078,Honda,Model X,Japan,São Paulo,2012,Diesel,Automatic,Truck,11180,39295,439318100,No,1.53
+C1079,Toyota,Elantra,Japan,São Paulo,2010,Diesel,Automatic,Hatchback,55537,76113,4227087681,No,0.4
+C1080,Honda,Model X,India,Paris,2022,Petrol,Automatic,Crossover,59414,59574,3539529636,No,0.79
+C1081,BMW,A-Class,Mexico,Monterrey,2022,Diesel,Automatic,Sedan,26809,74934,2008905606,No,0.63
+C1082,Nissan,Elantra,UK,Munich,2019,Hybrid,Automatic,Coupe,10849,40066,434676034,No,1.74
+C1083,BMW,Mustang,USA,Nagoya,2021,Diesel,Automatic,Truck,75579,18945,1431844155,No,1.9
+C1084,Toyota,Mustang,Mexico,Paris,2014,Petrol,Automatic,Hatchback,61320,39418,2417111760,No,3.33
+C1085,Nissan,Altima,France,London,2011,Hybrid,Automatic,Truck,75496,59874,4520247504,No,0.35
+C1086,BMW,Model X,South Korea,Chennai,2019,Diesel,Automatic,SUV,35053,27130,950987890,No,2.14
+C1087,Ford,Corolla,Germany,Monterrey,2023,Hybrid,Automatic,Hatchback,29025,78248,2271148200,No,1.89
+C1088,Toyota,A-Class,Mexico,London,2015,Petrol,Automatic,Coupe,6448,51394,331388512,No,1.86
+C1089,BMW,Mustang,France,Monterrey,2022,Diesel,Automatic,Hatchback,14998,59635,894405730,No,3.07
+C1090,Ford,Passat,USA,Seoul,2019,Hybrid,Manual,Coupe,19491,27404,534131364,No,0.8
+C1091,Ford,Civic,Germany,São Paulo,2018,Hybrid,Automatic,SUV,60290,23156,1396075240,No,0.24
+C1092,Mercedes,Civic,Germany,Monterrey,2010,Diesel,Automatic,Coupe,8160,65618,535442880,No,2.39
+C1093,Toyota,3 Series,Mexico,Detroit,2023,Hybrid,Automatic,Truck,26745,59999,1604673255,No,1.27
+C1094,Ford,Corolla,Japan,São Paulo,2022,Hybrid,Automatic,Sedan,738,23785,17553330,No,0.16
+C1095,Mercedes,Civic,China,São Paulo,2013,Petrol,Manual,Truck,20420,58359,1191690780,No,0.95
+C1096,BMW,3 Series,USA,Chennai,2024,Petrol,Automatic,Crossover,47159,24694,1164544346,No,1.15
+C1097,Tesla,Model X,Japan,Nagoya,2010,Petrol,Automatic,Truck,75374,46114,3475796636,No,2.2
+C1098,Toyota,Mustang,USA,London,2010,Petrol,Automatic,Hatchback,43017,79549,3421959333,No,0.69
+C1099,Nissan,Mustang,China,Monterrey,2017,Petrol,Manual,SUV,76385,67230,5135363550,No,1.5
+C1100,Honda,Passat,South Korea,Monterrey,2023,Petrol,Automatic,Crossover,46850,42799,2005133150,No,1.74
+C1101,Honda,Elantra,China,Seoul,2023,Diesel,Manual,Crossover,77679,21156,1643376924,No,1.66
+C1102,BMW,Civic,Brazil,São Paulo,2022,Petrol,Manual,Crossover,28774,20304,584227296,No,3.41
+C1103,Kia,Model X,Mexico,Shanghai,2023,Hybrid,Automatic,Sedan,45513,50645,2305005885,No,0.25
+C1104,Kia,Optima,Mexico,Munich,2020,Diesel,Manual,Coupe,40413,48938,1977731394,No,3.33
+C1105,BMW,Civic,France,Shanghai,2024,Hybrid,Automatic,Hatchback,46319,66982,3102539258,No,2.08
+C1106,Ford,Corolla,Japan,Monterrey,2011,Petrol,Manual,SUV,78357,12315,964966455,No,2.81
+C1107,Toyota,Elantra,France,Shanghai,2010,Petrol,Automatic,Sedan,65410,22420,1466492200,No,1.56
+C1108,Honda,Civic,Brazil,Chennai,2020,Hybrid,Automatic,Truck,23985,28312,679063320,No,1.64
+C1109,Honda,Model X,China,Detroit,2017,Hybrid,Automatic,SUV,3360,31395,105487200,No,3.09
+C1110,Ford,Civic,Mexico,Monterrey,2013,Hybrid,Manual,Crossover,50375,50301,2533912875,No,3.15
+C1111,Honda,Corolla,India,Monterrey,2012,Electric,Automatic,SUV,15419,56972,878451268,Yes,0.91
+C1112,Nissan,Optima,China,Detroit,2022,Electric,Automatic,SUV,74447,73294,5456518418,Yes,0.78
+C1113,Toyota,A-Class,China,London,2021,Electric,Automatic,Truck,10086,58225,587257350,Yes,1.79
+C1114,Volkswagen,Altima,Brazil,Detroit,2013,Electric,Automatic,Coupe,52486,32854,1724375044,Yes,3.16
+C1115,Honda,Optima,South Korea,Shanghai,2023,Diesel,Automatic,Hatchback,23555,40929,964082595,No,1.2
+C1116,BMW,3 Series,USA,Chennai,2020,Petrol,Automatic,Crossover,35390,67103,2374775170,No,2.32
+C1117,Nissan,Civic,Brazil,Seoul,2014,Hybrid,Automatic,Coupe,63581,73620,4680833220,No,2.51
+C1118,Honda,Mustang,USA,London,2010,Petrol,Automatic,Sedan,29307,54590,1599869130,No,2.75
+C1119,Nissan,Passat,Mexico,Paris,2024,Hybrid,Automatic,Crossover,47677,20621,983147417,No,2.02
+C1120,Mercedes,Mustang,Brazil,Seoul,2023,Petrol,Automatic,Hatchback,69125,10973,758508625,No,1.47
+C1121,Volkswagen,Optima,USA,Nagoya,2020,Diesel,Automatic,Sedan,14742,68786,1014043212,No,3.39
+C1122,Hyundai,Mustang,France,Nagoya,2010,Electric,Manual,Truck,56817,47097,2675910249,Yes,2.18
+C1123,BMW,Model X,Brazil,Nagoya,2012,Petrol,Automatic,Coupe,40478,44245,1790949110,No,2.58
+C1124,BMW,Mustang,Mexico,Nagoya,2015,Hybrid,Manual,Crossover,16933,75211,1273547863,No,1.27
+C1125,Toyota,Elantra,Brazil,Chennai,2010,Petrol,Manual,SUV,33782,64841,2190458662,No,2.38
+C1126,Nissan,A-Class,Mexico,Seoul,2023,Diesel,Automatic,Hatchback,77019,35346,2722313574,No,0.98
+C1127,Ford,Civic,Brazil,São Paulo,2020,Diesel,Automatic,Crossover,44078,59153,2607345934,No,0.93
+C1128,BMW,Mustang,USA,Munich,2021,Petrol,Manual,SUV,70707,15972,1129332204,No,2.53
+C1129,Nissan,Corolla,South Korea,London,2024,Electric,Automatic,Crossover,24633,58063,1430265879,Yes,1.87
+C1130,Nissan,A-Class,UK,Paris,2011,Hybrid,Automatic,Sedan,50817,75488,3836073696,No,2.42
+C1131,Tesla,A-Class,USA,Shanghai,2024,Diesel,Automatic,SUV,66450,67055,4455804750,No,1.02
+C1132,Tesla,Mustang,Japan,Monterrey,2021,Diesel,Automatic,SUV,60112,74366,4470288992,No,2.14
+C1133,Hyundai,A-Class,Germany,Nagoya,2023,Petrol,Manual,Crossover,65373,20931,1368322263,No,1.61
+C1134,Mercedes,Passat,South Korea,Paris,2016,Diesel,Automatic,Truck,62502,17702,1106410404,No,2.13
+C1135,Hyundai,Mustang,France,Monterrey,2023,Diesel,Automatic,Truck,53008,31540,1671872320,No,1.09
+C1136,Honda,Model X,China,Munich,2023,Hybrid,Automatic,Coupe,38879,67450,2622388550,No,2.53
+C1137,Ford,Optima,USA,Paris,2010,Electric,Automatic,Sedan,15731,75252,1183789212,Yes,2.84
+C1138,Honda,Elantra,Brazil,Seoul,2022,Hybrid,Automatic,Truck,41663,56904,2370791352,No,0.98
+C1139,Kia,Altima,USA,Paris,2023,Electric,Automatic,Crossover,32176,62320,2005208320,Yes,1.12
+C1140,Honda,3 Series,India,Nagoya,2024,Hybrid,Manual,Truck,56035,41000,2297435000,No,2.35
+C1141,Toyota,A-Class,South Korea,Munich,2016,Petrol,Automatic,Coupe,46610,12599,587239390,No,2.46
+C1142,Honda,Model X,UK,Shanghai,2024,Diesel,Manual,Hatchback,47478,66165,3141381870,No,2.49
+C1143,Hyundai,Civic,France,São Paulo,2013,Electric,Automatic,Coupe,72869,68855,5017394995,Yes,2.42
+C1144,BMW,Civic,India,Detroit,2019,Petrol,Automatic,SUV,5252,10018,52614536,No,1.44
+C1145,BMW,3 Series,Mexico,Nagoya,2023,Diesel,Automatic,SUV,25007,10858,271526006,No,1.44
+C1146,Tesla,Elantra,India,Monterrey,2015,Diesel,Automatic,Truck,41995,35992,1511484040,No,0.97
+C1147,Ford,A-Class,USA,Munich,2023,Diesel,Automatic,Truck,61386,42580,2613815880,No,0.63
+C1148,Ford,Passat,France,Seoul,2017,Hybrid,Automatic,Coupe,71059,45800,3254502200,No,2.45
+C1149,Toyota,3 Series,USA,Chennai,2018,Petrol,Manual,Coupe,1482,68770,101917140,No,0.42
+C1150,Hyundai,Elantra,Mexico,Munich,2015,Petrol,Manual,Crossover,16646,64941,1081007886,No,3.29
+C1151,Tesla,A-Class,China,Monterrey,2021,Diesel,Automatic,Sedan,55343,47487,2628073041,No,2.91
+C1152,Kia,Model X,France,Detroit,2020,Electric,Automatic,Crossover,77237,22943,1772048491,Yes,3.02
+C1153,Ford,Optima,China,Detroit,2022,Petrol,Automatic,SUV,24136,71457,1724686152,No,3.18
+C1154,BMW,Passat,South Korea,London,2024,Hybrid,Automatic,Crossover,27832,28836,802563552,No,1.49
+C1155,Honda,Altima,South Korea,São Paulo,2023,Electric,Automatic,Coupe,51934,21394,1111075996,Yes,2.98
+C1156,Honda,Civic,China,Monterrey,2018,Electric,Automatic,Crossover,61771,35280,2179280880,Yes,0.64
+C1157,Tesla,Corolla,South Korea,Detroit,2013,Electric,Manual,Hatchback,63226,11159,705538934,Yes,0.17
+C1158,Hyundai,Model X,France,London,2015,Electric,Manual,Sedan,10608,33440,354731520,Yes,2.77
+C1159,Hyundai,Civic,Brazil,London,2017,Petrol,Automatic,Coupe,69396,62712,4351961952,No,0.35
+C1160,Mercedes,Mustang,Japan,London,2018,Diesel,Automatic,Truck,43053,57656,2482263768,No,3.46
+C1161,Volkswagen,Corolla,South Korea,Munich,2012,Electric,Automatic,Crossover,41380,16589,686452820,Yes,2.39
+C1162,Ford,Civic,South Korea,London,2011,Hybrid,Manual,Coupe,52577,58241,3062137057,No,2.66
+C1163,Hyundai,Elantra,USA,Nagoya,2015,Hybrid,Automatic,Truck,4125,33233,137086125,No,0.94
+C1164,BMW,Passat,China,Monterrey,2013,Diesel,Automatic,Truck,38737,45011,1743591107,No,2.39
+C1165,Tesla,Civic,Germany,Nagoya,2010,Petrol,Manual,SUV,1723,18177,31318971,No,0.25
+C1166,Kia,Altima,UK,Chennai,2017,Diesel,Automatic,SUV,59803,44528,2662907984,No,2.95
+C1167,Mercedes,Optima,India,Detroit,2018,Electric,Automatic,Coupe,65697,71351,4687546647,Yes,0.68
+C1168,Nissan,Elantra,South Korea,São Paulo,2023,Petrol,Automatic,Coupe,75193,66831,5025223383,No,2.47
+C1169,Toyota,Model X,India,London,2018,Petrol,Automatic,Hatchback,38260,61827,2365501020,No,0.86
+C1170,Kia,Model X,France,Seoul,2011,Electric,Automatic,Sedan,79682,33508,2669984456,Yes,0.33
+C1171,Nissan,Model X,Germany,Seoul,2018,Hybrid,Automatic,Sedan,58466,64933,3796372778,No,1.74
+C1172,Honda,Model X,UK,Detroit,2016,Electric,Automatic,Coupe,29524,78772,2325664528,Yes,0.68
+C1173,Toyota,Optima,China,Chennai,2014,Diesel,Automatic,SUV,70823,25611,1813847853,No,2.58
+C1174,Ford,Civic,Japan,Seoul,2016,Electric,Manual,Crossover,23702,32282,765147964,Yes,0.91
+C1175,BMW,A-Class,UK,Nagoya,2022,Hybrid,Automatic,Hatchback,52024,51003,2653380072,No,1.26
+C1176,Toyota,Civic,UK,Paris,2018,Electric,Automatic,Sedan,44408,21340,947666720,Yes,2.03
+C1177,Volkswagen,Mustang,Japan,Munich,2017,Diesel,Automatic,Coupe,36567,28165,1029909555,No,1.07
+C1178,Nissan,Passat,Brazil,Shanghai,2015,Diesel,Manual,SUV,9860,28260,278643600,No,1.39
+C1179,Ford,Corolla,China,Seoul,2022,Hybrid,Manual,SUV,13441,64515,867146115,No,2.87
+C1180,Volkswagen,A-Class,USA,São Paulo,2013,Diesel,Automatic,SUV,16493,40480,667636640,No,0.71
+C1181,Honda,A-Class,India,London,2022,Diesel,Automatic,Crossover,15120,62527,945408240,No,0.38
+C1182,Volkswagen,Civic,South Korea,São Paulo,2024,Electric,Manual,Truck,20693,69789,1444143777,Yes,1.22
+C1183,Mercedes,A-Class,UK,Monterrey,2010,Petrol,Automatic,Crossover,52059,61902,3222556218,No,1.54
+C1184,Mercedes,3 Series,France,Munich,2015,Diesel,Automatic,SUV,21748,42191,917569868,No,1.95
+C1185,Tesla,3 Series,Japan,Nagoya,2012,Diesel,Manual,Coupe,46352,69488,3220907776,No,1.37
+C1186,Kia,Mustang,India,Chennai,2015,Hybrid,Automatic,Hatchback,5527,46044,254485188,No,2.79
+C1187,Kia,Corolla,Germany,Munich,2015,Hybrid,Manual,Crossover,63910,59600,3809036000,No,0.23
+C1188,Ford,Altima,Japan,Shanghai,2023,Electric,Manual,Coupe,4760,58776,279773760,Yes,1.57
+C1189,Honda,Optima,Germany,Paris,2013,Electric,Automatic,SUV,38096,22836,869960256,Yes,1.4
+C1190,Hyundai,Civic,China,Seoul,2011,Diesel,Manual,Hatchback,9512,62648,595907776,No,2.3
+C1191,Mercedes,Optima,UK,Chennai,2024,Petrol,Manual,Sedan,26323,23740,624908020,No,3.39
+C1192,Ford,Altima,France,Chennai,2018,Petrol,Automatic,Sedan,74351,23102,1717656802,No,1.84
+C1193,Hyundai,Civic,South Korea,Seoul,2011,Electric,Automatic,Coupe,47527,61334,2915021018,Yes,3.46
+C1194,Kia,Civic,Germany,Seoul,2012,Hybrid,Automatic,Hatchback,78667,40255,3166740085,No,1.13
+C1195,Tesla,Corolla,India,Seoul,2019,Diesel,Automatic,Coupe,25599,35221,901622379,No,0.2
+C1196,Volkswagen,Optima,Brazil,Seoul,2010,Diesel,Manual,Hatchback,37492,73265,2746851380,No,0.66
+C1197,Mercedes,3 Series,China,Seoul,2016,Petrol,Automatic,Hatchback,11477,10719,123021963,No,1.44
+C1198,Ford,Model X,Brazil,Chennai,2024,Electric,Automatic,Coupe,56734,33140,1880164760,Yes,1.18
+C1199,Toyota,Optima,China,Detroit,2010,Petrol,Automatic,Hatchback,47876,65779,3149235404,No,0.43
+C1200,Hyundai,Passat,USA,Detroit,2020,Petrol,Manual,Crossover,34478,11069,381636982,No,1.57
+C1201,Volkswagen,Passat,India,São Paulo,2018,Electric,Automatic,SUV,9718,64714,628890652,Yes,1.25
+C1202,Mercedes,Civic,Brazil,Detroit,2020,Hybrid,Automatic,Hatchback,22288,22935,511175280,No,0.52
+C1203,Kia,Model X,France,Shanghai,2020,Diesel,Automatic,Crossover,21001,54035,1134789035,No,1.11
+C1204,Honda,Elantra,UK,Detroit,2010,Hybrid,Automatic,Hatchback,78489,37937,2977637193,No,3.11
+C1205,Hyundai,Altima,Japan,Chennai,2014,Electric,Automatic,Crossover,15710,28540,448363400,Yes,1.13
+C1206,Kia,Mustang,South Korea,Seoul,2016,Electric,Automatic,Coupe,74725,58702,4386506950,Yes,2.53
+C1207,Mercedes,Model X,UK,London,2012,Diesel,Automatic,Sedan,45989,46907,2157206023,No,2.18
+C1208,Hyundai,Mustang,UK,London,2018,Hybrid,Automatic,Truck,64221,25221,1619717841,No,1.55
+C1209,Volkswagen,Optima,China,Shanghai,2017,Diesel,Manual,Hatchback,43153,64781,2795494493,No,0.91
+C1210,Mercedes,Optima,France,Monterrey,2022,Petrol,Automatic,Truck,41450,17087,708256150,No,1.35
+C1211,Nissan,Mustang,China,Chennai,2024,Petrol,Automatic,Hatchback,9416,32789,308741224,No,2.11
+C1212,Ford,Altima,Mexico,Nagoya,2012,Petrol,Automatic,Coupe,66411,66023,4384653453,No,1.29
+C1213,Volkswagen,Model X,Germany,Munich,2024,Hybrid,Automatic,Coupe,31949,43400,1386586600,No,0.83
+C1214,Hyundai,Elantra,South Korea,São Paulo,2014,Petrol,Automatic,Crossover,21282,12199,259619118,No,0.5
+C1215,Honda,Civic,Germany,Nagoya,2016,Diesel,Automatic,Hatchback,20743,57316,1188905788,No,3.09
+C1216,Kia,Corolla,Japan,Chennai,2021,Hybrid,Automatic,Coupe,29879,62062,1854350498,No,1.6
+C1217,Toyota,Optima,Mexico,Detroit,2023,Diesel,Automatic,Coupe,38280,26744,1023760320,No,2.23
+C1218,Kia,Passat,India,Seoul,2013,Electric,Automatic,Hatchback,31240,65517,2046751080,Yes,1.77
+C1219,Hyundai,Altima,Japan,Nagoya,2014,Hybrid,Manual,Crossover,20484,58865,1205790660,No,3.07
+C1220,Kia,Corolla,Japan,Munich,2012,Diesel,Automatic,Crossover,550,23894,13141700,No,1.96
+C1221,Ford,Elantra,USA,Monterrey,2018,Diesel,Automatic,Crossover,7090,39160,277644400,No,1.73
+C1222,Mercedes,A-Class,South Korea,London,2019,Hybrid,Automatic,Crossover,40705,63095,2568281975,No,3.24
+C1223,Toyota,Civic,China,Monterrey,2018,Electric,Automatic,Sedan,15662,39272,615078064,Yes,2.55
+C1224,BMW,Optima,France,Munich,2016,Hybrid,Automatic,Hatchback,50246,64021,3216799166,No,0.48
+C1225,Hyundai,Civic,Germany,Seoul,2019,Petrol,Automatic,Sedan,13605,43645,593790225,No,0.7
+C1226,Tesla,Corolla,Japan,Detroit,2011,Petrol,Automatic,Coupe,37999,31179,1184770821,No,2.78
+C1227,BMW,Civic,Germany,Munich,2016,Electric,Automatic,Sedan,37141,20691,768484431,Yes,2.94
+C1228,Kia,A-Class,Germany,São Paulo,2016,Diesel,Automatic,Crossover,12128,55311,670811808,No,1.95
+C1229,Hyundai,Corolla,India,Munich,2020,Diesel,Manual,Coupe,42532,49038,2085684216,No,1.99
+C1230,Nissan,Optima,South Korea,Chennai,2014,Diesel,Automatic,Sedan,65529,34967,2291352543,No,2.25
+C1231,Tesla,Model X,South Korea,Detroit,2018,Hybrid,Automatic,Sedan,39016,38478,1501257648,No,1.59
+C1232,Toyota,Passat,Brazil,Seoul,2022,Hybrid,Manual,Hatchback,1976,65775,129971400,No,2.41
+C1233,Honda,Corolla,UK,London,2021,Electric,Automatic,Sedan,41300,50332,2078711600,Yes,0.47
+C1234,Nissan,3 Series,South Korea,London,2020,Petrol,Automatic,Coupe,36288,17066,619291008,No,3.37
+C1235,BMW,A-Class,Germany,Munich,2012,Diesel,Automatic,Crossover,26740,49313,1318629620,No,2.65
+C1236,Mercedes,Corolla,China,Chennai,2013,Petrol,Automatic,Hatchback,11422,77857,889282654,No,2.25
+C1237,Ford,Corolla,Germany,Nagoya,2010,Hybrid,Automatic,Sedan,64698,55900,3616618200,No,1.18
+C1238,Honda,3 Series,China,Monterrey,2015,Hybrid,Manual,Hatchback,59239,51098,3026994422,No,0.65
+C1239,Nissan,Optima,Brazil,Monterrey,2013,Hybrid,Automatic,Truck,74102,18294,1355621988,No,1.49
+C1240,Mercedes,Corolla,China,Monterrey,2010,Petrol,Automatic,Hatchback,12589,72580,913709620,No,2.35
+C1241,Mercedes,Passat,South Korea,Nagoya,2011,Electric,Manual,Crossover,33100,48101,1592143100,Yes,2.25
+C1242,Hyundai,Civic,India,Chennai,2024,Electric,Manual,Truck,46676,35059,1636413884,Yes,1.4
+C1243,Nissan,Optima,China,Monterrey,2012,Hybrid,Automatic,Truck,8667,50626,438775542,No,2.19
+C1244,Toyota,Passat,Germany,São Paulo,2018,Diesel,Automatic,Hatchback,78852,30703,2420992956,No,2.87
+C1245,Kia,Optima,France,Nagoya,2022,Petrol,Automatic,Coupe,21664,71417,1547177888,No,0.19
+C1246,Tesla,Passat,South Korea,Nagoya,2017,Hybrid,Automatic,Crossover,31915,69228,2209411620,No,1.63
+C1247,Tesla,A-Class,France,Seoul,2016,Petrol,Automatic,Coupe,74153,13205,979190365,No,2.68
+C1248,BMW,Passat,Mexico,Seoul,2022,Petrol,Automatic,Crossover,72395,44929,3252634955,No,1.96
+C1249,BMW,Mustang,Mexico,Detroit,2024,Electric,Manual,Crossover,76329,43411,3313518219,Yes,2.32
+C1250,Tesla,Passat,Germany,São Paulo,2020,Hybrid,Automatic,Coupe,59150,21628,1279296200,No,1.86
+C1251,Toyota,Model X,Mexico,São Paulo,2021,Electric,Automatic,SUV,59481,16518,982507158,Yes,3.47
+C1252,Ford,Model X,UK,Detroit,2023,Hybrid,Automatic,Truck,75368,48491,3654669688,No,0.29
+C1253,Volkswagen,Altima,Brazil,São Paulo,2013,Petrol,Automatic,Hatchback,1115,17946,20009790,No,1.77
+C1254,Kia,Mustang,South Korea,Shanghai,2010,Electric,Automatic,Coupe,46112,10610,489248320,Yes,0.41
+C1255,Ford,Mustang,France,Paris,2017,Petrol,Automatic,Coupe,78437,79838,6262253206,No,0.64
+C1256,Hyundai,Civic,Germany,Monterrey,2013,Hybrid,Manual,Hatchback,42436,44311,1880381596,No,1.4
+C1257,Volkswagen,Mustang,UK,Seoul,2012,Diesel,Automatic,Truck,29872,51876,1549639872,No,0.63
+C1258,Volkswagen,Civic,Germany,Detroit,2018,Electric,Automatic,Hatchback,68375,60333,4125268875,Yes,3.38
+C1259,Nissan,Altima,UK,Detroit,2019,Electric,Automatic,Crossover,62200,61298,3812735600,Yes,3.32
+C1260,Toyota,Altima,Mexico,São Paulo,2013,Petrol,Automatic,SUV,8609,51811,446040899,No,1.24
+C1261,Toyota,A-Class,Mexico,Nagoya,2013,Petrol,Automatic,Crossover,24258,52974,1285043292,No,2.28
+C1262,Volkswagen,Model X,China,London,2023,Diesel,Manual,SUV,13817,29856,412520352,No,1.91
+C1263,Nissan,Passat,USA,Munich,2018,Electric,Manual,Hatchback,69501,54830,3810739830,Yes,2.87
+C1264,Kia,Passat,Germany,Munich,2022,Hybrid,Automatic,Crossover,51923,55823,2898497629,No,2.23
+C1265,Volkswagen,3 Series,China,Detroit,2021,Hybrid,Automatic,Truck,26122,77078,2013431516,No,0.1
+C1266,Honda,3 Series,South Korea,Monterrey,2020,Electric,Manual,Crossover,7300,77951,569042300,Yes,2.69
+C1267,BMW,Elantra,China,Shanghai,2021,Electric,Automatic,Coupe,36039,22905,825473295,Yes,2.64
+C1268,BMW,Optima,Japan,Monterrey,2023,Electric,Automatic,SUV,3100,31601,97963100,Yes,1.83
+C1269,Ford,A-Class,Mexico,Detroit,2011,Diesel,Automatic,SUV,71554,50955,3646034070,No,3.17
+C1270,Hyundai,Elantra,Japan,Monterrey,2023,Hybrid,Manual,Truck,29869,58435,1745395015,No,3.19
+C1271,BMW,Elantra,Germany,Seoul,2021,Hybrid,Automatic,SUV,17189,34044,585182316,No,1.88
+C1272,Mercedes,Corolla,France,Monterrey,2014,Petrol,Manual,SUV,38969,21246,827935374,No,2.17
+C1273,Ford,Corolla,France,São Paulo,2024,Petrol,Manual,Truck,1458,12458,18163764,No,3.49
+C1274,BMW,Elantra,South Korea,São Paulo,2013,Electric,Automatic,Crossover,60512,68507,4145495584,Yes,1.12
+C1275,Hyundai,Mustang,China,Shanghai,2018,Petrol,Manual,Hatchback,69574,16028,1115132072,No,1.2
+C1276,Toyota,Optima,France,Seoul,2021,Diesel,Manual,Crossover,60521,61901,3746310421,No,0.72
+C1277,Toyota,A-Class,UK,London,2014,Hybrid,Automatic,Coupe,51282,16306,836204292,No,3.15
+C1278,Kia,Elantra,UK,Nagoya,2018,Hybrid,Automatic,Coupe,76019,37678,2864243882,No,2.63
+C1279,Volkswagen,Passat,South Korea,Seoul,2020,Petrol,Automatic,SUV,59815,22363,1337642845,No,0.46
+C1280,Honda,Optima,Brazil,Chennai,2018,Electric,Automatic,Coupe,25142,24066,605067372,Yes,3.44
+C1281,Toyota,Corolla,Mexico,Paris,2023,Petrol,Automatic,Hatchback,79503,73804,5867639412,No,2.59
+C1282,Nissan,Passat,China,Detroit,2011,Electric,Automatic,SUV,705,58544,41273520,Yes,2.99
+C1283,BMW,Corolla,Germany,Chennai,2023,Diesel,Automatic,Coupe,12942,10189,131866038,No,0.26
+C1284,Nissan,Corolla,India,Shanghai,2024,Hybrid,Manual,Sedan,6191,21752,134666632,No,1.82
+C1285,Hyundai,Optima,India,Chennai,2018,Diesel,Automatic,Sedan,39409,17482,688948138,No,2.48
+C1286,Toyota,Corolla,India,São Paulo,2012,Hybrid,Automatic,Sedan,20004,26679,533686716,No,1.95
+C1287,Honda,Altima,France,Monterrey,2013,Diesel,Automatic,Sedan,64770,10799,699451230,No,2.37
+C1288,Hyundai,Model X,Brazil,Nagoya,2010,Petrol,Automatic,Crossover,58551,19934,1167155634,No,2.88
+C1289,Mercedes,Altima,Brazil,Munich,2023,Diesel,Automatic,Sedan,39298,67558,2654894284,No,1.37
+C1290,Mercedes,Model X,China,Detroit,2010,Diesel,Automatic,SUV,49830,69223,3449382090,No,2.99
+C1291,Nissan,3 Series,China,Munich,2010,Petrol,Automatic,Truck,79419,51556,4094525964,No,0.65
+C1292,Volkswagen,3 Series,Brazil,Monterrey,2018,Hybrid,Manual,Crossover,42216,19909,840478344,No,1.02
+C1293,Ford,Corolla,South Korea,São Paulo,2020,Hybrid,Manual,Truck,75124,53558,4023491192,No,0.25
+C1294,Volkswagen,A-Class,China,São Paulo,2017,Petrol,Automatic,SUV,47482,38013,1804933266,No,1.34
+C1295,Kia,A-Class,South Korea,Monterrey,2014,Diesel,Manual,SUV,27944,32875,918659000,No,1.39
+C1296,Volkswagen,Model X,Japan,Detroit,2014,Diesel,Manual,Hatchback,25234,21408,540209472,No,2.84
+C1297,Kia,Passat,UK,Munich,2018,Diesel,Automatic,Crossover,42245,45607,1926667715,No,2.32
+C1298,Kia,Optima,Mexico,Seoul,2012,Electric,Manual,Truck,35071,71684,2514029564,Yes,1.58
+C1299,Honda,Corolla,China,São Paulo,2012,Hybrid,Manual,Sedan,15889,46281,735358809,No,2.32
+C1300,Toyota,Optima,Brazil,Munich,2016,Diesel,Automatic,SUV,45538,37326,1699751388,No,0.28
+C1301,Honda,Altima,UK,London,2018,Hybrid,Automatic,Sedan,73295,23601,1729835295,No,0.71
+C1302,Kia,A-Class,UK,Munich,2015,Diesel,Automatic,Truck,45668,11135,508513180,No,2.23
+C1303,Hyundai,Mustang,USA,London,2023,Petrol,Automatic,Crossover,78582,32741,2572853262,No,2.28
+C1304,Mercedes,Altima,Brazil,London,2011,Petrol,Manual,Coupe,68190,21913,1494247470,No,2.73
+C1305,Kia,Altima,Mexico,São Paulo,2010,Hybrid,Automatic,Coupe,74802,20101,1503595002,No,1.47
+C1306,Honda,Model X,Brazil,Detroit,2011,Hybrid,Manual,SUV,11730,28631,335841630,No,2.56
+C1307,Hyundai,Civic,China,Shanghai,2023,Petrol,Manual,Hatchback,6402,46870,300061740,No,2.43
+C1308,Honda,Altima,Germany,São Paulo,2023,Electric,Automatic,Sedan,67258,58985,3967213130,Yes,3.38
+C1309,Volkswagen,Corolla,Japan,Detroit,2010,Petrol,Automatic,SUV,27550,37215,1025273250,No,0.83
+C1310,BMW,Elantra,South Korea,Detroit,2019,Diesel,Automatic,Hatchback,75086,72110,5414451460,No,1.98
+C1311,Nissan,Elantra,Germany,Chennai,2019,Electric,Automatic,Sedan,69610,29215,2033656150,Yes,2.15
+C1312,Ford,Corolla,Japan,Monterrey,2018,Petrol,Automatic,Truck,77193,24024,1854484632,No,3.5
+C1313,Honda,Civic,Germany,Monterrey,2024,Electric,Automatic,Coupe,20075,55483,1113821225,Yes,0.78
+C1314,Ford,Civic,South Korea,Monterrey,2019,Electric,Automatic,Hatchback,59440,20511,1219173840,Yes,1.88
+C1315,Tesla,Model X,France,Paris,2024,Electric,Manual,Sedan,40744,29923,1219182712,Yes,1.28
+C1316,Honda,A-Class,Brazil,São Paulo,2021,Hybrid,Automatic,SUV,15462,20558,317867796,No,1.89
+C1317,BMW,Optima,Germany,Detroit,2023,Petrol,Automatic,Sedan,77832,10526,819259632,No,0.89
+C1318,Ford,Civic,China,Chennai,2022,Hybrid,Automatic,SUV,24950,11753,293237350,No,0.26
+C1319,Kia,Mustang,Mexico,London,2017,Hybrid,Manual,Coupe,53994,36248,1957174512,No,2.05
+C1320,Honda,Model X,India,Shanghai,2024,Diesel,Automatic,Coupe,45537,24656,1122760272,No,1.24
+C1321,Toyota,3 Series,China,Shanghai,2016,Diesel,Automatic,Sedan,30541,33266,1015976906,No,0.72
+C1322,Nissan,Passat,South Korea,London,2024,Electric,Manual,Sedan,11215,74555,836134325,Yes,1.2
+C1323,BMW,3 Series,Mexico,Munich,2012,Electric,Automatic,SUV,22303,72995,1628007485,Yes,0.27
+C1324,Ford,Model X,China,Munich,2017,Diesel,Automatic,SUV,69406,75402,5233351212,No,3.33
+C1325,BMW,Altima,UK,Monterrey,2011,Diesel,Automatic,Hatchback,62226,64176,3993415776,No,2.08
+C1326,Hyundai,Optima,Brazil,São Paulo,2011,Petrol,Manual,Hatchback,2408,51733,124573064,No,2.87
+C1327,Nissan,Passat,Mexico,Paris,2020,Electric,Automatic,Hatchback,37575,24418,917506350,Yes,1.54
+C1328,Kia,3 Series,UK,Chennai,2019,Electric,Automatic,Sedan,65087,47185,3071130095,Yes,3.17
+C1329,Honda,Passat,China,Shanghai,2012,Diesel,Automatic,Crossover,54148,51745,2801888260,No,1.74
+C1330,Honda,Mustang,Japan,Monterrey,2016,Petrol,Manual,Crossover,21634,63787,1379967958,No,2.05
+C1331,Honda,Mustang,USA,Nagoya,2010,Diesel,Automatic,Crossover,56643,62035,3513848505,No,1.77
+C1332,Nissan,Mustang,Japan,Monterrey,2017,Diesel,Automatic,Crossover,69623,75984,5290234032,No,2.59
+C1333,Toyota,Model X,Brazil,Nagoya,2021,Hybrid,Manual,Hatchback,45653,62462,2851577686,No,2.03
+C1334,Tesla,Optima,Mexico,Seoul,2016,Electric,Automatic,Sedan,2913,47353,137939289,Yes,1.02
+C1335,Mercedes,Model X,Mexico,Detroit,2013,Petrol,Manual,Crossover,23055,58302,1344152610,No,0.59
+C1336,Volkswagen,Elantra,Brazil,London,2023,Hybrid,Manual,Coupe,11452,32435,371445620,No,2.16
+C1337,Ford,Altima,UK,Detroit,2024,Electric,Manual,Truck,69493,67728,4706621904,Yes,1.76
+C1338,Toyota,Altima,USA,Monterrey,2014,Diesel,Automatic,Coupe,74500,11238,837231000,No,0.43
+C1339,Kia,Mustang,China,Detroit,2019,Petrol,Automatic,Sedan,67186,23049,1548570114,No,1.45
+C1340,Ford,Elantra,South Korea,Chennai,2022,Electric,Manual,Sedan,32764,67193,2201511452,Yes,1.85
+C1341,Honda,Civic,Japan,Seoul,2010,Diesel,Manual,Truck,48053,45584,2190447952,No,2.91
+C1342,BMW,Civic,Japan,Paris,2013,Hybrid,Automatic,SUV,54859,76634,4204064606,No,0.36
+C1343,Kia,Mustang,India,Seoul,2024,Petrol,Manual,SUV,10308,24679,254391132,No,1.28
+C1344,Ford,3 Series,USA,Shanghai,2010,Electric,Automatic,SUV,52830,44505,2351199150,Yes,2.9
+C1345,Honda,Model X,South Korea,Chennai,2010,Hybrid,Automatic,Hatchback,38845,61341,2382791145,No,2.3
+C1346,Ford,Mustang,Japan,Detroit,2019,Diesel,Automatic,SUV,70117,60374,4233243758,No,1.09
+C1347,BMW,A-Class,South Korea,Paris,2010,Diesel,Manual,Hatchback,39722,56998,2264074556,No,2.97
+C1348,Honda,Passat,China,Detroit,2016,Electric,Automatic,Hatchback,58255,65701,3827411755,Yes,1.78
+C1349,Tesla,Altima,Mexico,São Paulo,2016,Diesel,Automatic,SUV,9433,54859,517484947,No,1.79
+C1350,Toyota,Civic,South Korea,São Paulo,2013,Petrol,Manual,SUV,68707,43178,2966630846,No,3.42
+C1351,Hyundai,Corolla,Japan,Munich,2024,Electric,Automatic,Truck,44239,37575,1662280425,Yes,3.32
+C1352,Volkswagen,Civic,UK,Seoul,2022,Hybrid,Automatic,Crossover,48238,29329,1414772302,No,1.32
+C1353,Nissan,Altima,USA,Paris,2021,Electric,Automatic,Truck,22383,67254,1505346282,Yes,0.58
+C1354,Volkswagen,Passat,Brazil,São Paulo,2011,Electric,Automatic,Hatchback,43901,50068,2198035268,Yes,1.21
+C1355,Kia,Altima,Germany,Munich,2021,Hybrid,Automatic,Truck,15880,68951,1094941880,No,0.2
+C1356,Volkswagen,Corolla,France,Chennai,2012,Diesel,Manual,Hatchback,18712,45171,845239752,No,0.17
+C1357,Honda,Mustang,France,Paris,2017,Hybrid,Automatic,Sedan,28674,18262,523644588,No,1.44
+C1358,Tesla,Elantra,Germany,Munich,2022,Petrol,Manual,Hatchback,7361,53270,392120470,No,3.3
+C1359,Hyundai,Corolla,South Korea,London,2017,Diesel,Automatic,Hatchback,6594,30785,202996290,No,3.06
+C1360,Toyota,Altima,USA,Paris,2020,Electric,Automatic,Truck,51819,49469,2563434111,Yes,1.84
+C1361,Toyota,Altima,South Korea,Monterrey,2020,Diesel,Automatic,Crossover,47228,78831,3723030468,No,2.02
+C1362,BMW,A-Class,Brazil,Munich,2015,Diesel,Automatic,Sedan,24863,55643,1383451909,No,0.12
+C1363,Nissan,A-Class,USA,Detroit,2024,Petrol,Automatic,Coupe,39800,77657,3090748600,No,0.83
+C1364,Ford,Optima,Germany,Monterrey,2019,Diesel,Automatic,Coupe,55308,13582,751193256,No,0.18
+C1365,Tesla,A-Class,South Korea,London,2018,Diesel,Automatic,Crossover,6443,40280,259524040,No,2.67
+C1366,Ford,Model X,India,São Paulo,2020,Diesel,Automatic,Coupe,43116,52589,2267427324,No,0.6
+C1367,Hyundai,Elantra,Japan,Nagoya,2021,Electric,Automatic,Sedan,74829,50000,3741450000,Yes,3.05
+C1368,Volkswagen,Passat,UK,Munich,2018,Diesel,Automatic,SUV,25787,11085,285848895,No,2.29
+C1369,Toyota,Corolla,Mexico,Chennai,2013,Hybrid,Manual,Sedan,34471,25600,882457600,No,0.88
+C1370,Hyundai,Altima,UK,Munich,2021,Diesel,Automatic,Truck,56652,69801,3954366252,No,0.64
+C1371,Volkswagen,Optima,Brazil,Nagoya,2010,Petrol,Automatic,Hatchback,42851,71739,3074087889,No,2.23
+C1372,Toyota,Optima,South Korea,London,2010,Diesel,Manual,Hatchback,60540,51596,3123621840,No,3.16
+C1373,Volkswagen,Passat,China,London,2024,Diesel,Manual,Truck,61116,62188,3800681808,No,2.54
+C1374,Nissan,Elantra,USA,Monterrey,2021,Electric,Automatic,Truck,24397,36825,898419525,Yes,1.29
+C1375,Tesla,Corolla,South Korea,Paris,2019,Hybrid,Automatic,Hatchback,23510,20913,491664630,No,2.1
+C1376,Kia,Civic,USA,Chennai,2024,Diesel,Automatic,Crossover,40654,24332,989193128,No,1.16
+C1377,Hyundai,A-Class,Mexico,Monterrey,2014,Hybrid,Automatic,SUV,20614,64895,1337745530,No,3.5
+C1378,Hyundai,Mustang,India,Chennai,2023,Petrol,Manual,SUV,19550,14432,282145600,No,2.65
+C1379,Mercedes,Optima,UK,Chennai,2022,Electric,Manual,SUV,21625,36570,790826250,Yes,2.19
+C1380,Honda,A-Class,Japan,Nagoya,2011,Hybrid,Automatic,Truck,50896,16103,819578288,No,1.54
+C1381,Nissan,A-Class,Mexico,Monterrey,2024,Electric,Manual,Hatchback,45346,25900,1174461400,Yes,2.2
+C1382,Nissan,Model X,Mexico,Chennai,2015,Diesel,Automatic,Crossover,20896,68415,1429599840,No,1.26
+C1383,Ford,Elantra,UK,Shanghai,2016,Petrol,Automatic,Hatchback,39473,77567,3061802191,No,0.2
+C1384,Volkswagen,Mustang,Mexico,Nagoya,2010,Electric,Manual,Hatchback,24074,72713,1750492762,Yes,1.44
+C1385,Honda,Civic,China,London,2015,Diesel,Automatic,Crossover,14369,68639,986273791,No,3.26
+C1386,Tesla,Altima,China,Nagoya,2017,Hybrid,Manual,Sedan,66694,18988,1266385672,No,2.23
+C1387,Tesla,Model X,France,Detroit,2021,Petrol,Manual,Crossover,62667,12977,813229659,No,0.39
+C1388,Nissan,A-Class,France,Detroit,2014,Petrol,Automatic,Sedan,56647,64641,3661718727,No,3.11
+C1389,Tesla,A-Class,China,Chennai,2023,Hybrid,Automatic,Coupe,12622,11268,142224696,No,1.01
+C1390,Mercedes,3 Series,Germany,Monterrey,2021,Hybrid,Automatic,Sedan,44327,64431,2856032937,No,0.93
+C1391,Hyundai,Mustang,India,London,2016,Petrol,Automatic,SUV,13835,26756,370169260,No,1.11
+C1392,BMW,Mustang,USA,Nagoya,2019,Electric,Automatic,SUV,64076,30764,1971234064,Yes,2.06
+C1393,Kia,3 Series,India,Monterrey,2015,Petrol,Automatic,Crossover,22177,69912,1550438424,No,1.95
+C1394,Ford,Mustang,Brazil,Nagoya,2013,Hybrid,Manual,SUV,28723,50385,1447208355,No,1.77
+C1395,Volkswagen,A-Class,Mexico,Nagoya,2024,Electric,Automatic,SUV,30314,25032,758820048,Yes,2.54
+C1396,Kia,Optima,Japan,Shanghai,2024,Diesel,Automatic,Coupe,43685,55702,2433341870,No,1.18
+C1397,Volkswagen,Corolla,Mexico,Detroit,2016,Petrol,Automatic,SUV,77294,21885,1691579190,No,2.76
+C1398,Toyota,A-Class,India,Nagoya,2019,Hybrid,Manual,Truck,76175,19796,1507960300,No,0.7
+C1399,Kia,Model X,China,Shanghai,2018,Diesel,Automatic,Truck,42825,42863,1835607975,No,2.76
+C1400,BMW,Elantra,UK,Detroit,2019,Petrol,Automatic,Truck,41003,42117,1726923351,No,2.36
+C1401,Nissan,3 Series,Brazil,Shanghai,2019,Petrol,Manual,Sedan,20014,30753,615490542,No,2.42
+C1402,Mercedes,Civic,China,Monterrey,2022,Electric,Automatic,Crossover,56696,30325,1719306200,Yes,1.74
+C1403,Hyundai,Altima,India,Paris,2016,Hybrid,Automatic,Crossover,21417,17021,364538757,No,2.37
+C1404,Hyundai,Civic,UK,Detroit,2021,Diesel,Manual,Hatchback,55199,63096,3482836104,No,0.37
+C1405,Mercedes,A-Class,Japan,São Paulo,2023,Petrol,Automatic,Coupe,50619,23071,1167830949,No,3.0
+C1406,Honda,Model X,India,Paris,2014,Electric,Manual,Truck,25561,74649,1908103089,Yes,0.29
+C1407,Toyota,A-Class,USA,Monterrey,2016,Diesel,Automatic,Truck,10447,18041,188474327,No,0.61
+C1408,Volkswagen,Elantra,South Korea,Nagoya,2012,Diesel,Automatic,SUV,33132,50058,1658521656,No,2.06
+C1409,BMW,Optima,UK,London,2011,Petrol,Manual,Truck,19852,58263,1156637076,No,2.61
+C1410,Tesla,Altima,India,Monterrey,2020,Diesel,Automatic,SUV,24153,54470,1315613910,No,0.36
+C1411,Kia,Elantra,China,Shanghai,2024,Petrol,Manual,SUV,67615,38223,2584448145,No,3.23
+C1412,Toyota,3 Series,USA,Shanghai,2014,Electric,Manual,Hatchback,44255,43575,1928411625,Yes,3.41
+C1413,Kia,3 Series,Germany,Shanghai,2013,Electric,Manual,Sedan,72488,55799,4044757912,Yes,2.16
+C1414,BMW,A-Class,UK,Shanghai,2014,Diesel,Manual,SUV,38421,31661,1216447281,No,1.74
+C1415,Ford,Model X,USA,Monterrey,2017,Petrol,Automatic,SUV,59503,46432,2762843296,No,2.62
+C1416,Ford,Elantra,China,London,2021,Hybrid,Manual,Crossover,47168,41147,1940821696,No,1.22
+C1417,Toyota,Passat,India,Munich,2013,Electric,Automatic,Hatchback,55675,39114,2177671950,Yes,1.78
+C1418,Nissan,Model X,Mexico,Shanghai,2024,Petrol,Automatic,SUV,48238,16030,773255140,No,3.21
+C1419,BMW,Optima,Japan,Munich,2018,Petrol,Manual,Coupe,53952,57429,3098409408,No,3.35
+C1420,BMW,3 Series,Mexico,London,2016,Petrol,Automatic,Sedan,68823,57743,3974046489,No,3.25
+C1421,Mercedes,A-Class,South Korea,London,2019,Diesel,Automatic,Coupe,46649,75615,3527364135,No,0.99
+C1422,Nissan,Mustang,USA,Paris,2022,Hybrid,Automatic,Truck,16339,57577,940750603,No,0.89
+C1423,Volkswagen,3 Series,South Korea,Detroit,2021,Diesel,Automatic,Sedan,2655,12966,34424730,No,1.11
+C1424,Volkswagen,Altima,Japan,São Paulo,2016,Electric,Manual,Truck,7519,13728,103220832,Yes,1.6
+C1425,Tesla,Corolla,USA,Chennai,2024,Diesel,Automatic,Crossover,55012,47304,2602287648,No,1.17
+C1426,Hyundai,Mustang,France,São Paulo,2022,Petrol,Automatic,SUV,62190,59277,3686436630,No,1.37
+C1427,Ford,A-Class,China,Monterrey,2022,Diesel,Manual,Hatchback,26690,10947,292175430,No,2.21
+C1428,Volkswagen,Passat,USA,Chennai,2017,Petrol,Automatic,Coupe,11428,76130,870013640,No,2.69
+C1429,Nissan,Mustang,China,London,2021,Hybrid,Automatic,Truck,48925,31414,1536929950,No,2.6
+C1430,BMW,Altima,Mexico,São Paulo,2015,Diesel,Automatic,SUV,74634,29439,2197150326,No,2.87
+C1431,Volkswagen,Model X,Brazil,Seoul,2017,Diesel,Automatic,Coupe,49474,68220,3375116280,No,0.21
+C1432,BMW,Passat,UK,Detroit,2012,Diesel,Automatic,Coupe,48296,56785,2742488360,No,0.26
+C1433,Volkswagen,3 Series,Brazil,São Paulo,2019,Petrol,Manual,Crossover,49243,46973,2313091439,No,2.78
+C1434,Ford,Passat,India,Detroit,2019,Petrol,Automatic,Crossover,79955,78196,6252161180,No,1.91
+C1435,Kia,Elantra,UK,Munich,2023,Diesel,Manual,Truck,70535,16089,1134837615,No,2.07
+C1436,Volkswagen,Altima,UK,Monterrey,2010,Diesel,Manual,SUV,38177,72235,2757715595,No,0.28
+C1437,Nissan,Mustang,Germany,Detroit,2015,Hybrid,Automatic,Hatchback,56821,39400,2238747400,No,0.97
+C1438,Volkswagen,Elantra,UK,Munich,2010,Hybrid,Automatic,Truck,59473,25405,1510911565,No,2.27
+C1439,Hyundai,Passat,Japan,Shanghai,2018,Electric,Automatic,Coupe,52914,62763,3321041382,Yes,3.02
+C1440,Ford,Elantra,Brazil,Munich,2023,Hybrid,Automatic,Coupe,26102,40209,1049535318,No,3.22
+C1441,Nissan,Civic,Mexico,Monterrey,2011,Hybrid,Manual,Sedan,30192,27424,827985408,No,1.8
+C1442,Mercedes,Altima,China,Paris,2020,Hybrid,Automatic,SUV,49250,30556,1504883000,No,1.95
+C1443,Nissan,Optima,India,Shanghai,2011,Petrol,Automatic,Sedan,22260,29330,652885800,No,2.93
+C1444,Hyundai,Model X,UK,London,2016,Hybrid,Automatic,Crossover,68956,13236,912701616,No,1.93
+C1445,Kia,Passat,India,Nagoya,2011,Hybrid,Automatic,Hatchback,24585,79216,1947525360,No,1.86
+C1446,Ford,Altima,Mexico,Munich,2019,Diesel,Automatic,Truck,64464,40312,2598672768,No,3.18
+C1447,Mercedes,Optima,India,Munich,2017,Petrol,Automatic,Coupe,23425,31191,730649175,No,2.79
+C1448,Hyundai,Optima,Mexico,Detroit,2015,Electric,Automatic,SUV,6115,46640,285203600,Yes,3.19
+C1449,Hyundai,A-Class,UK,London,2023,Electric,Automatic,Coupe,37583,72293,2716987819,Yes,0.84
+C1450,Toyota,Elantra,Mexico,São Paulo,2016,Hybrid,Automatic,Crossover,68819,46688,3213021472,No,1.88
+C1451,Ford,Optima,UK,Seoul,2016,Electric,Manual,Sedan,10105,34122,344802810,Yes,2.96
+C1452,Nissan,Civic,Germany,Chennai,2015,Electric,Automatic,Sedan,45108,51224,2310612192,Yes,0.48
+C1453,BMW,Altima,Germany,Munich,2019,Electric,Automatic,Truck,19692,16331,321590052,Yes,2.8
+C1454,Kia,Corolla,Mexico,São Paulo,2020,Hybrid,Automatic,SUV,3831,52262,200215722,No,0.72
+C1455,BMW,Corolla,Germany,Seoul,2018,Electric,Automatic,Crossover,51830,69592,3606953360,Yes,2.85
+C1456,Nissan,Passat,China,Chennai,2022,Hybrid,Manual,SUV,50449,43926,2216022774,No,2.18
+C1457,Nissan,3 Series,China,Nagoya,2018,Diesel,Automatic,Truck,68882,27528,1896183696,No,0.76
+C1458,Ford,Elantra,Germany,Detroit,2024,Diesel,Automatic,Crossover,38086,10068,383449848,No,1.71
+C1459,Nissan,3 Series,Germany,São Paulo,2016,Electric,Manual,Crossover,52743,79253,4180040979,Yes,2.42
+C1460,Toyota,Optima,France,Detroit,2018,Diesel,Manual,Sedan,59118,53968,3190480224,No,2.26
+C1461,Mercedes,Altima,France,Chennai,2022,Hybrid,Automatic,Sedan,78811,58623,4620137253,No,1.55
+C1462,Nissan,Passat,UK,Paris,2019,Diesel,Automatic,Sedan,8049,52129,419586321,No,3.16
+C1463,BMW,Mustang,Mexico,Munich,2012,Electric,Manual,Coupe,52994,71321,3779585074,Yes,1.87
+C1464,Nissan,Optima,South Korea,Shanghai,2012,Hybrid,Automatic,Hatchback,24458,21526,526482908,No,1.82
+C1465,Toyota,Elantra,South Korea,Seoul,2010,Petrol,Manual,Sedan,38038,36709,1396336942,No,0.31
+C1466,Volkswagen,Corolla,Germany,London,2014,Hybrid,Manual,Hatchback,6333,25063,158723979,No,3.24
+C1467,Volkswagen,A-Class,India,Monterrey,2024,Diesel,Manual,Hatchback,23886,14723,351673578,No,0.7
+C1468,Hyundai,Altima,Germany,Munich,2013,Petrol,Automatic,SUV,72278,14213,1027287214,No,1.9
+C1469,Kia,Model X,France,Shanghai,2011,Hybrid,Manual,Truck,25332,32797,830813604,No,2.83
+C1470,Tesla,3 Series,UK,Monterrey,2018,Petrol,Automatic,Coupe,78357,55217,4326638469,No,0.83
+C1471,Mercedes,Passat,Germany,São Paulo,2012,Petrol,Manual,Hatchback,39430,78283,3086698690,No,1.89
+C1472,Honda,3 Series,Brazil,Monterrey,2024,Petrol,Automatic,Coupe,32907,33655,1107485085,No,0.92
+C1473,Hyundai,Altima,India,Nagoya,2017,Hybrid,Automatic,SUV,4573,22587,103290351,No,2.68
+C1474,Kia,3 Series,Brazil,Munich,2015,Diesel,Automatic,Sedan,18167,32555,591426685,No,2.02
+C1475,Volkswagen,Altima,UK,Detroit,2023,Hybrid,Automatic,Crossover,16535,38071,629503985,No,3.01
+C1476,BMW,3 Series,UK,Paris,2022,Diesel,Automatic,Hatchback,7232,30239,218688448,No,3.14
+C1477,Honda,Civic,China,London,2014,Hybrid,Manual,Truck,55597,59151,3288618147,No,2.31
+C1478,Kia,Mustang,USA,Detroit,2010,Hybrid,Automatic,Crossover,3987,12203,48653361,No,2.57
+C1479,Kia,Optima,Brazil,Shanghai,2013,Hybrid,Manual,SUV,58202,23635,1375604270,No,1.97
+C1480,Hyundai,Optima,China,Munich,2012,Diesel,Automatic,Coupe,29575,62571,1850537325,No,1.41
+C1481,Honda,Elantra,France,Paris,2010,Hybrid,Automatic,Sedan,71531,11144,797141464,No,2.3
+C1482,Ford,Model X,Japan,Monterrey,2021,Petrol,Automatic,Coupe,15281,42699,652483419,No,3.19
+C1483,Tesla,Model X,India,Munich,2024,Hybrid,Automatic,Truck,40365,22213,896627745,No,1.52
+C1484,Ford,Elantra,Japan,Monterrey,2014,Petrol,Manual,Hatchback,8969,26944,241660736,No,1.17
+C1485,Honda,A-Class,Mexico,São Paulo,2015,Electric,Automatic,Truck,45667,76723,3503709241,Yes,1.42
+C1486,Ford,Optima,France,Nagoya,2011,Electric,Automatic,Coupe,20428,78669,1607050332,Yes,1.58
+C1487,Toyota,A-Class,France,Chennai,2024,Diesel,Automatic,Coupe,77021,78947,6080576887,No,0.35
+C1488,Volkswagen,Altima,Japan,Munich,2023,Diesel,Manual,Crossover,40099,44457,1782681243,No,1.79
+C1489,Toyota,Altima,Brazil,Shanghai,2012,Electric,Automatic,Truck,17275,45191,780674525,Yes,1.78
+C1490,Nissan,Corolla,USA,Monterrey,2020,Hybrid,Automatic,Truck,67004,67924,4551179696,No,2.1
+C1491,Ford,3 Series,Brazil,Detroit,2023,Hybrid,Automatic,Truck,76418,43744,3342828992,No,1.33
+C1492,Nissan,Model X,Japan,São Paulo,2024,Hybrid,Automatic,Sedan,71187,63424,4514964288,No,2.18
+C1493,BMW,Corolla,Mexico,Shanghai,2015,Electric,Automatic,Coupe,27304,42886,1170959344,Yes,3.09
+C1494,Mercedes,Mustang,Brazil,London,2013,Petrol,Manual,SUV,32759,10972,359431748,No,3.35
+C1495,BMW,Elantra,South Korea,Chennai,2018,Diesel,Automatic,Sedan,44060,16621,732321260,No,2.08
+C1496,Honda,Elantra,Brazil,São Paulo,2014,Petrol,Automatic,Sedan,27756,59738,1658087928,No,0.24
+C1497,Kia,Altima,UK,Nagoya,2013,Electric,Automatic,Sedan,6625,67694,448472750,Yes,3.4
+C1498,Volkswagen,Optima,China,Chennai,2011,Petrol,Automatic,Crossover,4870,64777,315463990,No,2.5
+C1499,Ford,A-Class,India,Monterrey,2015,Hybrid,Automatic,SUV,5338,24530,130941140,No,1.24
+C1500,Hyundai,Model X,Brazil,Shanghai,2019,Hybrid,Manual,Truck,57929,17354,1005299866,No,0.6
+C1501,Mercedes,Corolla,USA,London,2011,Petrol,Manual,Crossover,3634,56529,205426386,No,0.59
+C1502,Tesla,A-Class,USA,Seoul,2021,Electric,Manual,Coupe,43699,61714,2696840086,Yes,0.67
+C1503,Tesla,Corolla,Brazil,Nagoya,2022,Petrol,Manual,Hatchback,77592,51232,3975193344,No,0.25
+C1504,Tesla,3 Series,Germany,Paris,2016,Hybrid,Automatic,Crossover,34322,62079,2130675438,No,3.17
+C1505,Ford,Mustang,France,Monterrey,2012,Hybrid,Automatic,Hatchback,20613,22550,464823150,No,1.94
+C1506,Tesla,Mustang,Brazil,Seoul,2018,Electric,Automatic,Coupe,64094,70385,4511256190,Yes,2.48
+C1507,Toyota,A-Class,France,Munich,2020,Petrol,Automatic,SUV,3169,74736,236838384,No,2.92
+C1508,Mercedes,A-Class,South Korea,London,2014,Hybrid,Automatic,Hatchback,49927,40268,2010460436,No,2.79
+C1509,Toyota,A-Class,Japan,Detroit,2017,Hybrid,Automatic,Sedan,13438,14290,192029020,No,3.1
+C1510,Kia,Corolla,South Korea,Paris,2020,Petrol,Automatic,Crossover,6217,65034,404316378,No,3.39
+C1511,Mercedes,3 Series,Brazil,Shanghai,2015,Petrol,Manual,Hatchback,78318,40138,3143527884,No,1.59
+C1512,Toyota,Civic,USA,London,2023,Diesel,Manual,Coupe,48159,23432,1128461688,No,3.33
+C1513,Mercedes,A-Class,Germany,Chennai,2021,Electric,Manual,Sedan,65075,77058,5014549350,Yes,2.56
+C1514,Kia,Optima,Mexico,São Paulo,2019,Electric,Automatic,Hatchback,16789,68175,1144590075,Yes,0.34
+C1515,Nissan,Model X,France,Chennai,2017,Petrol,Automatic,Coupe,24906,43329,1079152074,No,2.42
+C1516,Ford,Model X,China,Chennai,2022,Electric,Automatic,SUV,13373,79076,1057483348,Yes,2.43
+C1517,Ford,Corolla,France,Munich,2022,Hybrid,Automatic,Coupe,23961,22328,535001208,No,3.18
+C1518,Tesla,A-Class,UK,Nagoya,2020,Petrol,Automatic,SUV,21210,44247,938478870,No,1.37
+C1519,BMW,Altima,India,Detroit,2021,Petrol,Automatic,Sedan,13948,16677,232610796,No,2.09
+C1520,Tesla,Elantra,Brazil,Paris,2012,Petrol,Automatic,Coupe,15698,71810,1127273380,No,0.14
+C1521,Honda,Civic,South Korea,Nagoya,2012,Diesel,Automatic,Truck,73658,60357,4445775906,No,1.23
+C1522,Toyota,Optima,China,London,2014,Electric,Automatic,Crossover,68438,65812,4504041656,Yes,0.31
+C1523,Mercedes,3 Series,USA,Chennai,2020,Diesel,Automatic,Truck,51299,51616,2647849184,No,1.87
+C1524,BMW,Altima,USA,Munich,2019,Hybrid,Automatic,Truck,35461,71284,2527801924,No,2.88
+C1525,Kia,Mustang,USA,London,2012,Electric,Automatic,Truck,43507,59741,2599151687,Yes,0.8
+C1526,Honda,Altima,Mexico,São Paulo,2017,Diesel,Automatic,Crossover,65970,63478,4187643660,No,1.89
+C1527,Kia,Corolla,UK,Detroit,2019,Petrol,Automatic,Truck,52756,64056,3379338336,No,0.79
+C1528,Ford,Civic,USA,Paris,2022,Diesel,Automatic,SUV,21239,55534,1179486626,No,0.51
+C1529,Ford,Passat,USA,São Paulo,2021,Petrol,Manual,Coupe,58686,74162,4352271132,No,1.84
+C1530,Tesla,Passat,Brazil,Munich,2023,Diesel,Manual,Sedan,27047,54711,1479768417,No,0.37
+C1531,Toyota,A-Class,UK,Detroit,2017,Diesel,Automatic,Truck,51931,32805,1703596455,No,2.1
+C1532,BMW,A-Class,Germany,London,2011,Diesel,Automatic,Truck,25976,30143,782994568,No,0.21
+C1533,Volkswagen,Corolla,Germany,Chennai,2021,Petrol,Automatic,Sedan,78911,72473,5718916903,No,0.46
+C1534,Honda,3 Series,UK,Chennai,2013,Diesel,Automatic,Sedan,11186,26017,291026162,No,1.97
+C1535,Honda,A-Class,India,Monterrey,2019,Electric,Automatic,Truck,18036,73202,1320271272,Yes,2.11
+C1536,Tesla,Elantra,Mexico,Chennai,2022,Electric,Automatic,SUV,34562,51423,1777281726,Yes,0.2
+C1537,Ford,Civic,China,Seoul,2010,Electric,Automatic,Sedan,48716,51713,2519250508,Yes,2.05
+C1538,Tesla,Corolla,France,Chennai,2013,Petrol,Automatic,Coupe,25541,12205,311727905,No,2.95
+C1539,Mercedes,Model X,Brazil,Seoul,2021,Petrol,Manual,Coupe,32153,63266,2034191698,No,2.56
+C1540,BMW,Mustang,Japan,Shanghai,2022,Electric,Automatic,SUV,22173,22342,495389166,Yes,0.55
+C1541,Toyota,Corolla,Germany,Seoul,2022,Electric,Manual,Crossover,10867,79563,864611121,Yes,2.11
+C1542,Nissan,Corolla,UK,Detroit,2020,Electric,Automatic,Hatchback,20129,73190,1473241510,Yes,2.39
+C1543,Hyundai,Passat,China,São Paulo,2022,Hybrid,Automatic,SUV,72690,31200,2267928000,No,0.23
+C1544,Hyundai,Optima,UK,Detroit,2013,Electric,Manual,Truck,25563,17188,439376844,Yes,3.01
+C1545,Tesla,3 Series,France,São Paulo,2019,Diesel,Manual,Hatchback,19822,12808,253880176,No,3.18
+C1546,Mercedes,Optima,China,Monterrey,2018,Hybrid,Automatic,Truck,13193,23851,314666243,No,2.99
+C1547,BMW,Elantra,Germany,Shanghai,2024,Hybrid,Automatic,Coupe,9741,74928,729873648,No,2.9
+C1548,Volkswagen,Model X,USA,São Paulo,2012,Petrol,Automatic,Sedan,30278,25058,758706124,No,2.63
+C1549,Hyundai,Passat,UK,São Paulo,2024,Diesel,Automatic,Truck,13151,24620,323777620,No,2.25
+C1550,BMW,Model X,Japan,Munich,2011,Petrol,Manual,Coupe,26466,62755,1660873830,No,2.41
+C1551,Toyota,Elantra,Germany,Nagoya,2018,Petrol,Manual,SUV,9775,72995,713526125,No,2.84
+C1552,Kia,Optima,South Korea,Nagoya,2018,Diesel,Automatic,Truck,46106,46681,2152274186,No,2.35
+C1553,Mercedes,Corolla,Japan,Munich,2010,Petrol,Automatic,Coupe,2158,74509,160790422,No,1.21
+C1554,Ford,A-Class,India,Chennai,2015,Diesel,Automatic,Sedan,72968,77703,5669832504,No,1.38
+C1555,BMW,A-Class,Mexico,Munich,2019,Diesel,Automatic,Truck,14748,77680,1145624640,No,3.15
+C1556,Toyota,Altima,Germany,São Paulo,2017,Petrol,Manual,Crossover,24937,77703,1937679711,No,0.16
+C1557,Volkswagen,Mustang,USA,São Paulo,2012,Electric,Manual,Coupe,40227,52136,2097274872,Yes,2.48
+C1558,Nissan,3 Series,Germany,Munich,2020,Petrol,Automatic,Truck,18701,46343,866660443,No,3.35
+C1559,Ford,Elantra,France,Munich,2018,Hybrid,Automatic,Sedan,41650,28254,1176779100,No,2.5
+C1560,Nissan,Mustang,China,Chennai,2011,Petrol,Automatic,Truck,15499,71273,1104660227,No,3.48
+C1561,Volkswagen,3 Series,UK,Detroit,2015,Diesel,Automatic,Truck,6876,69611,478645236,No,2.44
+C1562,Toyota,Mustang,China,Shanghai,2010,Hybrid,Manual,Crossover,52173,70002,3652214346,No,0.22
+C1563,Hyundai,Optima,China,London,2022,Diesel,Automatic,Coupe,3976,22926,91153776,No,2.91
+C1564,Nissan,3 Series,Germany,São Paulo,2016,Electric,Automatic,Hatchback,70402,74264,5228334128,Yes,1.07
+C1565,Ford,Optima,France,Shanghai,2012,Electric,Automatic,Truck,78494,37563,2948470122,Yes,1.62
+C1566,Tesla,Corolla,UK,Munich,2016,Hybrid,Manual,Hatchback,63378,40688,2578724064,No,1.16
+C1567,Honda,Passat,UK,Chennai,2013,Electric,Automatic,SUV,21115,44130,931804950,Yes,1.01
+C1568,BMW,Optima,China,Seoul,2018,Electric,Manual,Truck,11664,10925,127429200,Yes,1.57
+C1569,Hyundai,A-Class,India,Chennai,2014,Petrol,Manual,Hatchback,39816,61595,2452466520,No,1.39
+C1570,Nissan,Mustang,Mexico,Paris,2012,Petrol,Manual,SUV,69060,26321,1817728260,No,2.25
+C1571,Kia,Altima,France,Paris,2024,Electric,Automatic,Crossover,30059,20769,624295371,Yes,2.86
+C1572,BMW,Civic,India,Shanghai,2017,Electric,Automatic,Coupe,63468,46748,2967002064,Yes,1.11
+C1573,Tesla,3 Series,Brazil,Nagoya,2015,Petrol,Automatic,Truck,67300,50028,3366884400,No,0.83
+C1574,Volkswagen,Elantra,Brazil,Paris,2011,Electric,Automatic,Coupe,9547,26151,249663597,Yes,2.37
+C1575,Honda,Altima,Japan,Paris,2012,Electric,Automatic,SUV,45485,44187,2009845695,Yes,2.38
+C1576,Toyota,A-Class,China,Detroit,2017,Diesel,Automatic,Coupe,72623,53835,3909659205,No,3.16
+C1577,Tesla,Optima,UK,Seoul,2024,Electric,Automatic,Coupe,7077,10059,71187543,Yes,0.15
+C1578,Tesla,Passat,Germany,Detroit,2019,Hybrid,Manual,Sedan,4370,37235,162716950,No,3.0
+C1579,Volkswagen,Corolla,UK,Seoul,2016,Diesel,Automatic,SUV,34594,77114,2667681716,No,1.87
+C1580,Mercedes,Civic,UK,Monterrey,2019,Hybrid,Automatic,Coupe,55829,55366,3091028414,No,2.21
+C1581,Volkswagen,Model X,USA,London,2015,Electric,Manual,Hatchback,9717,42160,409668720,Yes,0.41
+C1582,Mercedes,Altima,UK,São Paulo,2023,Petrol,Manual,SUV,66641,15277,1018074557,No,1.57
+C1583,Mercedes,Passat,Japan,Paris,2010,Diesel,Manual,Sedan,22843,11780,269090540,No,0.87
+C1584,Hyundai,Model X,India,São Paulo,2018,Petrol,Manual,Truck,51322,56579,2903747438,No,0.96
+C1585,Hyundai,Civic,Brazil,Paris,2012,Diesel,Manual,Crossover,13503,70750,955337250,No,1.81
+C1586,Ford,Elantra,UK,Detroit,2023,Petrol,Automatic,Coupe,60038,66902,4016662276,No,2.86
+C1587,Nissan,Elantra,UK,London,2014,Diesel,Automatic,Hatchback,32589,42161,1373984829,No,2.63
+C1588,Nissan,Mustang,USA,Detroit,2016,Diesel,Automatic,Sedan,54095,54499,2948123405,No,2.11
+C1589,Toyota,Civic,France,Detroit,2024,Hybrid,Automatic,SUV,30529,41886,1278737694,No,1.93
+C1590,Nissan,Civic,Germany,Seoul,2016,Petrol,Automatic,Crossover,79523,18800,1495032400,No,1.55
+C1591,Hyundai,Model X,France,Nagoya,2012,Hybrid,Automatic,Crossover,51824,59460,3081455040,No,3.41
+C1592,Ford,Passat,Germany,Chennai,2024,Hybrid,Automatic,Coupe,52462,79843,4188723466,No,2.0
+C1593,Ford,3 Series,Mexico,Shanghai,2013,Petrol,Automatic,Sedan,39542,12364,488897288,No,0.96
+C1594,Mercedes,Model X,UK,São Paulo,2019,Diesel,Automatic,Sedan,76880,26568,2042547840,No,0.88
+C1595,Volkswagen,Corolla,USA,Monterrey,2016,Hybrid,Manual,Hatchback,46457,48092,2234210044,No,2.18
+C1596,Toyota,Elantra,South Korea,Paris,2017,Petrol,Automatic,Truck,44239,72679,3215246281,No,1.88
+C1597,Mercedes,Elantra,China,Detroit,2011,Diesel,Manual,Truck,39233,75781,2973115973,No,0.13
+C1598,Volkswagen,Mustang,Brazil,Nagoya,2018,Hybrid,Automatic,Truck,45889,18430,845734270,No,2.92
+C1599,Nissan,Corolla,India,Detroit,2016,Hybrid,Manual,Crossover,30215,48692,1471228780,No,2.49
+C1600,Mercedes,Elantra,Brazil,London,2022,Hybrid,Manual,Crossover,39616,40086,1588046976,No,2.35
+C1601,BMW,Model X,India,Seoul,2017,Diesel,Automatic,SUV,57422,59671,3426428162,No,0.33
+C1602,Nissan,Corolla,Mexico,Monterrey,2015,Hybrid,Automatic,Crossover,56751,23901,1356405651,No,1.33
+C1603,Volkswagen,Model X,France,Chennai,2015,Diesel,Automatic,Crossover,62294,13907,866322658,No,3.28
+C1604,Toyota,3 Series,Japan,London,2018,Electric,Manual,Sedan,18080,38604,697960320,Yes,3.03
+C1605,Volkswagen,3 Series,UK,Munich,2013,Hybrid,Manual,SUV,1323,47869,63330687,No,1.07
+C1606,Mercedes,Elantra,South Korea,Monterrey,2020,Electric,Manual,Sedan,7584,24537,186088608,Yes,0.63
+C1607,Mercedes,Elantra,India,Detroit,2020,Petrol,Automatic,Hatchback,78491,22501,1766125991,No,1.63
+C1608,Tesla,Passat,China,London,2014,Hybrid,Automatic,Hatchback,11107,47371,526149697,No,1.31
+C1609,Toyota,3 Series,India,Chennai,2018,Petrol,Manual,SUV,76855,46821,3598427955,No,2.42
+C1610,Kia,Altima,Japan,Nagoya,2010,Petrol,Automatic,SUV,12469,16073,200414237,No,3.39
+C1611,Nissan,Altima,Brazil,Nagoya,2013,Petrol,Automatic,Crossover,63559,71005,4513006795,No,1.33
+C1612,Ford,Mustang,USA,São Paulo,2016,Electric,Automatic,Hatchback,17833,28101,501125133,Yes,0.31
+C1613,Toyota,3 Series,Brazil,Chennai,2020,Diesel,Manual,Coupe,77736,41426,3220291536,No,3.15
+C1614,Ford,Model X,Mexico,Nagoya,2024,Electric,Automatic,Truck,37168,17313,643489584,Yes,0.23
+C1615,Toyota,Model X,USA,London,2018,Electric,Automatic,Crossover,12445,40773,507419985,Yes,3.34
+C1616,Toyota,A-Class,Brazil,São Paulo,2024,Petrol,Automatic,Truck,47026,38003,1787129078,No,2.36
+C1617,Volkswagen,Corolla,China,Nagoya,2023,Hybrid,Manual,Hatchback,48217,69668,3359181956,No,3.3
+C1618,Toyota,Optima,Brazil,Monterrey,2022,Diesel,Automatic,Truck,59926,52294,3133770244,No,0.78
+C1619,Tesla,Altima,China,Seoul,2020,Petrol,Automatic,Coupe,78849,23582,1859417118,No,0.24
+C1620,Kia,Elantra,China,Munich,2021,Diesel,Automatic,Coupe,5101,23760,121199760,No,1.76
+C1621,Mercedes,Mustang,USA,Chennai,2022,Electric,Manual,Sedan,13430,45983,617551690,Yes,1.63
+C1622,Honda,Optima,France,London,2019,Diesel,Manual,SUV,4833,50309,243143397,No,1.23
+C1623,Ford,Civic,Germany,Paris,2015,Diesel,Manual,Truck,71435,39715,2837041025,No,3.36
+C1624,Mercedes,Mustang,UK,Detroit,2021,Hybrid,Automatic,Coupe,18339,46415,851204685,No,2.9
+C1625,Honda,Civic,India,London,2017,Petrol,Manual,SUV,51837,61581,3192174297,No,2.35
+C1626,Kia,3 Series,Germany,Nagoya,2022,Diesel,Automatic,SUV,40704,13652,555691008,No,0.65
+C1627,Kia,Civic,Japan,London,2018,Diesel,Automatic,Sedan,20695,36297,751166415,No,2.6
+C1628,Ford,Civic,France,Paris,2019,Electric,Automatic,SUV,28348,24028,681145744,Yes,2.57
+C1629,Ford,Passat,Germany,Detroit,2013,Electric,Automatic,SUV,41354,23803,984349262,Yes,1.55
+C1630,Kia,Passat,USA,São Paulo,2010,Diesel,Manual,Crossover,51498,16307,839777886,No,3.24
+C1631,Honda,Passat,Japan,Nagoya,2023,Petrol,Automatic,Hatchback,67890,41325,2805554250,No,0.67
+C1632,Toyota,3 Series,South Korea,Shanghai,2017,Diesel,Automatic,Sedan,32058,68616,2199691728,No,1.01
+C1633,Nissan,Optima,France,Nagoya,2011,Diesel,Automatic,Sedan,3485,70483,245633255,No,0.31
+C1634,BMW,Mustang,Germany,Munich,2020,Hybrid,Automatic,Truck,62294,41574,2589810756,No,2.8
+C1635,Mercedes,Mustang,Japan,Shanghai,2010,Petrol,Automatic,SUV,44085,77071,3397675035,No,2.21
+C1636,Volkswagen,Elantra,South Korea,Munich,2022,Hybrid,Automatic,Truck,40764,24932,1016328048,No,1.17
+C1637,Mercedes,Passat,Brazil,Paris,2016,Petrol,Automatic,Crossover,33826,25749,870985674,No,0.66
+C1638,Volkswagen,3 Series,Japan,Chennai,2021,Petrol,Automatic,Coupe,59761,18727,1119144247,No,0.24
+C1639,Honda,Elantra,USA,Detroit,2019,Petrol,Automatic,SUV,34522,65406,2257945932,No,0.67
+C1640,Volkswagen,Corolla,Brazil,Seoul,2018,Hybrid,Manual,Coupe,16167,27332,441876444,No,1.64
+C1641,Ford,Elantra,USA,São Paulo,2020,Hybrid,Automatic,Hatchback,18565,20834,386783210,No,0.94
+C1642,Nissan,Optima,Germany,Seoul,2024,Hybrid,Manual,Crossover,10506,30325,318594450,No,0.98
+C1643,Nissan,Altima,UK,Monterrey,2021,Electric,Manual,SUV,72319,19213,1389464947,Yes,3.08
+C1644,Ford,Civic,Germany,Monterrey,2021,Hybrid,Manual,Truck,45576,11403,519703128,No,1.85
+C1645,Tesla,Passat,Brazil,Paris,2018,Electric,Automatic,Truck,69361,66971,4645175531,Yes,2.58
+C1646,Honda,Altima,China,Chennai,2012,Electric,Automatic,SUV,50893,64030,3258678790,Yes,0.22
+C1647,Tesla,Elantra,Germany,Monterrey,2015,Electric,Manual,Truck,3643,17591,64084013,Yes,1.34
+C1648,Tesla,3 Series,Brazil,Nagoya,2016,Diesel,Automatic,SUV,58005,22996,1333882980,No,1.73
+C1649,Mercedes,Civic,Japan,London,2023,Diesel,Automatic,Sedan,12917,62485,807118745,No,0.73
+C1650,Kia,Mustang,Mexico,Munich,2019,Diesel,Automatic,Truck,31800,57830,1838994000,No,0.51
+C1651,Mercedes,Model X,Germany,Monterrey,2018,Electric,Automatic,SUV,29396,44370,1304300520,Yes,3.06
+C1652,Kia,Civic,Japan,Paris,2024,Electric,Manual,SUV,51129,67572,3454888788,Yes,3.29
+C1653,BMW,Optima,USA,Munich,2011,Petrol,Automatic,Truck,28106,39098,1098888388,No,0.37
+C1654,Volkswagen,Optima,France,Nagoya,2017,Electric,Automatic,Sedan,40416,71561,2892209376,Yes,1.29
+C1655,Kia,Elantra,UK,Chennai,2023,Diesel,Automatic,Truck,61830,12196,754078680,No,3.36
+C1656,Ford,Corolla,USA,Detroit,2016,Electric,Automatic,SUV,8051,21091,169803641,Yes,0.38
+C1657,Mercedes,Optima,USA,Seoul,2013,Electric,Automatic,Sedan,56922,75254,4283608188,Yes,2.29
+C1658,Honda,Optima,Brazil,Nagoya,2011,Petrol,Automatic,Coupe,68282,59262,4046527884,No,3.41
+C1659,Volkswagen,3 Series,China,São Paulo,2017,Electric,Manual,Hatchback,65891,16023,1055771493,Yes,3.43
+C1660,BMW,Elantra,India,Shanghai,2020,Hybrid,Automatic,Truck,63911,30543,1952033673,No,1.7
+C1661,Kia,Civic,Mexico,Paris,2014,Petrol,Manual,Crossover,73685,70029,5160086865,No,0.65
+C1662,BMW,Corolla,China,Seoul,2015,Electric,Automatic,SUV,1388,52337,72643756,Yes,0.79
+C1663,Honda,Altima,Brazil,São Paulo,2023,Electric,Automatic,Sedan,57635,50409,2905322715,Yes,3.12
+C1664,Tesla,Model X,UK,Detroit,2020,Petrol,Automatic,Sedan,29924,19963,597372812,No,3.2
+C1665,Nissan,Passat,Mexico,São Paulo,2016,Electric,Automatic,Coupe,42059,23796,1000835964,Yes,2.17
+C1666,Honda,Mustang,Mexico,Chennai,2024,Diesel,Manual,Truck,11575,50972,590000900,No,2.7
+C1667,Hyundai,Optima,Brazil,Shanghai,2024,Hybrid,Manual,Crossover,23199,13261,307641939,No,2.62
+C1668,Honda,Elantra,South Korea,Munich,2019,Hybrid,Automatic,Sedan,48472,27046,1310973712,No,2.35
+C1669,BMW,Passat,USA,Seoul,2010,Diesel,Automatic,Coupe,10450,23397,244498650,No,2.91
+C1670,Ford,Mustang,France,Shanghai,2017,Electric,Manual,SUV,5913,70436,416488068,Yes,2.43
+C1671,Mercedes,Mustang,South Korea,London,2013,Electric,Automatic,Coupe,39805,35757,1423307385,Yes,1.92
+C1672,Ford,Altima,Brazil,Nagoya,2022,Hybrid,Automatic,Truck,4069,25299,102941631,No,0.91
+C1673,BMW,Altima,South Korea,London,2018,Electric,Manual,Coupe,67278,11902,800742756,Yes,2.63
+C1674,Mercedes,Altima,France,Nagoya,2010,Hybrid,Automatic,Sedan,30585,52399,1602623415,No,1.71
+C1675,Hyundai,A-Class,Brazil,Chennai,2020,Hybrid,Manual,Sedan,76523,58330,4463586590,No,1.1
+C1676,Nissan,A-Class,Brazil,Shanghai,2011,Diesel,Automatic,Hatchback,36663,56308,2064420204,No,2.83
+C1677,Volkswagen,Mustang,Mexico,Detroit,2023,Hybrid,Manual,Coupe,50092,13846,693573832,No,2.47
+C1678,BMW,Altima,South Korea,Monterrey,2015,Electric,Automatic,SUV,57833,22359,1293088047,Yes,3.29
+C1679,Kia,3 Series,Japan,São Paulo,2020,Electric,Automatic,Crossover,8539,59376,507011664,Yes,0.66
+C1680,BMW,Optima,Germany,Monterrey,2019,Petrol,Automatic,Crossover,8698,78056,678931088,No,2.31
+C1681,BMW,Passat,Brazil,Shanghai,2020,Electric,Automatic,Truck,34854,50832,1771698528,Yes,0.93
+C1682,Mercedes,Passat,South Korea,London,2023,Petrol,Automatic,Hatchback,4324,30098,130143752,No,3.17
+C1683,Toyota,A-Class,India,Monterrey,2010,Hybrid,Automatic,Coupe,50920,59962,3053265040,No,0.44
+C1684,Honda,Mustang,UK,Paris,2013,Electric,Automatic,SUV,3936,45885,180603360,Yes,2.33
+C1685,Toyota,Elantra,India,Monterrey,2017,Diesel,Manual,Hatchback,41357,31157,1288560049,No,2.79
+C1686,Hyundai,Civic,South Korea,Nagoya,2024,Diesel,Automatic,Sedan,16557,58372,966465204,No,1.31
+C1687,Kia,Civic,USA,Paris,2019,Diesel,Automatic,Truck,1810,29674,53709940,No,3.34
+C1688,Nissan,A-Class,USA,Seoul,2014,Hybrid,Automatic,Coupe,75855,42357,3212990235,No,2.99
+C1689,Tesla,Elantra,South Korea,Monterrey,2022,Hybrid,Automatic,Crossover,79493,22578,1794792954,No,1.1
+C1690,Hyundai,A-Class,Mexico,Paris,2018,Petrol,Automatic,SUV,66513,12251,814850763,No,0.13
+C1691,Tesla,Civic,Mexico,Shanghai,2020,Diesel,Automatic,Sedan,60522,47429,2870497938,No,1.11
+C1692,Tesla,Elantra,Brazil,São Paulo,2020,Petrol,Manual,Hatchback,9406,56871,534928626,No,1.06
+C1693,Nissan,Altima,France,Seoul,2015,Petrol,Automatic,Truck,10368,35499,368053632,No,3.13
+C1694,Ford,Mustang,Germany,Detroit,2010,Electric,Automatic,Hatchback,19046,16421,312754366,Yes,3.39
+C1695,Toyota,Passat,Brazil,Detroit,2015,Electric,Manual,Crossover,73355,62204,4562974420,Yes,0.34
+C1696,BMW,3 Series,India,Chennai,2015,Diesel,Manual,Hatchback,33649,34591,1163952559,No,1.7
+C1697,Volkswagen,Corolla,Germany,Monterrey,2022,Hybrid,Automatic,SUV,67881,70940,4815478140,No,1.96
+C1698,Tesla,Mustang,India,São Paulo,2015,Electric,Manual,Sedan,24184,22202,536933168,Yes,0.42
+C1699,Kia,Altima,Mexico,Munich,2017,Hybrid,Automatic,Coupe,30358,29290,889185820,No,1.38
+C1700,Hyundai,Civic,South Korea,Paris,2024,Petrol,Manual,SUV,45830,28130,1289197900,No,1.18
+C1701,Ford,Altima,France,Seoul,2015,Petrol,Automatic,Crossover,59704,47077,2810685208,No,1.92
+C1702,Tesla,A-Class,India,Shanghai,2014,Petrol,Automatic,Truck,25793,29396,758211028,No,2.35
+C1703,Ford,Elantra,Mexico,Monterrey,2024,Petrol,Manual,Crossover,57369,70848,4064478912,No,2.49
+C1704,Ford,Passat,France,Shanghai,2020,Diesel,Automatic,Crossover,5129,70530,361748370,No,0.56
+C1705,Tesla,Optima,Brazil,Munich,2011,Petrol,Automatic,Hatchback,6204,74274,460795896,No,2.86
+C1706,Mercedes,A-Class,South Korea,Chennai,2013,Electric,Automatic,Truck,2276,37122,84489672,Yes,2.41
+C1707,Honda,Mustang,UK,Munich,2023,Petrol,Automatic,SUV,57755,39381,2274449655,No,3.12
+C1708,Kia,A-Class,USA,Nagoya,2024,Hybrid,Automatic,Crossover,48781,55435,2704174735,No,1.63
+C1709,BMW,Mustang,China,London,2019,Electric,Automatic,SUV,31736,33267,1055761512,Yes,3.14
+C1710,BMW,Optima,France,Seoul,2014,Hybrid,Automatic,Coupe,67280,71978,4842679840,No,3.04
+C1711,Kia,Model X,UK,London,2019,Hybrid,Automatic,Hatchback,1833,17088,31322304,No,1.59
+C1712,Mercedes,Passat,UK,Munich,2013,Diesel,Automatic,SUV,69705,22822,1590807510,No,1.4
+C1713,BMW,3 Series,France,Chennai,2011,Diesel,Automatic,Truck,51446,60216,3097872336,No,3.27
+C1714,Ford,3 Series,UK,Chennai,2016,Hybrid,Automatic,Crossover,55833,46589,2601203637,No,2.53
+C1715,Nissan,Corolla,India,Detroit,2019,Hybrid,Manual,Coupe,27777,75262,2090552574,No,3.26
+C1716,Hyundai,Altima,UK,Monterrey,2019,Petrol,Automatic,Truck,51106,67911,3470659566,No,2.81
+C1717,Toyota,Model X,Mexico,Detroit,2011,Electric,Automatic,Hatchback,2433,11436,27823788,Yes,2.17
+C1718,BMW,3 Series,Germany,Seoul,2010,Petrol,Manual,Coupe,34014,71854,2444041956,No,0.49
+C1719,Kia,A-Class,India,Seoul,2023,Diesel,Manual,Coupe,63458,71888,4561868704,No,1.09
+C1720,Nissan,Altima,UK,Seoul,2014,Diesel,Automatic,Coupe,7327,37281,273157887,No,3.39
+C1721,Tesla,Model X,Brazil,Shanghai,2021,Petrol,Manual,Crossover,31344,63952,2004511488,No,1.19
+C1722,Honda,Elantra,USA,Detroit,2022,Electric,Automatic,Sedan,1292,32766,42333672,Yes,0.42
+C1723,Kia,Elantra,South Korea,Shanghai,2010,Hybrid,Manual,Coupe,40195,31213,1254606535,No,2.51
+C1724,Ford,Altima,UK,London,2010,Petrol,Automatic,Truck,43010,72239,3106999390,No,2.6
+C1725,Honda,Mustang,Japan,Monterrey,2024,Diesel,Automatic,Truck,39637,32537,1289669069,No,1.07
+C1726,Hyundai,Mustang,USA,Munich,2010,Electric,Automatic,Hatchback,73910,12794,945604540,Yes,1.11
+C1727,Hyundai,A-Class,Brazil,Paris,2015,Diesel,Manual,SUV,40132,69204,2777294928,No,1.69
+C1728,Mercedes,Model X,Mexico,Detroit,2018,Electric,Automatic,SUV,37290,42324,1578261960,Yes,0.17
+C1729,Volkswagen,Model X,UK,Paris,2019,Electric,Automatic,Sedan,31385,66764,2095388140,Yes,2.78
+C1730,Mercedes,Altima,Mexico,Chennai,2022,Electric,Automatic,Crossover,65714,40858,2684942612,Yes,1.18
+C1731,Nissan,Civic,UK,Detroit,2020,Petrol,Manual,Crossover,77044,52850,4071775400,No,3.0
+C1732,Honda,Elantra,China,London,2021,Petrol,Manual,Coupe,45370,23018,1044326660,No,2.83
+C1733,Volkswagen,Model X,Germany,Detroit,2010,Petrol,Automatic,Sedan,48610,60790,2955001900,No,2.35
+C1734,Tesla,Altima,Mexico,Shanghai,2014,Electric,Automatic,Hatchback,5671,19850,112569350,Yes,1.2
+C1735,Ford,Optima,Germany,Monterrey,2024,Electric,Automatic,Hatchback,10089,55975,564731775,Yes,1.86
+C1736,Honda,Corolla,USA,Munich,2018,Diesel,Automatic,SUV,18577,75510,1402749270,No,1.61
+C1737,Mercedes,Optima,China,São Paulo,2023,Hybrid,Manual,Hatchback,65374,75696,4948550304,No,1.25
+C1738,Toyota,Passat,South Korea,Munich,2018,Petrol,Automatic,Coupe,72746,35832,2606634672,No,2.98
+C1739,Volkswagen,A-Class,India,Munich,2010,Electric,Automatic,Truck,38727,34886,1351030122,Yes,1.74
+C1740,Volkswagen,Model X,Germany,Chennai,2017,Diesel,Automatic,Hatchback,15437,18418,284318666,No,2.93
+C1741,Ford,Passat,China,London,2010,Diesel,Automatic,Sedan,10254,17081,175148574,No,0.46
+C1742,BMW,3 Series,Germany,Paris,2024,Diesel,Automatic,Coupe,26188,20114,526745432,No,0.58
+C1743,Hyundai,Passat,France,London,2017,Petrol,Automatic,Hatchback,7548,28722,216793656,No,3.42
+C1744,Hyundai,Altima,Brazil,São Paulo,2010,Petrol,Automatic,Crossover,23068,27985,645557980,No,2.1
+C1745,Toyota,Model X,South Korea,Chennai,2021,Hybrid,Automatic,Hatchback,75519,15888,1199845872,No,1.83
+C1746,Nissan,Corolla,Brazil,Monterrey,2014,Diesel,Automatic,Crossover,18045,79254,1430138430,No,1.88
+C1747,Nissan,Altima,UK,Munich,2017,Petrol,Automatic,Coupe,45717,29299,1339462383,No,0.83
+C1748,Tesla,Altima,Germany,Shanghai,2015,Diesel,Automatic,Hatchback,48622,66050,3211483100,No,2.54
+C1749,Honda,A-Class,UK,Chennai,2018,Electric,Manual,Crossover,34246,32036,1097104856,Yes,0.39
+C1750,Kia,A-Class,Japan,Seoul,2010,Diesel,Automatic,Truck,9209,39346,362337314,No,2.05
+C1751,BMW,Elantra,Germany,Detroit,2018,Hybrid,Automatic,SUV,25858,36691,948755878,No,2.04
+C1752,Mercedes,Elantra,China,London,2010,Petrol,Manual,Coupe,11523,27986,322482678,No,3.21
+C1753,Kia,Mustang,South Korea,Chennai,2019,Electric,Automatic,Crossover,29256,37846,1107222576,Yes,1.89
+C1754,Kia,Civic,UK,Seoul,2019,Petrol,Automatic,Sedan,63675,59665,3799168875,No,0.57
+C1755,Volkswagen,Model X,Germany,Paris,2012,Electric,Automatic,Hatchback,54781,51401,2815798181,Yes,2.05
+C1756,Toyota,Model X,Japan,São Paulo,2010,Diesel,Automatic,Crossover,49789,60054,2990028606,No,0.41
+C1757,Hyundai,Passat,Brazil,São Paulo,2012,Diesel,Automatic,Crossover,58597,48487,2841192739,No,0.79
+C1758,Tesla,Model X,China,Munich,2021,Hybrid,Automatic,Crossover,77181,19412,1498237572,No,0.21
+C1759,Nissan,Model X,France,Munich,2020,Hybrid,Manual,SUV,47759,61473,2935889007,No,1.85
+C1760,Toyota,Civic,Germany,Chennai,2022,Electric,Manual,Sedan,19339,76553,1480458467,Yes,0.39
+C1761,Volkswagen,3 Series,France,Chennai,2011,Hybrid,Automatic,Sedan,27910,15279,426436890,No,1.7
+C1762,Mercedes,Elantra,USA,Monterrey,2011,Hybrid,Automatic,Truck,11947,17712,211605264,No,3.27
+C1763,Tesla,Elantra,South Korea,Detroit,2018,Hybrid,Automatic,SUV,76165,25817,1966351805,No,2.55
+C1764,Volkswagen,Corolla,Germany,Nagoya,2017,Hybrid,Automatic,Crossover,14407,63832,919627624,No,0.36
+C1765,Hyundai,Model X,Mexico,Paris,2010,Diesel,Automatic,Coupe,22137,66224,1466000688,No,0.86
+C1766,Hyundai,Civic,Japan,Munich,2021,Hybrid,Manual,SUV,38696,16624,643282304,No,2.39
+C1767,Hyundai,Elantra,UK,Nagoya,2023,Diesel,Automatic,SUV,22869,39126,894772494,No,3.14
+C1768,Toyota,Civic,Mexico,Nagoya,2013,Diesel,Manual,Sedan,3089,47462,146610118,No,0.21
+C1769,Toyota,Optima,USA,Detroit,2022,Petrol,Manual,Truck,24060,68676,1652344560,No,2.86
+C1770,Nissan,3 Series,South Korea,Shanghai,2010,Diesel,Manual,Truck,3534,56815,200784210,No,2.01
+C1771,Nissan,Model X,Brazil,Shanghai,2010,Diesel,Automatic,SUV,669,36093,24146217,No,1.96
+C1772,Mercedes,Corolla,China,Munich,2021,Hybrid,Automatic,SUV,3739,42525,159000975,No,3.36
+C1773,Tesla,Passat,France,Seoul,2021,Diesel,Automatic,Hatchback,3915,39030,152802450,No,2.64
+C1774,Ford,Elantra,USA,Detroit,2013,Electric,Automatic,Crossover,77444,54067,4187164748,Yes,2.99
+C1775,Ford,Optima,UK,Detroit,2011,Hybrid,Automatic,Sedan,3984,15207,60584688,No,1.3
+C1776,Volkswagen,Civic,China,London,2012,Hybrid,Automatic,Crossover,54487,36639,1996349193,No,1.98
+C1777,Hyundai,A-Class,Brazil,Nagoya,2020,Hybrid,Automatic,Coupe,18725,12792,239530200,No,2.19
+C1778,Tesla,Altima,UK,London,2018,Petrol,Automatic,Coupe,61604,10420,641913680,No,1.19
+C1779,Kia,Model X,Japan,Nagoya,2011,Hybrid,Manual,Truck,21436,29198,625888328,No,2.04
+C1780,Toyota,Model X,France,Shanghai,2013,Diesel,Automatic,Sedan,40112,45608,1829428096,No,0.9
+C1781,Honda,Optima,Mexico,Munich,2010,Electric,Automatic,Crossover,40452,56205,2273604660,Yes,0.59
+C1782,BMW,Civic,Germany,Paris,2011,Hybrid,Automatic,Truck,59445,27875,1657029375,No,1.37
+C1783,Mercedes,Mustang,USA,Shanghai,2014,Hybrid,Manual,Coupe,5880,31331,184226280,No,2.61
+C1784,Hyundai,Model X,Germany,Detroit,2023,Electric,Automatic,SUV,50798,26893,1366110614,Yes,3.22
+C1785,Hyundai,Mustang,China,Paris,2019,Hybrid,Automatic,Sedan,27760,74913,2079584880,No,1.66
+C1786,Hyundai,A-Class,Germany,Chennai,2024,Petrol,Automatic,Sedan,33379,28243,942723097,No,2.29
+C1787,Toyota,Optima,Mexico,Paris,2010,Diesel,Manual,Crossover,16643,25535,424979005,No,0.45
+C1788,Toyota,Civic,India,Paris,2020,Electric,Manual,Hatchback,50244,73203,3678011532,Yes,3.18
+C1789,BMW,Civic,China,Shanghai,2016,Electric,Automatic,Crossover,73449,77394,5684511906,Yes,2.03
+C1790,Kia,3 Series,France,Detroit,2013,Petrol,Automatic,SUV,32078,35489,1138416142,No,2.75
+C1791,Tesla,Altima,UK,Paris,2015,Diesel,Automatic,SUV,57831,23346,1350122526,No,2.8
+C1792,Hyundai,Elantra,France,Shanghai,2017,Petrol,Automatic,Truck,64315,58005,3730591575,No,0.97
+C1793,Ford,Elantra,Germany,Shanghai,2022,Diesel,Automatic,Sedan,72019,16773,1207974687,No,1.9
+C1794,Nissan,Passat,South Korea,Paris,2015,Petrol,Manual,Truck,19678,42343,833225554,No,3.37
+C1795,Ford,Corolla,China,Nagoya,2023,Hybrid,Manual,SUV,76357,55963,4273166791,No,0.4
+C1796,Volkswagen,Optima,UK,Detroit,2011,Petrol,Automatic,Hatchback,60697,51983,3155212151,No,2.42
+C1797,Ford,A-Class,Brazil,São Paulo,2010,Electric,Automatic,Sedan,36866,45972,1694803752,Yes,3.37
+C1798,Volkswagen,Civic,Japan,Paris,2017,Electric,Automatic,SUV,53455,26959,1441093345,Yes,1.12
+C1799,Honda,Altima,France,London,2017,Electric,Manual,Hatchback,42411,44133,1871724663,Yes,3.03
+C1800,Nissan,Mustang,France,London,2018,Petrol,Manual,Crossover,54119,61150,3309376850,No,3.27
+C1801,Ford,Optima,China,Chennai,2015,Electric,Automatic,Coupe,44796,31734,1421556264,Yes,2.64
+C1802,Honda,Passat,South Korea,Detroit,2021,Electric,Automatic,SUV,23291,27400,638173400,Yes,0.89
+C1803,Mercedes,Optima,Germany,Shanghai,2010,Hybrid,Automatic,Coupe,8801,30002,264047602,No,1.24
+C1804,Tesla,Passat,Germany,Monterrey,2023,Hybrid,Automatic,Truck,36279,46492,1686683268,No,0.22
+C1805,Honda,Civic,China,Munich,2018,Diesel,Manual,Coupe,37394,40875,1528479750,No,2.93
+C1806,Tesla,Corolla,France,Seoul,2021,Diesel,Automatic,SUV,49750,35046,1743538500,No,2.99
+C1807,Ford,Passat,UK,Monterrey,2022,Diesel,Manual,Coupe,71494,33664,2406774016,No,2.25
+C1808,Kia,Civic,Japan,Detroit,2024,Petrol,Automatic,Sedan,42270,34453,1456328310,No,1.3
+C1809,Honda,Civic,China,Detroit,2023,Diesel,Manual,SUV,22800,14746,336208800,No,0.36
+C1810,Nissan,Corolla,UK,Paris,2012,Petrol,Automatic,Hatchback,68735,23217,1595820495,No,2.66
+C1811,Ford,Elantra,UK,Paris,2020,Petrol,Manual,Coupe,29985,73184,2194422240,No,2.57
+C1812,Hyundai,Optima,Brazil,Monterrey,2015,Diesel,Automatic,Sedan,40785,51835,2114090475,No,3.2
+C1813,Toyota,Model X,Mexico,Shanghai,2019,Diesel,Automatic,Truck,67055,19133,1282963315,No,2.58
+C1814,Honda,Model X,India,Chennai,2022,Petrol,Automatic,Truck,32971,50533,1666123543,No,2.92
+C1815,Nissan,Mustang,Japan,Paris,2019,Hybrid,Automatic,Coupe,49171,15404,757430084,No,2.64
+C1816,Mercedes,Mustang,USA,Seoul,2024,Electric,Automatic,Truck,20770,43339,900151030,Yes,2.24
+C1817,Hyundai,Model X,South Korea,Seoul,2020,Electric,Automatic,Hatchback,14198,38725,549817550,Yes,1.55
+C1818,Mercedes,A-Class,India,Chennai,2021,Electric,Manual,SUV,72765,55380,4029725700,Yes,3.17
+C1819,Ford,Model X,Brazil,Nagoya,2023,Hybrid,Automatic,Sedan,40229,58073,2336218717,No,2.31
+C1820,Toyota,Mustang,Japan,Nagoya,2024,Petrol,Manual,Crossover,11671,70873,827158783,No,1.45
+C1821,Honda,Altima,Germany,Detroit,2018,Diesel,Manual,Coupe,79983,51341,4106407203,No,0.38
+C1822,Honda,Mustang,India,Paris,2020,Petrol,Automatic,Truck,61184,11236,687463424,No,1.09
+C1823,Kia,A-Class,Germany,London,2022,Petrol,Automatic,SUV,55665,77916,4337194140,No,1.95
+C1824,Kia,Optima,South Korea,Monterrey,2012,Diesel,Automatic,Crossover,50448,24538,1237893024,No,1.04
+C1825,Ford,Model X,Germany,São Paulo,2014,Hybrid,Automatic,Hatchback,35225,21971,773928475,No,0.85
+C1826,Ford,Corolla,South Korea,Chennai,2022,Electric,Automatic,Truck,19950,48655,970667250,Yes,1.89
+C1827,Toyota,Altima,Japan,Detroit,2023,Electric,Manual,Truck,13800,70784,976819200,Yes,0.68
+C1828,Kia,Civic,France,London,2014,Petrol,Automatic,Sedan,4941,71289,352238949,No,2.82
+C1829,Nissan,A-Class,South Korea,Paris,2019,Hybrid,Automatic,Hatchback,19832,47410,940235120,No,1.75
+C1830,Nissan,Mustang,UK,London,2016,Electric,Automatic,Hatchback,20615,61302,1263740730,Yes,2.05
+C1831,Toyota,Corolla,USA,London,2013,Hybrid,Manual,Coupe,42497,31703,1347282391,No,0.6
+C1832,Nissan,Passat,USA,Chennai,2020,Diesel,Automatic,Crossover,14115,54191,764905965,No,1.2
+C1833,Volkswagen,Elantra,China,Detroit,2013,Petrol,Automatic,Sedan,15232,64112,976553984,No,1.49
+C1834,Tesla,Model X,USA,Shanghai,2016,Petrol,Automatic,Coupe,25867,21399,553527933,No,2.85
+C1835,Toyota,Elantra,China,Seoul,2018,Hybrid,Automatic,Sedan,43238,22685,980854030,No,2.72
+C1836,Toyota,A-Class,USA,Monterrey,2024,Electric,Manual,Hatchback,1481,14487,21455247,Yes,0.86
+C1837,BMW,Passat,South Korea,Detroit,2020,Hybrid,Manual,Sedan,63381,22018,1395522858,No,2.2
+C1838,Hyundai,Passat,UK,São Paulo,2013,Diesel,Automatic,Sedan,59109,40825,2413124925,No,0.93
+C1839,Hyundai,Passat,France,London,2013,Electric,Automatic,Sedan,9066,17750,160921500,Yes,3.46
+C1840,Volkswagen,Civic,Germany,Shanghai,2015,Electric,Automatic,SUV,72385,68956,4991380060,Yes,3.34
+C1841,Kia,A-Class,Brazil,Chennai,2015,Hybrid,Automatic,SUV,11228,60229,676251212,No,2.02
+C1842,Ford,Optima,USA,Munich,2016,Diesel,Automatic,Crossover,36714,53118,1950174252,No,2.48
+C1843,Ford,Elantra,France,Monterrey,2024,Electric,Automatic,Crossover,58435,69615,4067952525,Yes,2.82
+C1844,Mercedes,Optima,France,Monterrey,2010,Petrol,Automatic,Hatchback,46088,67290,3101261520,No,2.55
+C1845,Volkswagen,Corolla,South Korea,Seoul,2022,Diesel,Manual,Sedan,19453,25105,488367565,No,2.48
+C1846,Toyota,3 Series,Japan,Munich,2020,Electric,Automatic,Hatchback,68908,28913,1992337004,Yes,3.36
+C1847,Volkswagen,Altima,Japan,Paris,2023,Hybrid,Manual,SUV,75404,59515,4487669060,No,2.13
+C1848,Volkswagen,Altima,USA,Munich,2012,Electric,Automatic,Sedan,34603,57342,1984205226,Yes,2.26
+C1849,Volkswagen,Optima,Brazil,London,2018,Petrol,Automatic,Coupe,71449,62184,4442984616,No,2.99
+C1850,Hyundai,3 Series,USA,London,2015,Diesel,Manual,SUV,49764,70506,3508660584,No,2.38
+C1851,Volkswagen,3 Series,USA,London,2015,Electric,Automatic,SUV,20656,34967,722278352,Yes,2.59
+C1852,Tesla,Model X,China,London,2014,Petrol,Automatic,SUV,13923,46023,640778229,No,0.9
+C1853,Ford,Corolla,UK,Detroit,2020,Electric,Automatic,Sedan,38562,64288,2479073856,Yes,1.36
+C1854,Mercedes,A-Class,UK,Monterrey,2012,Electric,Automatic,Crossover,43305,36622,1585915710,Yes,0.6
+C1855,Tesla,3 Series,Brazil,Munich,2020,Diesel,Manual,Truck,2487,55201,137284887,No,1.82
+C1856,Mercedes,Mustang,China,Monterrey,2014,Hybrid,Manual,Coupe,63479,26350,1672671650,No,1.65
+C1857,BMW,Altima,France,São Paulo,2023,Hybrid,Automatic,Coupe,38097,64820,2469447540,No,3.49
+C1858,Mercedes,Mustang,China,Munich,2010,Petrol,Automatic,Hatchback,28368,58709,1665456912,No,2.18
+C1859,Ford,Corolla,USA,Detroit,2012,Petrol,Automatic,Sedan,77470,37470,2902800900,No,2.77
+C1860,Ford,3 Series,Japan,São Paulo,2013,Petrol,Automatic,Crossover,64305,40889,2629367145,No,1.24
+C1861,Volkswagen,Elantra,India,Monterrey,2014,Diesel,Automatic,SUV,17136,20224,346558464,No,2.93
+C1862,Honda,Altima,Brazil,São Paulo,2019,Hybrid,Automatic,Truck,57967,15465,896459655,No,2.19
+C1863,BMW,Model X,France,Seoul,2018,Petrol,Automatic,Sedan,17507,65214,1141701498,No,2.47
+C1864,Toyota,Model X,South Korea,São Paulo,2013,Petrol,Automatic,Sedan,77364,12944,1001399616,No,1.1
+C1865,Nissan,Passat,India,Munich,2012,Electric,Automatic,Crossover,3889,34336,133532704,Yes,1.97
+C1866,Mercedes,Civic,India,London,2019,Electric,Automatic,Truck,9958,48624,484197792,Yes,2.26
+C1867,Honda,3 Series,China,London,2010,Petrol,Automatic,SUV,68981,75206,5187785086,No,2.1
+C1868,Volkswagen,Corolla,Germany,Paris,2022,Electric,Manual,Sedan,75388,54764,4128548432,Yes,3.21
+C1869,Hyundai,Altima,India,Monterrey,2019,Electric,Manual,Coupe,76522,55420,4240849240,Yes,3.15
+C1870,Toyota,Civic,USA,Seoul,2015,Electric,Automatic,Coupe,41900,75671,3170614900,Yes,3.4
+C1871,Kia,Corolla,Mexico,Munich,2016,Diesel,Automatic,Truck,68128,25773,1755862944,No,2.37
+C1872,Honda,Optima,Japan,Munich,2019,Petrol,Manual,SUV,52357,36447,1908255579,No,3.4
+C1873,Hyundai,3 Series,Japan,Chennai,2024,Petrol,Manual,Truck,64867,14033,910278611,No,2.93
+C1874,BMW,A-Class,Mexico,Nagoya,2017,Electric,Manual,Sedan,37027,65852,2438302004,Yes,1.02
+C1875,Volkswagen,A-Class,UK,Monterrey,2021,Diesel,Automatic,Coupe,71148,30497,2169800556,No,1.55
+C1876,Toyota,3 Series,USA,Munich,2010,Electric,Manual,Hatchback,17437,30978,540163386,Yes,0.91
+C1877,Toyota,Passat,South Korea,Shanghai,2021,Diesel,Automatic,Truck,38172,22882,873451704,No,0.11
+C1878,Toyota,Passat,India,Munich,2013,Petrol,Manual,Hatchback,1612,26945,43435340,No,0.74
+C1879,BMW,A-Class,UK,Chennai,2020,Electric,Manual,Hatchback,36045,66485,2396451825,Yes,0.11
+C1880,Mercedes,Elantra,USA,São Paulo,2014,Petrol,Automatic,Crossover,48855,78850,3852216750,No,2.55
+C1881,Kia,Altima,China,Detroit,2011,Diesel,Manual,Coupe,76061,69870,5314382070,No,1.55
+C1882,BMW,A-Class,Japan,Detroit,2010,Hybrid,Automatic,Truck,34582,28595,988872290,No,1.16
+C1883,Nissan,Elantra,UK,Shanghai,2017,Diesel,Manual,Hatchback,60982,74038,4514985316,No,2.69
+C1884,Kia,Civic,Brazil,Shanghai,2015,Hybrid,Automatic,Sedan,79598,66126,5263497348,No,2.93
+C1885,Ford,Elantra,India,Paris,2014,Petrol,Manual,Crossover,11804,45449,536479996,No,3.42
+C1886,Volkswagen,Civic,India,Detroit,2022,Petrol,Automatic,SUV,57125,28639,1636002875,No,2.28
+C1887,BMW,Corolla,South Korea,São Paulo,2018,Electric,Manual,Crossover,73051,55370,4044833870,Yes,1.67
+C1888,Hyundai,Mustang,Germany,Detroit,2022,Hybrid,Automatic,SUV,45385,52710,2392243350,No,1.14
+C1889,Kia,Corolla,Brazil,Nagoya,2020,Diesel,Automatic,Coupe,71746,64051,4595403046,No,0.86
+C1890,Nissan,A-Class,India,Monterrey,2022,Petrol,Automatic,Truck,13088,70639,924523232,No,0.82
+C1891,Ford,Civic,France,Detroit,2020,Hybrid,Manual,Truck,21467,13159,282484253,No,1.49
+C1892,Mercedes,A-Class,Brazil,London,2011,Diesel,Automatic,SUV,24756,76988,1905914928,No,3.47
+C1893,Hyundai,3 Series,India,Paris,2019,Hybrid,Automatic,Sedan,58848,28706,1689290688,No,0.1
+C1894,Kia,Altima,Mexico,Chennai,2021,Diesel,Automatic,SUV,25552,19862,507513824,No,0.77
+C1895,Volkswagen,Model X,Brazil,Shanghai,2017,Diesel,Manual,SUV,58979,20219,1192496401,No,0.74
+C1896,Hyundai,A-Class,USA,Nagoya,2020,Diesel,Automatic,Truck,60700,44536,2703335200,No,2.54
+C1897,Ford,Altima,Brazil,Shanghai,2023,Diesel,Automatic,Hatchback,3006,72886,219095316,No,1.3
+C1898,Hyundai,Elantra,South Korea,Paris,2019,Hybrid,Automatic,Sedan,21209,43937,931859833,No,1.65
+C1899,Tesla,Corolla,China,Munich,2022,Hybrid,Automatic,Truck,59035,31094,1835634290,No,0.61
+C1900,Honda,Elantra,China,Nagoya,2018,Electric,Automatic,Crossover,45340,37924,1719474160,Yes,1.48
+C1901,Mercedes,Model X,China,Seoul,2010,Hybrid,Automatic,SUV,61087,10123,618383701,No,0.45
+C1902,Ford,Civic,USA,Nagoya,2016,Hybrid,Manual,Hatchback,59821,63149,3777636329,No,1.91
+C1903,Hyundai,3 Series,UK,Paris,2017,Electric,Manual,Sedan,43702,41854,1829103508,Yes,0.43
+C1904,Honda,Altima,China,Chennai,2012,Hybrid,Automatic,Coupe,57088,70796,4041602048,No,2.79
+C1905,Honda,3 Series,Japan,Nagoya,2023,Diesel,Automatic,Sedan,3590,79432,285160880,No,2.03
+C1906,Hyundai,Mustang,USA,Paris,2013,Petrol,Automatic,Sedan,59731,68968,4119527608,No,2.56
+C1907,Volkswagen,A-Class,UK,São Paulo,2022,Petrol,Automatic,SUV,22052,50834,1120991368,No,1.52
+C1908,Tesla,Civic,Japan,Monterrey,2012,Electric,Manual,SUV,34241,27111,928307751,Yes,1.4
+C1909,BMW,Mustang,Japan,Detroit,2016,Hybrid,Automatic,Coupe,22161,34099,755667939,No,0.43
+C1910,Tesla,Optima,Japan,São Paulo,2018,Hybrid,Automatic,Coupe,41525,79206,3289029150,No,1.88
+C1911,Hyundai,A-Class,France,Paris,2012,Electric,Automatic,Coupe,6592,60293,397451456,Yes,1.85
+C1912,Mercedes,Elantra,South Korea,London,2022,Petrol,Manual,Truck,36174,25029,905399046,No,1.69
+C1913,BMW,Corolla,South Korea,Munich,2015,Diesel,Automatic,Truck,1070,41811,44737770,No,2.62
+C1914,Ford,Altima,USA,Detroit,2017,Hybrid,Automatic,SUV,12584,25793,324579112,No,2.93
+C1915,Tesla,Model X,Japan,London,2015,Electric,Automatic,SUV,66343,58106,3854926358,Yes,2.65
+C1916,Hyundai,Model X,Mexico,Chennai,2011,Diesel,Manual,Coupe,61252,10972,672056944,No,0.59
+C1917,Tesla,Elantra,Brazil,Shanghai,2022,Electric,Manual,Truck,69778,10360,722900080,Yes,2.22
+C1918,BMW,Passat,UK,Seoul,2016,Electric,Automatic,Hatchback,1265,12632,15979480,Yes,0.37
+C1919,Nissan,Model X,South Korea,Detroit,2011,Electric,Automatic,Truck,24698,45958,1135070684,Yes,2.46
+C1920,Kia,Altima,China,São Paulo,2011,Petrol,Manual,SUV,61701,28008,1728121608,No,1.4
+C1921,Tesla,Elantra,USA,Munich,2011,Petrol,Automatic,Truck,73771,40283,2971717193,No,0.55
+C1922,Ford,Civic,UK,London,2020,Electric,Automatic,SUV,47699,60908,2905250692,Yes,3.03
+C1923,Ford,Model X,USA,Paris,2024,Hybrid,Automatic,Coupe,11877,17818,211624386,No,2.19
+C1924,Toyota,3 Series,Mexico,Detroit,2010,Diesel,Automatic,Coupe,8536,40579,346382344,No,1.31
+C1925,Tesla,Elantra,France,Shanghai,2023,Hybrid,Automatic,Coupe,40864,65178,2663433792,No,0.2
+C1926,Kia,Altima,France,Paris,2020,Petrol,Manual,Hatchback,37943,67584,2564339712,No,1.93
+C1927,Volkswagen,3 Series,Japan,London,2010,Diesel,Automatic,Hatchback,2163,75020,162268260,No,3.24
+C1928,Honda,A-Class,France,Munich,2023,Electric,Automatic,SUV,39744,10975,436190400,Yes,2.13
+C1929,Kia,A-Class,USA,Nagoya,2016,Hybrid,Manual,Sedan,58891,73479,4327251789,No,3.4
+C1930,Honda,Model X,China,Shanghai,2024,Hybrid,Automatic,Crossover,78064,26265,2050350960,No,0.56
+C1931,Honda,3 Series,Japan,Paris,2022,Electric,Automatic,Hatchback,15577,73518,1145189886,Yes,2.03
+C1932,Nissan,Corolla,India,Shanghai,2023,Hybrid,Automatic,SUV,58349,14318,835440982,No,2.81
+C1933,Toyota,A-Class,UK,Chennai,2023,Petrol,Manual,Truck,20131,45081,907525611,No,1.89
+C1934,Kia,Corolla,Mexico,Paris,2024,Electric,Manual,Coupe,53152,68649,3648831648,Yes,0.41
+C1935,Kia,Civic,Japan,Detroit,2023,Hybrid,Manual,Coupe,67946,53069,3605826274,No,2.08
+C1936,Nissan,Elantra,USA,Nagoya,2021,Electric,Manual,Coupe,34000,22427,762518000,Yes,2.18
+C1937,Tesla,Mustang,UK,Nagoya,2014,Diesel,Automatic,SUV,20397,50251,1024969647,No,2.58
+C1938,Tesla,Altima,China,Seoul,2020,Electric,Automatic,Coupe,59415,35165,2089328475,Yes,2.69
+C1939,Tesla,Elantra,Germany,Shanghai,2012,Hybrid,Manual,Hatchback,37877,77285,2927323945,No,2.72
+C1940,Mercedes,Altima,Mexico,São Paulo,2010,Petrol,Automatic,Truck,77170,74927,5782116590,No,2.36
+C1941,Honda,3 Series,USA,Nagoya,2020,Electric,Automatic,Coupe,27397,34866,955223802,Yes,0.83
+C1942,Mercedes,Civic,Mexico,Nagoya,2019,Electric,Automatic,SUV,47780,20282,969073960,Yes,1.47
+C1943,Toyota,Optima,South Korea,Chennai,2015,Hybrid,Automatic,Truck,57820,30319,1753044580,No,2.74
+C1944,Nissan,Model X,Germany,Monterrey,2020,Petrol,Manual,Coupe,73092,46726,3415296792,No,3.34
+C1945,Kia,Altima,UK,Chennai,2010,Petrol,Automatic,Sedan,68789,25412,1748066068,No,0.37
+C1946,Honda,Altima,France,Chennai,2018,Diesel,Automatic,Coupe,32441,34583,1121907103,No,1.92
+C1947,Mercedes,3 Series,USA,Monterrey,2011,Diesel,Manual,Crossover,14734,71922,1059698748,No,1.16
+C1948,Mercedes,Corolla,Mexico,Shanghai,2010,Hybrid,Automatic,Hatchback,75672,16185,1224751320,No,0.87
+C1949,Hyundai,Elantra,UK,Paris,2024,Petrol,Automatic,Truck,3876,66389,257323764,No,1.82
+C1950,Mercedes,Optima,France,Munich,2021,Petrol,Automatic,Hatchback,31283,27423,857873709,No,2.16
+C1951,Volkswagen,Passat,China,São Paulo,2016,Diesel,Manual,Sedan,41749,61268,2557877732,No,0.13
+C1952,Kia,Model X,China,Nagoya,2015,Diesel,Manual,Sedan,43525,51644,2247805100,No,2.75
+C1953,Volkswagen,Mustang,Mexico,Seoul,2015,Hybrid,Manual,Crossover,16947,46786,792882342,No,2.89
+C1954,Kia,Passat,Japan,São Paulo,2023,Petrol,Manual,Hatchback,17213,40477,696730601,No,3.38
+C1955,Nissan,Elantra,South Korea,Paris,2014,Electric,Automatic,Truck,5358,13571,72713418,Yes,0.71
+C1956,Kia,Model X,Japan,Monterrey,2020,Diesel,Manual,Sedan,51615,29576,1526565240,No,2.12
+C1957,Volkswagen,Altima,South Korea,São Paulo,2013,Hybrid,Manual,Sedan,60334,72703,4386462802,No,1.55
+C1958,Kia,Mustang,USA,Nagoya,2020,Petrol,Automatic,Coupe,5039,19680,99167520,No,1.24
+C1959,Nissan,Corolla,India,São Paulo,2013,Petrol,Automatic,Crossover,64483,35706,2302429998,No,2.02
+C1960,Nissan,Optima,Mexico,Munich,2012,Diesel,Manual,SUV,19357,74527,1442619139,No,2.76
+C1961,Toyota,Corolla,Brazil,Monterrey,2019,Hybrid,Manual,Sedan,5864,58436,342668704,No,0.18
+C1962,Kia,Civic,Mexico,São Paulo,2017,Electric,Manual,Truck,66485,12774,849279390,Yes,3.4
+C1963,Hyundai,3 Series,Germany,Nagoya,2016,Diesel,Manual,Truck,59669,26972,1609392268,No,2.85
+C1964,Tesla,Model X,France,Nagoya,2018,Hybrid,Automatic,Coupe,21578,24048,518907744,No,2.65
+C1965,Ford,Corolla,Germany,São Paulo,2010,Petrol,Automatic,Truck,38074,67602,2573878548,No,2.69
+C1966,Nissan,Passat,China,Shanghai,2016,Electric,Automatic,Coupe,1369,76403,104595707,Yes,1.42
+C1967,BMW,3 Series,South Korea,Seoul,2019,Hybrid,Automatic,Sedan,63124,37182,2347076568,No,2.66
+C1968,Tesla,Corolla,France,London,2013,Electric,Manual,Sedan,40575,57059,2315168925,Yes,1.42
+C1969,Honda,A-Class,China,Chennai,2016,Hybrid,Automatic,Sedan,4159,18787,78135133,No,3.16
+C1970,Kia,Civic,France,Monterrey,2022,Hybrid,Automatic,Sedan,36870,10393,383189910,No,0.7
+C1971,Volkswagen,Elantra,Japan,London,2021,Hybrid,Automatic,SUV,58685,71775,4212115875,No,1.09
+C1972,Ford,Optima,China,Paris,2010,Hybrid,Automatic,Crossover,44251,69454,3073408954,No,1.97
+C1973,BMW,Civic,Japan,Paris,2014,Electric,Automatic,Crossover,63258,22056,1395218448,Yes,1.19
+C1974,Tesla,3 Series,Japan,Nagoya,2012,Diesel,Automatic,SUV,5631,71483,402520773,No,1.54
+C1975,Kia,A-Class,France,Paris,2014,Electric,Automatic,Sedan,1858,54957,102110106,Yes,1.77
+C1976,Toyota,Model X,UK,Shanghai,2013,Hybrid,Automatic,Truck,57871,38429,2223924659,No,3.01
+C1977,Honda,Passat,Germany,Seoul,2011,Electric,Manual,Coupe,79639,55909,4452536851,Yes,1.88
+C1978,Ford,Optima,China,Paris,2020,Electric,Automatic,Crossover,16746,62906,1053423876,Yes,1.33
+C1979,Hyundai,Optima,Brazil,Munich,2013,Electric,Automatic,Hatchback,17716,54389,963555524,Yes,0.94
+C1980,Toyota,Civic,UK,Seoul,2012,Hybrid,Automatic,Coupe,41709,30905,1289016645,No,1.49
+C1981,BMW,3 Series,Germany,Shanghai,2022,Electric,Automatic,Hatchback,43487,63730,2771426510,Yes,1.85
+C1982,Ford,Model X,China,London,2010,Petrol,Automatic,Hatchback,21077,67557,1423898889,No,2.64
+C1983,Toyota,Altima,South Korea,Seoul,2021,Hybrid,Manual,Sedan,42820,76199,3262841180,No,0.51
+C1984,Honda,A-Class,Germany,Seoul,2019,Electric,Manual,Hatchback,11801,57301,676209101,Yes,0.85
+C1985,Hyundai,Altima,Brazil,London,2017,Petrol,Automatic,Sedan,75551,57259,4325974709,No,1.39
+C1986,Toyota,Passat,Mexico,Shanghai,2024,Electric,Automatic,SUV,1391,14574,20272434,Yes,1.33
+C1987,Mercedes,Model X,USA,Paris,2014,Diesel,Manual,Truck,22472,66776,1500590272,No,1.43
+C1988,Hyundai,Model X,Japan,Nagoya,2013,Electric,Manual,Hatchback,50957,34737,1770093309,Yes,2.8
+C1989,BMW,A-Class,USA,Monterrey,2019,Electric,Automatic,Truck,54935,33390,1834279650,Yes,1.2
+C1990,Honda,Mustang,UK,London,2021,Diesel,Automatic,Sedan,21432,62330,1335856560,No,1.81
+C1991,Kia,Altima,Mexico,London,2014,Hybrid,Automatic,Hatchback,4692,63642,298608264,No,2.22
+C1992,Volkswagen,Corolla,Japan,London,2013,Diesel,Automatic,Coupe,16628,31280,520123840,No,0.89
+C1993,Volkswagen,Optima,China,London,2012,Hybrid,Automatic,SUV,23336,31037,724279432,No,2.54
+C1994,Volkswagen,Mustang,UK,Monterrey,2014,Diesel,Automatic,Crossover,25337,50576,1281444112,No,1.96
+C1995,Ford,Corolla,Brazil,Monterrey,2013,Electric,Automatic,SUV,23278,38564,897692792,Yes,1.62
+C1996,BMW,3 Series,France,Paris,2024,Electric,Automatic,Hatchback,43630,38087,1661735810,Yes,2.85
+C1997,Honda,A-Class,China,São Paulo,2010,Hybrid,Manual,SUV,17208,22803,392394024,No,0.93
+C1998,Hyundai,3 Series,Germany,São Paulo,2021,Hybrid,Manual,Crossover,24732,56002,1385041464,No,3.1
+C1999,Ford,Optima,France,Detroit,2012,Petrol,Automatic,Coupe,57766,76761,4434175926,No,2.01
+C2000,BMW,Elantra,UK,London,2019,Petrol,Manual,Truck,39912,26163,1044217656,No,2.17

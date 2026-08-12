@@ -1,0 +1,1001 @@
+Store,Region,ProductCategory,MarketingSpend,Revenue,CustomerSatisfaction
+Store 1,South,Electronics,29700,97700,4.6
+Store 2,East,Home & Garden,39100,330700,3.6
+Store 3,East,Sports,30900,137300,4.1
+Store 4,East,Clothing,57400,389400,4.2
+Store 5,East,Sports,12500,54100,4.1
+Store 6,North,Home & Garden,31000,193600,4.2
+Store 7,North,Clothing,39100,267200,3.8
+Store 8,East,Clothing,41000,245100,4.1
+Store 9,South,Sports,39300,224800,3.7
+Store 10,North,Electronics,14100,67700,4.0
+Store 11,South,Sports,24400,216700,3.4
+Store 12,West,Electronics,47900,187400,4.0
+Store 13,East,Clothing,48200,310300,4.7
+Store 14,South,Home & Garden,44800,294200,4.2
+Store 15,West,Clothing,52000,450700,4.0
+Store 16,East,Clothing,46600,226400,4.2
+Store 17,West,Home & Garden,45800,381200,3.8
+Store 18,West,Home & Garden,18400,68100,3.3
+Store 19,South,Electronics,46900,252700,4.8
+Store 20,West,Clothing,18300,99000,3.7
+Store 21,North,Sports,53200,248500,3.9
+Store 22,South,Sports,57900,226100,3.5
+Store 23,North,Electronics,10600,84700,3.5
+Store 24,South,Clothing,17300,107400,4.2
+Store 25,South,Electronics,44500,271100,4.2
+Store 26,East,Sports,55000,422400,4.7
+Store 27,West,Sports,29900,108300,4.3
+Store 28,East,Electronics,13400,57000,3.5
+Store 29,South,Clothing,15100,96700,4.1
+Store 30,South,Clothing,13500,57300,3.8
+Store 31,South,Home & Garden,40100,234400,3.4
+Store 32,West,Sports,34000,165600,3.4
+Store 33,South,Home & Garden,33900,242500,4.1
+Store 34,North,Home & Garden,17300,108300,3.2
+Store 35,South,Clothing,44800,204600,3.8
+Store 36,North,Home & Garden,48600,301100,4.5
+Store 37,South,Electronics,40700,314600,4.5
+Store 38,North,Electronics,50900,378700,3.6
+Store 39,West,Home & Garden,46600,416500,4.5
+Store 40,West,Home & Garden,19700,130600,3.8
+Store 41,South,Home & Garden,14000,50600,4.0
+Store 42,South,Electronics,34100,303900,4.2
+Store 43,East,Sports,55500,281100,4.3
+Store 44,East,Sports,49100,368300,4.0
+Store 45,North,Sports,49500,247300,4.6
+Store 46,West,Sports,30100,261300,4.4
+Store 47,North,Electronics,11400,74600,4.0
+Store 48,North,Sports,42900,218900,4.1
+Store 49,North,Clothing,10700,94400,4.3
+Store 50,North,Sports,59300,247200,4.7
+Store 51,East,Home & Garden,20600,123700,4.5
+Store 52,South,Home & Garden,37200,297800,3.3
+Store 53,South,Sports,43100,340100,4.1
+Store 54,North,Electronics,36200,112700,3.9
+Store 55,North,Clothing,48800,190300,3.4
+Store 56,East,Clothing,26300,160700,4.1
+Store 57,East,Clothing,22400,104400,4.5
+Store 58,West,Clothing,48000,406800,4.0
+Store 59,North,Home & Garden,32600,202100,4.0
+Store 60,North,Home & Garden,56100,468800,3.5
+Store 61,West,Electronics,30800,164900,3.7
+Store 62,North,Sports,13700,96100,4.5
+Store 63,North,Home & Garden,17100,141900,4.8
+Store 64,North,Clothing,29900,177100,4.9
+Store 65,North,Electronics,45300,406100,3.9
+Store 66,West,Electronics,27800,98800,3.8
+Store 67,South,Sports,32000,99500,3.8
+Store 68,South,Clothing,15600,132800,3.6
+Store 69,East,Clothing,23300,75400,4.5
+Store 70,South,Electronics,51000,413000,4.3
+Store 71,South,Sports,17500,149000,4.2
+Store 72,South,Clothing,24000,187100,3.5
+Store 73,East,Home & Garden,56900,387300,4.6
+Store 74,East,Electronics,13300,108700,4.0
+Store 75,South,Sports,56300,259400,3.4
+Store 76,North,Clothing,58500,267400,3.5
+Store 77,South,Home & Garden,36600,155000,4.0
+Store 78,North,Home & Garden,27400,85200,3.6
+Store 79,East,Clothing,46700,294500,3.5
+Store 80,West,Electronics,56700,206300,4.6
+Store 81,West,Sports,37300,310800,4.8
+Store 82,South,Electronics,59100,298800,4.6
+Store 83,North,Sports,59500,529000,4.6
+Store 84,East,Clothing,41300,341900,3.9
+Store 85,East,Clothing,43300,228900,4.1
+Store 86,South,Electronics,44600,145900,3.5
+Store 87,South,Sports,10200,52900,3.8
+Store 88,South,Electronics,11700,97000,3.6
+Store 89,North,Clothing,26800,93900,3.7
+Store 90,North,Electronics,35200,106600,3.6
+Store 91,East,Electronics,30000,97500,3.2
+Store 92,South,Electronics,14200,124200,4.7
+Store 93,North,Sports,48200,353000,4.0
+Store 94,South,Electronics,12200,97700,4.7
+Store 95,West,Electronics,55500,417200,4.2
+Store 96,East,Electronics,14300,46500,4.3
+Store 97,East,Sports,51800,329000,4.3
+Store 98,North,Sports,23200,133200,3.3
+Store 99,East,Clothing,47300,276400,4.6
+Store 100,South,Electronics,46500,196800,4.5
+Store 101,West,Sports,52300,181000,4.7
+Store 102,South,Clothing,40800,279700,3.3
+Store 103,North,Home & Garden,22700,169300,3.7
+Store 104,North,Clothing,34100,201700,4.9
+Store 105,East,Electronics,43800,207800,4.1
+Store 106,West,Sports,33300,123600,4.7
+Store 107,North,Home & Garden,58900,507600,3.2
+Store 108,West,Clothing,51000,449200,4.0
+Store 109,South,Sports,20500,177800,3.6
+Store 110,East,Electronics,47400,216700,3.8
+Store 111,South,Clothing,45200,198400,4.7
+Store 112,West,Sports,11200,33800,4.0
+Store 113,West,Sports,25100,96500,3.8
+Store 114,South,Clothing,52000,156500,4.5
+Store 115,West,Clothing,57000,237900,3.2
+Store 116,South,Home & Garden,28600,153200,4.9
+Store 117,East,Home & Garden,56300,424200,4.7
+Store 118,South,Clothing,12600,87800,4.3
+Store 119,North,Electronics,58600,329200,3.7
+Store 120,South,Sports,54200,426700,4.3
+Store 121,North,Clothing,12500,92400,4.0
+Store 122,North,Home & Garden,34300,290600,4.1
+Store 123,North,Sports,30700,144000,3.6
+Store 124,South,Sports,42800,205700,4.1
+Store 125,West,Clothing,18400,73000,3.6
+Store 126,West,Electronics,32600,162900,4.5
+Store 127,West,Electronics,37400,167000,3.5
+Store 128,East,Home & Garden,22000,100100,4.2
+Store 129,East,Sports,29100,217500,3.6
+Store 130,South,Home & Garden,47600,285100,4.2
+Store 131,South,Electronics,44300,273600,4.5
+Store 132,North,Clothing,23600,106000,3.9
+Store 133,West,Sports,57700,466900,4.7
+Store 134,East,Electronics,11600,84200,4.7
+Store 135,West,Sports,10000,53500,4.8
+Store 136,West,Sports,22400,81900,3.5
+Store 137,East,Sports,14300,109600,3.2
+Store 138,North,Electronics,38500,124200,4.4
+Store 139,North,Home & Garden,36400,204700,4.5
+Store 140,East,Clothing,25000,216500,3.5
+Store 141,South,Electronics,49500,148800,4.1
+Store 142,West,Home & Garden,57900,397600,4.7
+Store 143,West,Electronics,37400,118800,3.9
+Store 144,South,Clothing,11100,66500,4.3
+Store 145,West,Clothing,22900,160400,4.8
+Store 146,North,Sports,11700,58800,3.9
+Store 147,West,Electronics,10300,49000,4.6
+Store 148,East,Electronics,34800,146200,4.5
+Store 149,North,Electronics,33300,152900,4.7
+Store 150,East,Sports,40500,339300,4.0
+Store 151,East,Electronics,56100,186600,3.2
+Store 152,North,Sports,12600,42300,3.9
+Store 153,South,Clothing,59900,514500,3.8
+Store 154,North,Sports,11600,81000,3.8
+Store 155,South,Home & Garden,32100,117300,3.3
+Store 156,East,Home & Garden,31000,257600,4.2
+Store 157,North,Sports,27800,220400,4.6
+Store 158,West,Clothing,12500,73000,3.8
+Store 159,West,Electronics,26200,194500,4.0
+Store 160,West,Electronics,50600,384600,3.3
+Store 161,East,Sports,13100,111600,3.6
+Store 162,East,Home & Garden,28100,140800,4.8
+Store 163,East,Home & Garden,47300,337600,4.8
+Store 164,South,Clothing,46100,303000,4.6
+Store 165,East,Clothing,51300,186900,4.4
+Store 166,West,Sports,49500,419800,4.6
+Store 167,North,Sports,19100,149300,4.5
+Store 168,North,Electronics,26400,129800,3.8
+Store 169,East,Electronics,29600,117200,3.9
+Store 170,East,Sports,37600,186300,4.9
+Store 171,East,Clothing,23200,81300,3.4
+Store 172,West,Sports,18700,71000,4.0
+Store 173,North,Clothing,49000,233400,3.7
+Store 174,South,Home & Garden,22700,103600,3.9
+Store 175,North,Electronics,21800,102200,4.7
+Store 176,North,Home & Garden,13200,59500,3.6
+Store 177,North,Clothing,42700,382000,3.4
+Store 178,West,Electronics,52000,441300,3.3
+Store 179,South,Electronics,16000,66200,4.9
+Store 180,North,Clothing,28600,234400,4.0
+Store 181,South,Clothing,15300,100600,4.3
+Store 182,North,Clothing,28400,109300,3.5
+Store 183,South,Clothing,40000,276400,3.5
+Store 184,East,Home & Garden,30400,159000,4.3
+Store 185,East,Electronics,11600,69300,4.0
+Store 186,West,Clothing,49800,347800,3.5
+Store 187,East,Electronics,29900,138300,4.9
+Store 188,South,Sports,57700,281200,4.2
+Store 189,South,Sports,30800,252100,4.9
+Store 190,South,Electronics,29500,160200,4.8
+Store 191,West,Electronics,31200,247200,3.9
+Store 192,South,Sports,48700,184100,3.3
+Store 193,North,Sports,14500,97600,3.8
+Store 194,North,Electronics,27400,108800,3.5
+Store 195,East,Clothing,29200,219600,4.5
+Store 196,North,Home & Garden,16300,141100,4.9
+Store 197,West,Home & Garden,12700,108700,3.9
+Store 198,North,Electronics,41100,274900,3.5
+Store 199,West,Electronics,38300,124500,4.8
+Store 200,North,Sports,28000,109100,4.9
+Store 201,North,Clothing,54200,436600,4.3
+Store 202,South,Clothing,29500,169200,4.6
+Store 203,South,Sports,25400,114200,3.9
+Store 204,South,Sports,35200,143400,3.2
+Store 205,West,Sports,21800,165300,4.5
+Store 206,West,Electronics,50500,272800,3.3
+Store 207,South,Sports,28300,221100,4.1
+Store 208,East,Clothing,41800,146000,4.4
+Store 209,East,Clothing,47600,398400,4.3
+Store 210,North,Clothing,52900,474900,4.4
+Store 211,East,Electronics,16600,138000,3.7
+Store 212,North,Electronics,13300,67900,4.5
+Store 213,North,Home & Garden,54800,254800,4.6
+Store 214,North,Home & Garden,35100,299000,3.6
+Store 215,South,Electronics,26000,83700,3.5
+Store 216,North,Home & Garden,44000,368400,3.5
+Store 217,South,Clothing,48400,159300,4.7
+Store 218,West,Clothing,22600,140400,4.7
+Store 219,South,Home & Garden,28800,150200,3.4
+Store 220,South,Clothing,32100,130300,4.5
+Store 221,East,Home & Garden,51000,230600,4.3
+Store 222,South,Clothing,47400,205200,3.7
+Store 223,West,Sports,35600,298100,3.4
+Store 224,North,Clothing,11100,33500,3.8
+Store 225,East,Home & Garden,36700,201100,3.7
+Store 226,North,Electronics,28300,225600,3.5
+Store 227,East,Electronics,45400,259000,3.3
+Store 228,North,Home & Garden,30100,138000,3.2
+Store 229,South,Sports,40100,244800,4.0
+Store 230,North,Clothing,12200,75500,3.9
+Store 231,North,Electronics,12900,99000,3.2
+Store 232,North,Electronics,30700,187600,4.3
+Store 233,West,Electronics,35400,119700,4.3
+Store 234,West,Clothing,28800,161900,4.8
+Store 235,East,Sports,18800,168800,3.6
+Store 236,East,Clothing,26800,200900,4.4
+Store 237,South,Clothing,23300,147300,3.9
+Store 238,South,Home & Garden,42100,370100,3.6
+Store 239,East,Electronics,23000,101600,4.5
+Store 240,North,Home & Garden,19600,104500,4.2
+Store 241,West,Sports,33600,207800,3.2
+Store 242,East,Sports,57800,254500,4.7
+Store 243,North,Sports,41100,142500,4.7
+Store 244,North,Clothing,11300,41100,4.8
+Store 245,South,Electronics,45000,143300,3.4
+Store 246,East,Clothing,46800,158900,4.2
+Store 247,South,Electronics,50900,403000,4.7
+Store 248,East,Sports,15400,65200,3.4
+Store 249,East,Clothing,51300,348300,3.7
+Store 250,East,Electronics,14900,112400,3.5
+Store 251,South,Home & Garden,31200,97500,3.6
+Store 252,South,Clothing,45800,238500,3.7
+Store 253,West,Home & Garden,40900,130300,3.9
+Store 254,West,Clothing,27300,197300,4.1
+Store 255,North,Clothing,38700,182800,3.9
+Store 256,North,Home & Garden,48100,426500,3.2
+Store 257,West,Clothing,34600,269200,3.5
+Store 258,West,Home & Garden,57900,352700,4.2
+Store 259,North,Home & Garden,50800,438400,3.6
+Store 260,North,Clothing,56900,432500,4.0
+Store 261,East,Home & Garden,27800,150300,3.9
+Store 262,East,Sports,54400,171400,3.6
+Store 263,South,Sports,55100,331000,3.8
+Store 264,North,Sports,16300,107000,4.4
+Store 265,East,Home & Garden,39100,239700,4.7
+Store 266,West,Home & Garden,18500,104200,4.5
+Store 267,North,Electronics,26700,183100,4.4
+Store 268,North,Home & Garden,25100,181200,4.6
+Store 269,North,Electronics,58700,430800,4.2
+Store 270,South,Electronics,21800,190400,3.6
+Store 271,East,Electronics,58100,209700,3.9
+Store 272,North,Home & Garden,46700,262000,3.5
+Store 273,East,Home & Garden,20300,108200,3.3
+Store 274,West,Sports,44700,268300,4.3
+Store 275,West,Clothing,17100,113200,3.9
+Store 276,North,Sports,45100,294300,4.3
+Store 277,North,Electronics,44000,301400,4.0
+Store 278,South,Home & Garden,41400,148500,3.9
+Store 279,West,Electronics,22500,124700,4.0
+Store 280,West,Electronics,54700,271800,3.2
+Store 281,West,Clothing,11900,74500,3.5
+Store 282,North,Home & Garden,15100,97400,4.1
+Store 283,West,Clothing,42000,334900,4.1
+Store 284,West,Sports,20500,145700,3.9
+Store 285,East,Home & Garden,41900,189200,3.8
+Store 286,East,Clothing,13800,117200,4.3
+Store 287,South,Home & Garden,15500,74700,3.9
+Store 288,North,Sports,33100,132000,4.8
+Store 289,East,Electronics,33500,213500,3.6
+Store 290,North,Home & Garden,43300,345700,4.6
+Store 291,West,Sports,59800,452000,4.3
+Store 292,West,Home & Garden,49200,215600,4.4
+Store 293,South,Sports,43900,258500,4.6
+Store 294,South,Home & Garden,22200,106800,4.0
+Store 295,West,Clothing,43000,222500,4.8
+Store 296,West,Clothing,14300,91300,3.8
+Store 297,North,Home & Garden,41700,128800,3.2
+Store 298,East,Home & Garden,22500,81200,3.4
+Store 299,North,Electronics,48800,247800,3.5
+Store 300,West,Electronics,40500,288700,4.9
+Store 301,East,Home & Garden,19900,142400,4.1
+Store 302,West,Clothing,37800,173400,3.6
+Store 303,North,Sports,34700,116300,4.0
+Store 304,North,Sports,22300,88900,4.2
+Store 305,East,Electronics,52000,302000,4.2
+Store 306,South,Sports,28700,158200,4.8
+Store 307,East,Electronics,41900,285600,3.2
+Store 308,East,Home & Garden,50400,179600,4.0
+Store 309,North,Clothing,20700,113700,3.4
+Store 310,East,Home & Garden,27100,207900,4.1
+Store 311,North,Home & Garden,31800,176000,4.1
+Store 312,South,Home & Garden,27800,165800,3.8
+Store 313,South,Home & Garden,58700,406600,4.5
+Store 314,South,Electronics,25900,124200,4.2
+Store 315,East,Clothing,29900,189100,3.9
+Store 316,East,Sports,25000,75900,3.5
+Store 317,West,Clothing,49500,418700,4.2
+Store 318,North,Clothing,20600,144200,4.0
+Store 319,North,Clothing,43200,354900,3.9
+Store 320,East,Clothing,28400,225400,4.5
+Store 321,South,Home & Garden,19200,61500,3.2
+Store 322,East,Sports,38400,124300,3.4
+Store 323,West,Sports,32300,99600,3.9
+Store 324,North,Sports,48500,305200,3.3
+Store 325,West,Electronics,54800,370500,3.9
+Store 326,East,Clothing,59300,483300,3.6
+Store 327,East,Electronics,33600,156300,4.2
+Store 328,West,Electronics,56100,291500,4.5
+Store 329,North,Clothing,24700,156700,4.0
+Store 330,South,Clothing,45900,140800,3.2
+Store 331,East,Sports,25600,188800,3.5
+Store 332,West,Clothing,25800,224300,4.4
+Store 333,West,Electronics,17200,133900,3.8
+Store 334,North,Sports,33800,259200,4.0
+Store 335,South,Home & Garden,24600,82800,4.9
+Store 336,South,Clothing,51600,340900,3.7
+Store 337,West,Electronics,28800,204700,4.2
+Store 338,North,Sports,24200,72800,3.6
+Store 339,West,Electronics,39300,310300,4.7
+Store 340,East,Home & Garden,51700,406900,4.7
+Store 341,North,Home & Garden,58800,457700,4.1
+Store 342,West,Home & Garden,36700,229000,4.0
+Store 343,West,Electronics,49400,362300,4.9
+Store 344,South,Clothing,43900,254300,3.6
+Store 345,South,Clothing,49600,285600,3.3
+Store 346,South,Clothing,21600,139900,4.7
+Store 347,South,Sports,35300,148700,3.6
+Store 348,East,Electronics,50300,238400,4.2
+Store 349,South,Sports,49000,398900,3.6
+Store 350,West,Home & Garden,53300,278800,4.0
+Store 351,East,Electronics,25800,82100,3.7
+Store 352,East,Clothing,11700,104600,4.7
+Store 353,West,Electronics,23100,177300,3.9
+Store 354,West,Electronics,22700,73300,3.5
+Store 355,North,Sports,14200,46900,4.1
+Store 356,West,Sports,57400,485600,3.3
+Store 357,West,Clothing,45300,160400,3.7
+Store 358,North,Clothing,57800,405700,3.9
+Store 359,West,Electronics,28500,125700,4.4
+Store 360,North,Clothing,57100,493700,3.3
+Store 361,East,Clothing,22900,139200,4.5
+Store 362,West,Clothing,15100,74100,3.2
+Store 363,North,Home & Garden,39500,223100,4.3
+Store 364,West,Home & Garden,28600,152700,3.8
+Store 365,West,Electronics,32100,251800,4.8
+Store 366,East,Sports,45900,191400,3.3
+Store 367,North,Clothing,56700,465000,4.7
+Store 368,North,Sports,57900,495400,3.9
+Store 369,East,Clothing,32600,164300,4.6
+Store 370,West,Clothing,41400,159700,3.6
+Store 371,East,Electronics,45700,288800,3.4
+Store 372,North,Home & Garden,30900,138400,3.2
+Store 373,South,Home & Garden,50200,229100,3.4
+Store 374,West,Sports,15700,139300,3.3
+Store 375,North,Sports,51800,192400,4.5
+Store 376,South,Sports,59600,535700,4.8
+Store 377,East,Sports,24500,205200,3.3
+Store 378,South,Electronics,58900,182400,4.6
+Store 379,South,Electronics,32200,249100,4.8
+Store 380,South,Electronics,28000,90800,3.9
+Store 381,South,Electronics,16900,69000,4.5
+Store 382,North,Electronics,40000,319000,4.7
+Store 383,West,Home & Garden,18800,71900,4.3
+Store 384,North,Home & Garden,20100,68200,4.4
+Store 385,West,Clothing,35900,182600,3.7
+Store 386,West,Clothing,10800,91400,4.0
+Store 387,South,Electronics,19300,154200,3.8
+Store 388,North,Home & Garden,38700,315300,3.8
+Store 389,West,Clothing,16000,116600,4.6
+Store 390,South,Sports,38800,325500,3.7
+Store 391,East,Sports,32300,101900,4.6
+Store 392,North,Clothing,22200,78400,4.3
+Store 393,North,Clothing,25600,162100,4.8
+Store 394,East,Clothing,56300,418400,3.6
+Store 395,West,Electronics,45100,163100,4.7
+Store 396,North,Clothing,23700,137200,4.2
+Store 397,South,Clothing,16100,87500,3.4
+Store 398,North,Electronics,17400,112000,4.5
+Store 399,North,Clothing,56900,303400,3.9
+Store 400,East,Sports,58500,193700,3.8
+Store 401,West,Electronics,51900,378500,4.6
+Store 402,South,Sports,52400,174000,4.1
+Store 403,South,Electronics,53500,373400,3.2
+Store 404,East,Electronics,13500,75600,4.1
+Store 405,East,Electronics,17000,149900,4.5
+Store 406,West,Clothing,50500,419500,4.7
+Store 407,East,Home & Garden,55900,376800,4.3
+Store 408,East,Clothing,22500,137700,3.9
+Store 409,East,Home & Garden,15700,79800,3.5
+Store 410,East,Home & Garden,14200,92900,4.8
+Store 411,West,Clothing,35600,295900,4.8
+Store 412,South,Home & Garden,22200,78300,4.1
+Store 413,West,Electronics,42500,178800,4.4
+Store 414,West,Home & Garden,40600,236000,3.7
+Store 415,North,Home & Garden,21100,128200,3.9
+Store 416,West,Clothing,56200,223300,4.8
+Store 417,South,Home & Garden,34600,162900,4.9
+Store 418,South,Clothing,48600,192000,3.3
+Store 419,South,Sports,42900,261800,4.6
+Store 420,South,Clothing,36000,321700,4.4
+Store 421,North,Sports,26900,137600,4.3
+Store 422,South,Clothing,46900,349900,4.5
+Store 423,West,Home & Garden,49200,356800,4.8
+Store 424,North,Sports,53500,161900,4.5
+Store 425,East,Sports,29900,267800,3.5
+Store 426,South,Clothing,29000,165700,4.0
+Store 427,South,Home & Garden,27600,169900,4.2
+Store 428,South,Clothing,49400,400000,4.0
+Store 429,West,Home & Garden,19200,92600,3.4
+Store 430,West,Electronics,14400,122700,3.8
+Store 431,North,Home & Garden,20200,112300,4.7
+Store 432,East,Clothing,12400,79200,4.0
+Store 433,South,Sports,35900,219100,4.4
+Store 434,West,Sports,27900,183300,3.8
+Store 435,East,Clothing,36300,130500,3.8
+Store 436,West,Electronics,54000,474500,4.0
+Store 437,West,Home & Garden,44600,333600,3.4
+Store 438,South,Home & Garden,28300,97600,3.7
+Store 439,North,Clothing,42800,204100,3.8
+Store 440,West,Electronics,36200,285900,3.6
+Store 441,North,Sports,19100,129500,4.2
+Store 442,South,Clothing,44600,136700,3.2
+Store 443,East,Home & Garden,29900,107400,3.2
+Store 444,East,Electronics,18800,143100,4.2
+Store 445,North,Electronics,30600,114100,3.5
+Store 446,East,Clothing,15000,60300,4.1
+Store 447,West,Sports,50300,169600,3.2
+Store 448,South,Electronics,45800,234600,3.5
+Store 449,South,Clothing,53000,460400,3.3
+Store 450,North,Sports,41200,128400,3.6
+Store 451,West,Clothing,32000,215100,3.6
+Store 452,East,Electronics,56500,459200,3.7
+Store 453,West,Home & Garden,30900,139400,4.7
+Store 454,East,Electronics,43900,309500,4.2
+Store 455,West,Home & Garden,29900,217400,3.2
+Store 456,North,Clothing,18700,96300,3.5
+Store 457,South,Sports,38100,140600,4.1
+Store 458,West,Home & Garden,30200,102500,3.4
+Store 459,South,Electronics,29400,170600,3.8
+Store 460,West,Clothing,24000,75600,4.6
+Store 461,North,Electronics,14600,67400,4.6
+Store 462,North,Sports,33400,259500,3.6
+Store 463,South,Home & Garden,20800,113000,4.3
+Store 464,North,Home & Garden,57500,346700,3.6
+Store 465,West,Electronics,57100,513200,4.2
+Store 466,West,Home & Garden,36700,199100,4.1
+Store 467,North,Clothing,43900,155800,4.6
+Store 468,West,Clothing,42900,274800,3.7
+Store 469,West,Clothing,44700,342300,3.6
+Store 470,North,Clothing,13400,113700,4.6
+Store 471,South,Electronics,13300,64700,3.6
+Store 472,North,Sports,24100,130600,4.7
+Store 473,North,Home & Garden,18800,97800,4.6
+Store 474,South,Sports,11300,81600,4.0
+Store 475,West,Home & Garden,55300,198300,3.7
+Store 476,South,Electronics,45600,147900,3.3
+Store 477,North,Sports,19900,95900,3.8
+Store 478,East,Home & Garden,41500,358900,4.2
+Store 479,North,Sports,45800,207400,3.9
+Store 480,South,Clothing,15600,118300,4.3
+Store 481,East,Clothing,58700,416000,3.3
+Store 482,South,Electronics,48900,248100,4.8
+Store 483,West,Sports,59900,400900,3.6
+Store 484,East,Home & Garden,57300,317700,4.8
+Store 485,West,Clothing,43800,185500,4.3
+Store 486,North,Sports,48100,156900,4.4
+Store 487,South,Electronics,37300,328900,4.3
+Store 488,South,Electronics,58200,233300,3.8
+Store 489,East,Electronics,41800,159800,4.4
+Store 490,West,Sports,21900,97500,4.1
+Store 491,West,Electronics,56800,290200,3.7
+Store 492,North,Electronics,26700,210700,4.1
+Store 493,North,Electronics,39900,230100,4.5
+Store 494,North,Clothing,44500,136800,4.0
+Store 495,East,Clothing,54800,264300,3.4
+Store 496,South,Sports,58100,230500,4.0
+Store 497,South,Home & Garden,18400,63100,3.2
+Store 498,West,Clothing,47400,236500,4.5
+Store 499,South,Clothing,42300,369700,4.0
+Store 500,South,Clothing,28000,99300,3.7
+Store 501,South,Electronics,13900,104000,3.2
+Store 502,West,Electronics,24800,102000,4.3
+Store 503,North,Clothing,49200,392700,4.5
+Store 504,South,Sports,19200,152700,3.7
+Store 505,South,Electronics,37600,196100,4.6
+Store 506,North,Clothing,12100,77500,4.3
+Store 507,West,Clothing,57200,341300,4.0
+Store 508,North,Home & Garden,40100,271000,3.4
+Store 509,North,Electronics,16900,115300,3.9
+Store 510,East,Sports,34000,146500,3.8
+Store 511,East,Sports,17200,59000,3.3
+Store 512,West,Home & Garden,13100,40000,4.8
+Store 513,North,Electronics,28900,87400,4.6
+Store 514,South,Electronics,33400,209000,4.1
+Store 515,West,Electronics,58700,514900,4.3
+Store 516,East,Home & Garden,40500,193700,4.2
+Store 517,South,Sports,42800,163500,4.7
+Store 518,East,Electronics,21100,156900,4.4
+Store 519,North,Home & Garden,37700,326400,3.8
+Store 520,North,Sports,29800,109800,3.5
+Store 521,North,Clothing,21100,169300,4.3
+Store 522,North,Home & Garden,45500,198500,4.0
+Store 523,East,Clothing,52600,372200,4.6
+Store 524,North,Clothing,41300,361900,4.1
+Store 525,West,Sports,37200,327600,3.5
+Store 526,West,Clothing,16800,128600,3.3
+Store 527,North,Clothing,28600,88400,4.2
+Store 528,North,Sports,25000,181100,3.9
+Store 529,East,Electronics,38100,324000,4.7
+Store 530,North,Home & Garden,47300,238800,4.5
+Store 531,East,Home & Garden,16100,84300,4.5
+Store 532,South,Sports,12200,80800,3.4
+Store 533,South,Clothing,11700,99000,3.6
+Store 534,South,Electronics,44700,139800,4.9
+Store 535,West,Clothing,49600,294000,3.3
+Store 536,South,Electronics,17500,150300,4.7
+Store 537,West,Electronics,39400,177400,4.9
+Store 538,South,Sports,10700,54100,3.5
+Store 539,West,Clothing,50000,160600,3.5
+Store 540,West,Sports,58400,418000,4.0
+Store 541,North,Clothing,28000,172700,3.7
+Store 542,North,Clothing,20600,163100,4.4
+Store 543,South,Sports,29400,150600,3.2
+Store 544,West,Home & Garden,21300,95700,4.7
+Store 545,East,Electronics,46300,178800,3.9
+Store 546,East,Home & Garden,27800,179100,4.2
+Store 547,North,Clothing,55800,469600,3.4
+Store 548,North,Sports,41700,283900,3.8
+Store 549,South,Electronics,53600,462700,4.4
+Store 550,South,Home & Garden,47000,284500,4.3
+Store 551,South,Sports,26700,192900,4.3
+Store 552,West,Home & Garden,54700,429700,4.9
+Store 553,North,Electronics,20300,169200,4.3
+Store 554,West,Sports,29800,227500,4.8
+Store 555,East,Electronics,25100,121800,4.4
+Store 556,South,Clothing,56100,364700,3.3
+Store 557,North,Home & Garden,39000,348100,3.8
+Store 558,West,Clothing,51900,255100,3.5
+Store 559,South,Clothing,47900,323700,3.6
+Store 560,East,Electronics,12400,70500,4.7
+Store 561,South,Clothing,19800,146600,4.8
+Store 562,East,Clothing,13700,108200,4.2
+Store 563,North,Clothing,19400,120700,4.7
+Store 564,South,Clothing,20600,102200,4.5
+Store 565,West,Sports,40500,316000,3.5
+Store 566,West,Clothing,14400,96100,4.5
+Store 567,West,Home & Garden,57000,469700,3.2
+Store 568,South,Home & Garden,12800,85600,4.4
+Store 569,South,Electronics,14700,57900,3.4
+Store 570,East,Home & Garden,50700,280800,4.1
+Store 571,North,Home & Garden,21500,144300,4.6
+Store 572,West,Clothing,48800,236900,4.5
+Store 573,West,Home & Garden,28100,173600,3.7
+Store 574,South,Clothing,37900,136400,4.6
+Store 575,South,Electronics,59500,260000,4.5
+Store 576,East,Clothing,41200,153800,4.1
+Store 577,North,Electronics,23000,152600,4.5
+Store 578,North,Electronics,36400,185800,4.4
+Store 579,West,Sports,20700,175400,4.7
+Store 580,West,Sports,20600,159400,3.2
+Store 581,East,Clothing,50300,426600,4.3
+Store 582,South,Clothing,21400,112500,4.7
+Store 583,West,Electronics,11500,35900,4.4
+Store 584,North,Electronics,27700,137300,3.9
+Store 585,South,Home & Garden,54000,323500,4.9
+Store 586,North,Sports,53200,437100,3.7
+Store 587,North,Home & Garden,24100,120200,4.0
+Store 588,North,Electronics,26000,173200,4.8
+Store 589,North,Clothing,54100,230400,4.7
+Store 590,South,Clothing,49000,400800,3.5
+Store 591,North,Home & Garden,44300,346900,3.5
+Store 592,East,Electronics,55600,217100,4.5
+Store 593,East,Electronics,33200,178700,3.9
+Store 594,West,Home & Garden,59000,188700,3.6
+Store 595,East,Clothing,16700,109700,4.2
+Store 596,East,Clothing,12400,103700,3.3
+Store 597,East,Clothing,57900,510900,4.1
+Store 598,East,Electronics,21200,132300,4.3
+Store 599,East,Home & Garden,52000,454700,3.3
+Store 600,North,Electronics,46600,216100,3.5
+Store 601,South,Home & Garden,13400,43700,4.1
+Store 602,West,Home & Garden,23400,115900,3.3
+Store 603,West,Home & Garden,37400,267100,4.9
+Store 604,South,Sports,31100,194100,3.9
+Store 605,North,Sports,48000,397900,4.6
+Store 606,East,Electronics,40400,345700,3.6
+Store 607,West,Electronics,51300,358100,3.3
+Store 608,East,Clothing,30300,192400,4.4
+Store 609,West,Home & Garden,32800,212100,4.0
+Store 610,West,Home & Garden,39600,355200,3.6
+Store 611,West,Home & Garden,45600,244500,4.1
+Store 612,South,Clothing,41400,259100,3.6
+Store 613,South,Home & Garden,55400,323500,4.4
+Store 614,West,Electronics,60000,203700,4.5
+Store 615,South,Electronics,36400,286800,3.6
+Store 616,North,Electronics,51100,294400,4.3
+Store 617,East,Home & Garden,29100,232600,4.6
+Store 618,East,Sports,17700,79800,3.4
+Store 619,South,Home & Garden,32600,115000,3.9
+Store 620,West,Clothing,32500,190800,4.6
+Store 621,North,Clothing,44000,228900,4.1
+Store 622,North,Home & Garden,36200,282700,3.6
+Store 623,North,Clothing,38500,128800,3.5
+Store 624,South,Home & Garden,22800,104700,3.9
+Store 625,West,Clothing,20100,111300,4.5
+Store 626,South,Clothing,45900,241200,3.3
+Store 627,South,Sports,31500,209300,3.6
+Store 628,North,Sports,52500,198300,4.3
+Store 629,South,Clothing,43300,215500,3.3
+Store 630,West,Sports,29700,163000,4.8
+Store 631,East,Clothing,39600,228700,4.0
+Store 632,West,Sports,59700,242200,3.3
+Store 633,West,Sports,16800,126300,3.2
+Store 634,North,Electronics,30100,97600,4.4
+Store 635,South,Sports,48500,179900,3.6
+Store 636,East,Clothing,15100,53300,4.5
+Store 637,West,Clothing,51200,215000,3.8
+Store 638,East,Sports,52200,200500,3.9
+Store 639,East,Electronics,26000,107700,4.9
+Store 640,North,Home & Garden,36000,126700,3.9
+Store 641,South,Sports,35500,196000,3.3
+Store 642,South,Electronics,53300,416400,4.7
+Store 643,South,Home & Garden,20100,66600,4.1
+Store 644,South,Sports,42800,310700,3.4
+Store 645,South,Electronics,32800,237500,4.3
+Store 646,South,Clothing,36700,200100,4.2
+Store 647,South,Clothing,23700,184300,3.7
+Store 648,North,Sports,30300,223200,3.5
+Store 649,North,Clothing,19000,154800,3.4
+Store 650,North,Clothing,50700,303300,3.2
+Store 651,North,Sports,21000,153800,4.5
+Store 652,North,Electronics,17300,147200,3.6
+Store 653,East,Sports,14800,114000,4.8
+Store 654,West,Electronics,42900,195000,4.7
+Store 655,West,Electronics,53400,456200,3.4
+Store 656,North,Sports,24700,108600,4.2
+Store 657,South,Electronics,25500,116000,4.1
+Store 658,North,Electronics,57300,400700,3.6
+Store 659,East,Home & Garden,29000,198500,3.6
+Store 660,East,Electronics,33200,244700,3.9
+Store 661,West,Clothing,11900,60800,4.3
+Store 662,North,Clothing,24500,124600,4.5
+Store 663,West,Clothing,20000,93600,3.7
+Store 664,East,Electronics,17000,78700,4.7
+Store 665,North,Home & Garden,11600,76500,4.8
+Store 666,South,Electronics,57200,396900,3.3
+Store 667,South,Home & Garden,32500,145700,4.5
+Store 668,North,Clothing,49400,236600,3.3
+Store 669,West,Clothing,47300,174000,3.5
+Store 670,West,Sports,11800,38200,4.2
+Store 671,West,Electronics,30800,247100,3.3
+Store 672,North,Home & Garden,18500,160000,3.8
+Store 673,West,Home & Garden,17500,62400,4.7
+Store 674,East,Electronics,34800,216300,3.4
+Store 675,West,Electronics,18200,113100,4.1
+Store 676,South,Electronics,24200,153200,4.9
+Store 677,North,Electronics,54500,168400,4.8
+Store 678,West,Electronics,44400,194300,4.5
+Store 679,North,Home & Garden,59900,332100,4.3
+Store 680,East,Home & Garden,38500,143400,4.3
+Store 681,North,Electronics,22200,169800,4.1
+Store 682,East,Electronics,13700,68800,3.4
+Store 683,North,Electronics,50700,256200,4.6
+Store 684,West,Electronics,10500,90700,3.9
+Store 685,West,Clothing,14400,64400,4.4
+Store 686,North,Electronics,49900,380300,3.5
+Store 687,North,Home & Garden,45400,154400,3.2
+Store 688,West,Clothing,34900,267900,4.7
+Store 689,East,Electronics,53300,176000,3.8
+Store 690,West,Clothing,42500,375200,4.2
+Store 691,West,Sports,16700,133100,4.8
+Store 692,East,Sports,51600,403200,4.2
+Store 693,West,Sports,51300,395300,4.7
+Store 694,South,Clothing,13400,103200,4.6
+Store 695,North,Electronics,19900,114400,3.6
+Store 696,West,Clothing,29600,228000,4.5
+Store 697,South,Sports,30300,106700,4.3
+Store 698,South,Sports,49600,150100,4.0
+Store 699,East,Clothing,53900,315400,3.9
+Store 700,South,Sports,17300,108500,3.3
+Store 701,West,Sports,41000,194900,3.3
+Store 702,South,Electronics,45100,254900,4.3
+Store 703,North,Clothing,20800,140700,3.8
+Store 704,North,Sports,23600,206400,3.8
+Store 705,North,Home & Garden,54500,363000,4.7
+Store 706,West,Home & Garden,35000,305700,4.1
+Store 707,North,Electronics,29500,90100,4.7
+Store 708,East,Electronics,32700,256900,3.6
+Store 709,South,Clothing,59200,438500,4.5
+Store 710,West,Electronics,56400,471700,4.3
+Store 711,East,Home & Garden,32200,281700,3.8
+Store 712,West,Clothing,55400,331800,3.8
+Store 713,East,Clothing,53800,448100,3.4
+Store 714,West,Sports,25600,155500,3.5
+Store 715,West,Clothing,57400,338400,3.2
+Store 716,South,Electronics,19400,165100,4.1
+Store 717,West,Electronics,47400,324600,3.7
+Store 718,North,Home & Garden,48600,153300,4.1
+Store 719,West,Clothing,50200,354400,3.8
+Store 720,South,Home & Garden,26200,209600,4.0
+Store 721,East,Home & Garden,54700,230000,4.6
+Store 722,East,Electronics,25400,155500,4.4
+Store 723,East,Home & Garden,58600,449000,3.8
+Store 724,North,Home & Garden,25500,220900,3.5
+Store 725,South,Sports,30200,214100,3.8
+Store 726,South,Sports,49700,290000,3.4
+Store 727,West,Sports,41900,321500,3.7
+Store 728,North,Home & Garden,47900,278800,4.1
+Store 729,West,Clothing,23800,123200,4.8
+Store 730,South,Clothing,23000,175400,3.3
+Store 731,South,Home & Garden,40100,206900,4.9
+Store 732,East,Clothing,47700,337200,3.9
+Store 733,East,Home & Garden,18300,74300,4.4
+Store 734,East,Sports,29700,256700,4.5
+Store 735,South,Sports,29600,231900,3.8
+Store 736,North,Electronics,36600,224300,4.3
+Store 737,South,Electronics,20700,146800,4.8
+Store 738,East,Clothing,52600,368600,4.2
+Store 739,West,Electronics,38700,179700,4.6
+Store 740,North,Electronics,21100,170900,3.6
+Store 741,East,Home & Garden,54900,409400,4.6
+Store 742,West,Home & Garden,16600,119900,4.4
+Store 743,South,Clothing,48600,322200,4.1
+Store 744,North,Electronics,25500,131500,4.2
+Store 745,East,Home & Garden,11200,68400,3.4
+Store 746,South,Electronics,10200,69100,3.4
+Store 747,South,Clothing,58900,385300,4.2
+Store 748,East,Clothing,36900,214200,4.0
+Store 749,South,Home & Garden,58200,359900,3.6
+Store 750,North,Home & Garden,52000,408300,4.1
+Store 751,East,Electronics,48900,155000,4.1
+Store 752,West,Home & Garden,13200,89500,4.4
+Store 753,East,Sports,29500,257500,3.9
+Store 754,East,Home & Garden,58100,289100,4.9
+Store 755,East,Sports,38800,216800,4.8
+Store 756,West,Electronics,27100,112200,3.9
+Store 757,South,Electronics,13800,115700,3.2
+Store 758,North,Electronics,48700,204900,4.5
+Store 759,South,Clothing,56000,410800,4.4
+Store 760,East,Home & Garden,20300,62500,4.7
+Store 761,South,Home & Garden,41400,264600,3.7
+Store 762,South,Home & Garden,15300,113800,4.4
+Store 763,West,Clothing,50200,287700,3.4
+Store 764,East,Electronics,28200,234200,4.0
+Store 765,East,Home & Garden,49700,291100,4.6
+Store 766,North,Clothing,36400,164100,3.9
+Store 767,South,Home & Garden,42800,369200,3.5
+Store 768,South,Sports,48700,358200,3.5
+Store 769,West,Electronics,16900,62000,4.4
+Store 770,West,Clothing,10500,83800,4.5
+Store 771,West,Clothing,20200,130000,4.8
+Store 772,South,Home & Garden,41200,342400,4.0
+Store 773,North,Clothing,22200,187300,3.9
+Store 774,East,Clothing,39600,148800,3.5
+Store 775,West,Sports,48100,308800,4.4
+Store 776,West,Electronics,30000,211100,4.4
+Store 777,North,Sports,44600,260000,3.4
+Store 778,West,Sports,13100,58100,4.9
+Store 779,North,Clothing,29600,228800,4.6
+Store 780,East,Electronics,14700,130200,4.6
+Store 781,East,Sports,12400,55100,4.8
+Store 782,North,Clothing,56500,386000,4.8
+Store 783,South,Clothing,17700,55000,4.5
+Store 784,East,Clothing,19300,151400,3.5
+Store 785,South,Clothing,35500,310300,3.8
+Store 786,East,Clothing,52600,333200,4.6
+Store 787,East,Clothing,43100,288400,4.0
+Store 788,East,Electronics,11200,89400,4.6
+Store 789,West,Electronics,16100,111100,3.6
+Store 790,West,Clothing,40600,142800,4.1
+Store 791,East,Clothing,46500,376600,4.6
+Store 792,East,Clothing,28400,136800,4.5
+Store 793,North,Sports,40300,357500,4.5
+Store 794,East,Clothing,13700,50400,4.4
+Store 795,North,Sports,32800,178600,4.2
+Store 796,North,Clothing,55600,446100,4.4
+Store 797,East,Electronics,52500,293200,4.7
+Store 798,North,Home & Garden,32100,232400,3.6
+Store 799,South,Home & Garden,11400,60300,3.5
+Store 800,North,Sports,48100,385800,4.9
+Store 801,South,Home & Garden,50200,154600,4.1
+Store 802,South,Electronics,37200,191200,4.6
+Store 803,East,Electronics,54500,423300,4.1
+Store 804,East,Clothing,51300,250400,4.3
+Store 805,South,Clothing,36900,324500,3.5
+Store 806,East,Electronics,56900,309800,4.8
+Store 807,East,Electronics,20900,157400,4.7
+Store 808,South,Sports,45800,409400,3.5
+Store 809,West,Electronics,44500,332700,4.5
+Store 810,North,Home & Garden,22900,72500,4.4
+Store 811,North,Home & Garden,40900,283700,4.5
+Store 812,North,Clothing,39900,286100,3.7
+Store 813,East,Clothing,36800,126600,3.3
+Store 814,East,Sports,42400,257000,4.7
+Store 815,West,Electronics,55000,249100,3.9
+Store 816,North,Sports,59500,492000,4.7
+Store 817,West,Home & Garden,26100,110600,3.9
+Store 818,North,Clothing,52800,412700,4.3
+Store 819,South,Clothing,52300,179700,3.4
+Store 820,South,Home & Garden,19000,73400,3.4
+Store 821,East,Sports,22700,80200,4.2
+Store 822,East,Clothing,24800,114300,4.8
+Store 823,South,Home & Garden,37100,150600,3.8
+Store 824,South,Home & Garden,28300,173700,3.4
+Store 825,North,Electronics,24300,128400,4.5
+Store 826,North,Electronics,54300,411400,4.7
+Store 827,North,Sports,23100,70300,3.4
+Store 828,West,Home & Garden,21700,68900,3.9
+Store 829,East,Clothing,33000,239900,3.4
+Store 830,East,Sports,34000,137500,3.6
+Store 831,West,Clothing,15900,54200,3.8
+Store 832,West,Electronics,56800,359500,3.3
+Store 833,North,Sports,47200,301000,4.7
+Store 834,West,Clothing,13000,72700,3.3
+Store 835,North,Home & Garden,20600,72100,3.7
+Store 836,West,Electronics,13700,78300,3.7
+Store 837,North,Home & Garden,43100,222700,3.4
+Store 838,West,Sports,22900,138700,4.3
+Store 839,East,Sports,44300,141500,4.3
+Store 840,West,Electronics,42600,164900,4.6
+Store 841,South,Clothing,52900,275400,4.7
+Store 842,North,Electronics,10800,62100,4.4
+Store 843,West,Electronics,52500,247300,4.9
+Store 844,North,Home & Garden,47400,308100,4.8
+Store 845,West,Clothing,44000,135300,4.8
+Store 846,North,Clothing,33900,205800,4.8
+Store 847,West,Electronics,41100,176700,4.6
+Store 848,North,Home & Garden,60000,344400,3.6
+Store 849,South,Clothing,30300,153300,4.3
+Store 850,East,Home & Garden,48500,214900,4.6
+Store 851,North,Home & Garden,40300,235800,4.1
+Store 852,West,Electronics,23100,147200,3.7
+Store 853,West,Electronics,55500,499000,3.4
+Store 854,South,Clothing,18400,101900,3.3
+Store 855,West,Sports,22700,145800,3.6
+Store 856,North,Home & Garden,58400,424700,3.4
+Store 857,West,Clothing,58400,491900,3.3
+Store 858,North,Electronics,31000,191500,4.6
+Store 859,East,Sports,22200,154300,4.2
+Store 860,South,Electronics,31800,208400,3.6
+Store 861,West,Electronics,53000,463200,4.3
+Store 862,West,Home & Garden,57800,262700,4.6
+Store 863,East,Sports,20600,102400,4.8
+Store 864,West,Sports,27000,204200,4.8
+Store 865,North,Sports,57900,446600,3.6
+Store 866,West,Clothing,57900,245700,3.9
+Store 867,North,Electronics,28500,206600,3.8
+Store 868,West,Home & Garden,16400,71100,3.6
+Store 869,South,Clothing,11800,45000,3.9
+Store 870,West,Clothing,33500,191800,3.8
+Store 871,South,Home & Garden,45200,254200,3.5
+Store 872,West,Clothing,43800,336700,3.9
+Store 873,East,Home & Garden,51800,355000,4.3
+Store 874,North,Home & Garden,48300,232100,3.6
+Store 875,East,Sports,52500,433200,4.2
+Store 876,North,Clothing,39800,217800,4.2
+Store 877,East,Clothing,49900,400300,3.3
+Store 878,North,Clothing,18700,75700,4.7
+Store 879,North,Clothing,11200,39100,3.4
+Store 880,North,Electronics,33500,115200,3.8
+Store 881,South,Sports,47400,391000,3.8
+Store 882,East,Home & Garden,18100,64200,4.3
+Store 883,South,Electronics,49600,365700,3.8
+Store 884,West,Electronics,19400,166300,4.2
+Store 885,East,Electronics,51900,287400,3.7
+Store 886,East,Electronics,25600,87900,4.0
+Store 887,East,Electronics,19600,142000,4.6
+Store 888,North,Clothing,51200,298600,3.9
+Store 889,East,Electronics,56700,243500,4.6
+Store 890,West,Electronics,47500,285400,4.1
+Store 891,South,Clothing,11500,84500,3.6
+Store 892,South,Electronics,42000,300200,4.2
+Store 893,North,Electronics,59300,532000,4.7
+Store 894,North,Electronics,13100,75700,3.8
+Store 895,South,Sports,25800,189000,3.3
+Store 896,South,Clothing,24700,122300,3.6
+Store 897,North,Electronics,33100,138600,3.4
+Store 898,South,Sports,36500,279300,3.4
+Store 899,East,Sports,31900,108500,4.6
+Store 900,North,Sports,25900,151800,4.4
+Store 901,South,Sports,49000,360100,3.7
+Store 902,East,Clothing,48500,171100,4.8
+Store 903,North,Clothing,52900,458100,4.1
+Store 904,East,Sports,44200,141900,4.3
+Store 905,South,Sports,36000,139300,4.4
+Store 906,East,Clothing,24400,185600,3.4
+Store 907,East,Clothing,25800,204100,4.2
+Store 908,West,Electronics,22000,117100,4.6
+Store 909,South,Home & Garden,16200,72200,4.9
+Store 910,East,Clothing,23000,171200,4.7
+Store 911,West,Sports,21300,87500,4.6
+Store 912,West,Sports,45800,339100,3.4
+Store 913,North,Sports,15400,121400,3.8
+Store 914,North,Clothing,22800,132600,4.9
+Store 915,North,Home & Garden,25700,189600,4.6
+Store 916,North,Sports,12800,38400,3.6
+Store 917,South,Clothing,49400,223600,3.3
+Store 918,East,Home & Garden,21400,105000,4.7
+Store 919,South,Home & Garden,28700,146900,3.8
+Store 920,East,Electronics,10600,74800,4.5
+Store 921,North,Clothing,59500,438400,4.5
+Store 922,South,Home & Garden,35200,174400,3.9
+Store 923,South,Electronics,22000,160100,4.3
+Store 924,East,Home & Garden,54800,221200,3.7
+Store 925,North,Clothing,49700,400400,4.9
+Store 926,South,Sports,49100,377700,4.7
+Store 927,North,Home & Garden,28000,94800,3.4
+Store 928,East,Clothing,21400,73300,3.3
+Store 929,East,Electronics,53000,362500,3.7
+Store 930,West,Sports,25500,173200,4.7
+Store 931,West,Home & Garden,55000,407100,3.7
+Store 932,South,Clothing,40000,359500,4.7
+Store 933,East,Sports,32300,99200,4.8
+Store 934,North,Electronics,20400,127600,4.8
+Store 935,East,Clothing,33100,212300,3.2
+Store 936,North,Sports,59900,245800,3.7
+Store 937,South,Clothing,21100,157600,4.6
+Store 938,North,Home & Garden,54200,485300,3.9
+Store 939,West,Clothing,56500,237900,3.7
+Store 940,South,Electronics,34600,260000,3.2
+Store 941,North,Sports,60000,382000,4.6
+Store 942,North,Clothing,55500,350100,4.5
+Store 943,South,Clothing,56200,238500,3.2
+Store 944,North,Sports,56600,360000,3.4
+Store 945,West,Clothing,31200,206300,3.6
+Store 946,South,Electronics,31000,188500,4.0
+Store 947,East,Clothing,50100,421800,3.5
+Store 948,North,Home & Garden,21600,171300,3.6
+Store 949,North,Electronics,58800,431000,3.4
+Store 950,West,Electronics,23600,189500,4.8
+Store 951,East,Sports,57200,323500,3.3
+Store 952,East,Sports,17100,98500,4.3
+Store 953,South,Sports,48300,215900,3.5
+Store 954,North,Sports,27800,156100,3.7
+Store 955,North,Sports,14200,59100,3.7
+Store 956,South,Electronics,30900,248400,4.5
+Store 957,West,Sports,57200,333400,3.5
+Store 958,North,Electronics,21600,110400,3.9
+Store 959,East,Sports,15000,111100,3.8
+Store 960,West,Electronics,33300,266700,4.1
+Store 961,East,Sports,27700,187800,4.8
+Store 962,West,Sports,41000,161500,4.3
+Store 963,East,Electronics,41300,291900,3.9
+Store 964,South,Electronics,27000,234100,4.1
+Store 965,West,Electronics,24300,92700,4.7
+Store 966,East,Home & Garden,50300,283900,3.7
+Store 967,East,Home & Garden,37400,289900,3.8
+Store 968,West,Clothing,26600,141600,4.2
+Store 969,South,Clothing,28500,151800,3.8
+Store 970,East,Home & Garden,54600,258100,4.0
+Store 971,West,Clothing,13800,58800,4.5
+Store 972,North,Electronics,25600,110500,3.9
+Store 973,East,Clothing,57300,361300,4.8
+Store 974,East,Electronics,31700,131800,4.5
+Store 975,West,Sports,14700,121100,4.5
+Store 976,North,Home & Garden,11900,39700,3.4
+Store 977,East,Home & Garden,45400,307800,3.4
+Store 978,North,Clothing,19000,126500,4.3
+Store 979,North,Home & Garden,16000,130300,3.8
+Store 980,West,Home & Garden,32300,190500,3.2
+Store 981,North,Electronics,19000,74400,3.8
+Store 982,East,Sports,36500,258600,3.3
+Store 983,West,Clothing,32600,270200,4.2
+Store 984,South,Sports,35600,138300,3.3
+Store 985,North,Sports,18800,99600,4.4
+Store 986,East,Clothing,52200,270000,4.4
+Store 987,North,Sports,46400,253000,4.8
+Store 988,North,Home & Garden,54800,227200,4.9
+Store 989,North,Clothing,59500,424100,3.7
+Store 990,South,Home & Garden,17900,145800,4.0
+Store 991,South,Clothing,34600,275800,3.3
+Store 992,West,Clothing,38700,326800,4.2
+Store 993,West,Clothing,14400,110300,3.4
+Store 994,South,Clothing,40300,226200,4.7
+Store 995,South,Clothing,46500,320500,3.4
+Store 996,West,Home & Garden,20700,143400,3.7
+Store 997,South,Electronics,56000,484900,4.9
+Store 998,West,Home & Garden,32800,268400,3.9
+Store 999,West,Clothing,12300,98600,4.6
+Store 1000,South,Clothing,40100,328400,4.5
