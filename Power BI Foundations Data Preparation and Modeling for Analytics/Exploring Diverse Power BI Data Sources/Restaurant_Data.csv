@@ -1,0 +1,201 @@
+Restaurant_ID,Restaurant_Name,Cuisine_Type,City,Average_Rating,Average_Cost_for_Two,Number_of_Reviews
+1000,Coastal Catch,Chinese,Mumbai,4.5,1150,964
+1001,The Grill Room,Chinese,Delhi,4.2,500,172
+1002,Café Aroma,Mexican,Chennai,4,450,2348
+1003,Dragon Hut,Mediterranean,Chennai,3.9,1250,76
+1004,Veggie Tales,Italian,Kolkata,3.7,850,931
+1005,Veggie Tales,Cafe,Delhi,3.2,700,1520
+1006,Sushi Garden,Continental,Mumbai,4.5,2100,561
+1007,Biryani Express,Chinese,Pune,4.7,2350,1531
+1008,Kebab Corner,Mexican,Delhi,3.1,1100,1235
+1009,Café Aroma,Mexican,Delhi,3.8,1850,1544
+1010,Masala Junction,Cafe,Hyderabad,3.4,1250,342
+1011,Noodle Bar,Italian,Chennai,3.3,1600,1155
+1012,Coastal Catch,Mexican,Hyderabad,4.7,550,988
+1013,Urban Bites,Cafe,Kolkata,3.5,1050,2373
+1014,Pizza Plaza,Cafe,Chennai,4.3,1650,1929
+1015,The Grill Room,Continental,Bangalore,3.5,2150,2257
+1016,Curry Leaf,Mediterranean,Kolkata,3.7,800,2137
+1017,Royal Tandoor,Chinese,Mumbai,4.7,850,705
+1018,The Coffee House,Mediterranean,Delhi,3.8,2300,1967
+1019,Asian Delight,Continental,Mumbai,4.4,750,2249
+1020,Veggie Tales,Continental,Hyderabad,3.2,1750,697
+1021,Pasta Punto,Indian,Pune,4.9,950,2129
+1022,Taco Fiesta,Continental,Chennai,3.3,900,2259
+1023,Veggie Tales,Indian,Hyderabad,4,750,1536
+1024,Bella Italia,Mexican,Mumbai,3.5,2200,372
+1025,Café Aroma,Japanese,Delhi,5,2100,565
+1026,The Grill Room,Japanese,Bangalore,3.5,2300,1783
+1027,Dragon Hut,Mexican,Pune,3.8,2450,1579
+1028,Pasta Punto,Japanese,Delhi,3.5,600,1434
+1029,Spice Villa,Mexican,Chennai,3,2400,291
+1030,Olive Tree,Chinese,Mumbai,4.7,600,2155
+1031,Olive Tree,Continental,Jaipur,3.4,800,2388
+1032,Kebab Corner,Japanese,Chennai,4.6,1700,829
+1033,Taco Fiesta,Chinese,Kolkata,3.7,1700,1962
+1034,Steak Story,Indian,Delhi,3.1,1450,497
+1035,Olive Tree,Mexican,Chennai,4.1,800,1778
+1036,Masala Junction,Continental,Jaipur,3.5,600,1865
+1037,Burger Town,Chinese,Mumbai,4.3,2100,110
+1038,Café Aroma,Mexican,Bangalore,3.8,1900,925
+1039,Biryani Express,Indian,Bangalore,3.8,1600,1136
+1040,Pasta Punto,Continental,Kolkata,4.4,2150,2043
+1041,The Grill Room,Mexican,Pune,3.4,550,2422
+1042,Steak Story,Indian,Hyderabad,3.1,2250,2002
+1043,Asian Delight,Italian,Mumbai,4.9,650,811
+1044,Café Aroma,Chinese,Chennai,3.8,2200,1058
+1045,Kebab Corner,Indian,Delhi,3.8,2250,2365
+1046,Asian Delight,Cafe,Pune,3.4,1400,1027
+1047,Curry Leaf,Mediterranean,Bangalore,4.3,1350,1922
+1048,The Green Bowl,Chinese,Mumbai,3.9,2200,459
+1049,Café Aroma,Mexican,Pune,3.3,1500,331
+1050,Olive Tree,Cafe,Pune,3.3,2100,1289
+1051,Noodle Bar,Indian,Pune,4.9,700,600
+1052,Curry Leaf,Chinese,Delhi,4.5,850,1165
+1053,Bella Italia,Mexican,Hyderabad,3.4,2400,1131
+1054,Asian Delight,Japanese,Pune,4.8,550,428
+1055,Coastal Catch,Mediterranean,Pune,3.1,1450,585
+1056,Coastal Catch,Continental,Bangalore,4.5,2150,1801
+1057,Burger Town,Indian,Delhi,3.2,850,2284
+1058,Urban Bites,Cafe,Bangalore,3.9,500,1312
+1059,Sushi Garden,Indian,Hyderabad,3.4,1150,471
+1060,Sushi Garden,Mediterranean,Bangalore,4.9,1150,715
+1061,Masala Junction,Mediterranean,Mumbai,3.4,1450,1736
+1062,The Coffee House,Mexican,Pune,3.3,700,1616
+1063,Urban Bites,Japanese,Chennai,3.4,1850,1482
+1064,Bella Italia,Mexican,Chennai,3,1000,1682
+1065,The Green Bowl,Continental,Delhi,4.9,1250,1488
+1066,Coastal Catch,Mediterranean,Hyderabad,4.9,750,1119
+1067,Masala Junction,Continental,Mumbai,3.2,1750,1465
+1068,Steak Story,Cafe,Kolkata,4.2,2000,523
+1069,Biryani Express,Mexican,Pune,3.1,1750,56
+1070,Asian Delight,Mexican,Hyderabad,3.9,1450,1335
+1071,The Coffee House,Chinese,Pune,4,1700,1386
+1072,Biryani Express,Continental,Bangalore,3.4,1600,762
+1073,Noodle Bar,Continental,Kolkata,4.1,400,1294
+1074,Bella Italia,Mexican,Kolkata,4.6,2300,1369
+1075,Pasta Punto,Japanese,Jaipur,4.4,2000,1988
+1076,Steak Story,Italian,Delhi,3.6,2400,1422
+1077,Café Aroma,Mexican,Pune,3.4,1000,653
+1078,Spice Villa,Indian,Chennai,5,2350,348
+1079,Pasta Punto,Mediterranean,Chennai,4.4,1600,2074
+1080,Biryani Express,Mexican,Bangalore,4.3,400,486
+1081,Veggie Tales,Mediterranean,Chennai,3.4,2050,1952
+1082,Urban Bites,Mexican,Delhi,3.9,1850,2225
+1083,Burger Town,Cafe,Jaipur,4.2,2000,1797
+1084,Burger Town,Japanese,Bangalore,4.5,1900,1893
+1085,Curry Leaf,Mexican,Pune,4.5,2050,2034
+1086,Coastal Catch,Mexican,Pune,3.9,1300,1010
+1087,Curry Leaf,Cafe,Hyderabad,4.8,650,616
+1088,The Grill Room,Mexican,Kolkata,4.4,1050,313
+1089,Smokehouse Deli,Mediterranean,Hyderabad,4.1,1700,305
+1090,Dragon Hut,Mediterranean,Kolkata,4.8,2250,130
+1091,Veggie Tales,Mediterranean,Jaipur,3,1500,1273
+1092,Veggie Tales,Mediterranean,Kolkata,4.1,2100,953
+1093,Royal Tandoor,Mexican,Pune,3.9,450,1642
+1094,The Green Bowl,Mediterranean,Bangalore,4.7,800,2237
+1095,Spice Villa,Mediterranean,Mumbai,3.2,1750,605
+1096,Pasta Punto,Italian,Mumbai,3.5,1400,916
+1097,Pasta Punto,Cafe,Hyderabad,4.5,1600,1189
+1098,Veggie Tales,Mediterranean,Pune,4.7,1900,129
+1099,Steak Story,Indian,Hyderabad,3.4,600,214
+1100,Veggie Tales,Indian,Chennai,3.4,450,674
+1101,Olive Tree,Italian,Jaipur,4.3,2200,942
+1102,Pasta Punto,Continental,Hyderabad,3.3,2300,519
+1103,Veggie Tales,Italian,Pune,3.2,450,1327
+1104,Kebab Corner,Mediterranean,Kolkata,4.9,1000,361
+1105,Kebab Corner,Mexican,Delhi,4.4,1350,545
+1106,Kebab Corner,Indian,Hyderabad,4.1,1550,332
+1107,Asian Delight,Cafe,Mumbai,4.7,1950,482
+1108,Smokehouse Deli,Cafe,Jaipur,4.4,1750,771
+1109,Steak Story,Continental,Jaipur,3.9,2250,1149
+1110,The Green Bowl,Mexican,Delhi,3.6,1800,1048
+1111,Veggie Tales,Japanese,Kolkata,3.7,1950,1381
+1112,Masala Junction,Japanese,Chennai,3.7,1200,1444
+1113,Curry Leaf,Continental,Mumbai,4,1000,400
+1114,Olive Tree,Mediterranean,Jaipur,4.1,1150,2000
+1115,Coastal Catch,Japanese,Jaipur,4.6,650,1255
+1116,Olive Tree,Mediterranean,Chennai,3.6,2250,1561
+1117,Royal Tandoor,Cafe,Kolkata,5,2150,1404
+1118,Sushi Garden,Japanese,Pune,3.6,1100,544
+1119,Steak Story,Mexican,Hyderabad,3.2,2100,808
+1120,Dragon Hut,Mexican,Jaipur,3.6,2250,2198
+1121,Noodle Bar,Continental,Delhi,4.7,1300,981
+1122,Sushi Garden,Italian,Pune,3,2100,568
+1123,Curry Leaf,Indian,Mumbai,4.1,800,2060
+1124,Taco Fiesta,Indian,Pune,3.9,1800,1445
+1125,Masala Junction,Indian,Pune,4.9,1900,517
+1126,Café Aroma,Mediterranean,Jaipur,3.1,2400,269
+1127,The Grill Room,Italian,Pune,3.2,1150,535
+1128,Burger Town,Mediterranean,Chennai,4.6,1600,1895
+1129,Pasta Punto,Continental,Kolkata,3.6,2350,296
+1130,Noodle Bar,Chinese,Chennai,4.3,1200,382
+1131,Masala Junction,Mexican,Bangalore,4.1,900,60
+1132,Smokehouse Deli,Japanese,Jaipur,3.6,1100,1230
+1133,Pizza Plaza,Continental,Jaipur,3.1,1100,1133
+1134,Coastal Catch,Mexican,Kolkata,3.2,1100,660
+1135,Curry Leaf,Italian,Delhi,3.1,1350,2487
+1136,Steak Story,Continental,Jaipur,3.2,1350,1698
+1137,Curry Leaf,Japanese,Jaipur,3.2,500,1819
+1138,Steak Story,Cafe,Pune,3.1,1100,2406
+1139,Kebab Corner,Indian,Pune,4.2,950,1977
+1140,Asian Delight,Japanese,Pune,3.4,2250,1835
+1141,Coastal Catch,Japanese,Delhi,3.9,1700,1415
+1142,The Green Bowl,Chinese,Bangalore,3.7,1950,1230
+1143,The Coffee House,Mediterranean,Mumbai,3.9,1400,1083
+1144,The Green Bowl,Chinese,Kolkata,4.7,400,2272
+1145,Pasta Punto,Mediterranean,Mumbai,3.4,1550,2091
+1146,Coastal Catch,Japanese,Mumbai,3.4,2150,586
+1147,Bella Italia,Japanese,Jaipur,3.2,2400,1030
+1148,Pizza Plaza,Italian,Pune,4.1,2150,1721
+1149,Café Aroma,Mexican,Delhi,3.9,750,680
+1150,Royal Tandoor,Continental,Pune,3.8,1900,1984
+1151,Olive Tree,Japanese,Bangalore,3.8,2300,2131
+1152,Steak Story,Italian,Delhi,3.6,1700,1442
+1153,Asian Delight,Continental,Mumbai,3.6,1350,2454
+1154,Kebab Corner,Japanese,Bangalore,3.9,1900,1463
+1155,The Green Bowl,Mediterranean,Jaipur,4.9,1000,1028
+1156,Kebab Corner,Mediterranean,Chennai,4.7,1700,228
+1157,The Green Bowl,Japanese,Kolkata,3.8,2450,673
+1158,Royal Tandoor,Indian,Bangalore,4,2250,1409
+1159,Taco Fiesta,Japanese,Delhi,4.1,1850,112
+1160,Steak Story,Italian,Kolkata,4.7,850,356
+1161,Royal Tandoor,Continental,Hyderabad,4.2,1650,378
+1162,The Green Bowl,Mediterranean,Hyderabad,4.3,1950,2266
+1163,Urban Bites,Chinese,Chennai,4.3,1300,981
+1164,Steak Story,Chinese,Kolkata,5,2400,461
+1165,Pasta Punto,Italian,Pune,4.8,500,1378
+1166,Urban Bites,Continental,Hyderabad,3.7,850,1050
+1167,Asian Delight,Mediterranean,Bangalore,3.3,650,1616
+1168,Noodle Bar,Mexican,Jaipur,4.8,850,1001
+1169,Pasta Punto,Continental,Jaipur,3.5,400,1955
+1170,Bella Italia,Italian,Delhi,3.9,1500,2456
+1171,Bella Italia,Mediterranean,Pune,3.9,1350,865
+1172,Biryani Express,Japanese,Delhi,3.5,2200,1520
+1173,Kebab Corner,Continental,Pune,3,1650,1174
+1174,Spice Villa,Indian,Jaipur,4.7,1300,992
+1175,Noodle Bar,Cafe,Chennai,4.3,2350,1076
+1176,The Coffee House,Italian,Delhi,4.8,2450,211
+1177,Bella Italia,Japanese,Mumbai,4.2,800,419
+1178,Bella Italia,Cafe,Kolkata,3.4,800,2259
+1179,Sushi Garden,Continental,Bangalore,3.5,1900,1258
+1180,Steak Story,Cafe,Delhi,3.9,600,626
+1181,Veggie Tales,Mexican,Kolkata,4.9,2150,1548
+1182,Café Aroma,Mediterranean,Mumbai,3.5,750,1912
+1183,Sushi Garden,Continental,Kolkata,4.6,1550,493
+1184,The Coffee House,Mexican,Jaipur,3.1,2150,1393
+1185,Noodle Bar,Mexican,Delhi,4.3,1850,1287
+1186,Coastal Catch,Mediterranean,Delhi,3.3,500,1296
+1187,Royal Tandoor,Chinese,Delhi,3.5,2100,605
+1188,Biryani Express,Japanese,Hyderabad,4.3,2100,1766
+1189,Kebab Corner,Italian,Kolkata,4.3,1950,1721
+1190,Curry Leaf,Indian,Hyderabad,3.4,1800,1017
+1191,Sushi Garden,Chinese,Hyderabad,4.1,2450,1519
+1192,Urban Bites,Mediterranean,Pune,3.4,750,1912
+1193,Café Aroma,Mexican,Mumbai,3.1,1450,1047
+1194,The Grill Room,Mexican,Delhi,4.7,2150,898
+1195,Kebab Corner,Mexican,Chennai,3.7,850,2491
+1196,Spice Villa,Continental,Bangalore,5,2100,1076
+1197,Masala Junction,Chinese,Mumbai,3.3,1500,1024
+1198,Kebab Corner,Cafe,Mumbai,3.3,550,569
+1199,Steak Story,Mediterranean,Delhi,4.5,1900,1886
